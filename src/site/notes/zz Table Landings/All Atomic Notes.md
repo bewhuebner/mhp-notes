@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zz-table-landings/all-atomic-notes/"}
+{"dg-publish":true,"permalink":"/zz-table-landings/all-atomic-notes/","contentClasses":"cards cards-cover cards-cover-no-border"}
 ---
 
 | File                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
