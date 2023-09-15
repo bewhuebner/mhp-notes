@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/much-island-life-in-the-neolithic-mediterranean-began-as-farming-made-second-best-island-places-more-tolerable/"}
+---
+
+“The likely answer as to why people now started to live more on islands is a very prosaic one. People simply moved out to them as populations on the mainlands rose, the best niches became ancestrally held by others, and as communities periodically split and went their separate ways. In short, much island life began as an infilling of second-best but, with farming, now tolerable places, comparable to what we shall see in other outlying parts of the Mediterranean lowlands.” ([Broodbank, 2013, p. 215](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=201&annotation=VXELVAE5)) 
