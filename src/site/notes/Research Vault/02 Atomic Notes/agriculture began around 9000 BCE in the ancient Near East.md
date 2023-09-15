@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/agriculture-began-around-9000-bce-in-the-ancient-near-east/"}
+---
+
+“Agriculture originated in the ancient Near East around 9000 B.C.E. and marked a revolutionary change in people’s lives. Whereas previously their subsistence had come from hunting and gathering, the raising of crops combined with the domestication of animals (another innovation), caused them to live a more settled rather than a nomadic existence. Mesopotamia, with its fertile soil and abundant water, offered the ideal environment for such a settled life to flourish, and small communities gradually grew to the size of cities. Thus the discovery of agriculture promoted the birth of urban civilization. The chief crop in the valleys of the Tigris and Euphrates was grain, especially barley and emmer wheat, and the herb which yielded sesame seeds.” ([Bertman, 2003, p. 244](zotero://select/library/items/YPMHZBXL)) ([pdf](zotero://open-pdf/library/items/X3CHJ4P3?page=257&annotation=VB5FIAUV))
