@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/ancient-mesopotamia-lacked-local-natural-resources/"}
+---
+
+“Mesopotamians had virtually no wood stocks except for palm trees, whose trunks have soft, pithy interiors, so they had to obtain planking from elsewhere. The nearest plentiful sources were on the Indian coast, beyond the Gulf of Oman, on the other side of the Arabian Sea. For this reason, we can reasonably assume that both wooden boatbuilding and coasting along the shores of the Arabian Sea began in a place where boatbuilding timber of all kinds abounded—along western Indian shore” ([Fagan, 2012, p. 118](zotero://select/library/items/YUMUCT4Z)) ([pdf](zotero://open-pdf/library/items/IL7KTQZ2?page=118&annotation=94UND3R8))
+
+“The region around Ur was as flat as the sea, a dry sea, stretching in all directions. The flatness of the landscape was relieved only by the levees of the rivers and canals and by the palm trees and tells that marked the places where villages and towns had been located since before the beginning of history. The land was rich in some ways, rich in fertile soil and river water, but poor in others. Like the area around Mari, it had no mineral deposits or ores. Southern Mesopotamia didn’t even have building stone or timber for construction.” ([Podany, 2012, p. 40](zotero://select/library/items/GN73GMNP)) ([pdf](zotero://open-pdf/library/items/LXNK9GFK?page=65&annotation=WHUJ3P7P))
