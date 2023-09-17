@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maritime-history-podcast/02-episodes/series-1-the-bronze-age/001-a-maritime-prehistory-of-the-mediterranean/"}
+{"dg-publish":true,"permalink":"/maritime-history-podcast/02-episodes/series-1-the-bronze-age/001-a-maritime-prehistory-of-the-mediterranean/","contentClasses":"fnote"}
 ---
 
 tags: #podcastepisode
