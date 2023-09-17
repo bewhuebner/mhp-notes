@@ -52,6 +52,7 @@ body {
     }
     
 .cards {
+      --content-font-size: 1.4rem;
         table.dataview {
             width: var(--table-width);
         }
@@ -64,8 +65,6 @@ body {
             a.tag {
                 padding: 3px !important;
             }
-             font-size: var(--content-font-size);
-        --font-text-size: 1.5rem; 
         }
         table.dataview.table-view-table {
             thead.table-view-thead {
@@ -95,6 +94,7 @@ body {
     }
 
     .cards-cover-no-border {
+          --content-font-size: 1.4rem;
         table.dataview.table-view-table {
             tbody {
                 tr {
@@ -120,6 +120,7 @@ body {
     }
 
     .cards-title-hide-icons {
+          --content-font-size: 1.4rem;
         table.dataview.table-view-table {
             tbody {
                 tr {
