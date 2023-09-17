@@ -1,5 +1,28 @@
 body {
 
+    --content-font-size: 1.2rem;
+    .timestamps {
+        margin-top: 10px;
+    }
+    .backlink-list {
+        max-height: unset;
+    }
+    .content {
+        max-width: 900px;
+        font-size: var(--content-font-size);
+        --font-text-size: 1.4rem;
+    }
+    @media (min-width: 800px) {
+        .content {
+            padding-right: 90px;
+        }
+    }
+    @media (min-width: 1500px) {
+        .content.note-gallery {
+            max-width: 1200px;
+        }
+    }
+     
      h1 {
         font-size: 2.5em !important; /* 40px/16=2.5em */
         img {
