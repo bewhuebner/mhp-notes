@@ -139,5 +139,39 @@ body {
     pre[class*="language-"] {
         text-shadow: unset;
     }
- 
+
+  .fnote {
+        display: none;
+        background-color: var(--background-primary);
+        border: 1px solid var(--text-accent);
+        position: fixed;
+        bottom: 10px;
+        left: 0;
+        right: 0;
+        padding: 10px;
+        text-align: center;
+        z-index: 999;
+    }
+
+    .footnote-ref {
+        line-height: 85%;
+
+        .fnote-marker {
+            background-color: var(--text-accent);
+            padding: 2px 5px;
+            color: white;
+            border-radius: 4px;
+            text-decoration: none;
+            font-size: 0.7em;
+            margin-top: -3px;
+            &:hover {
+                opacity: 0.7;
+            }
+        }
+    }
+
+    .shownote {
+        display: block;
+    }
+     
 }
