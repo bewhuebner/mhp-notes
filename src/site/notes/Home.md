@@ -4,46 +4,69 @@
 
 Ahoy crew! This hidden corner of the website is an outlet where my ongoing research, notes, writing, and thoughts are accessible to you all. Below you will find links to the books and journal articles that make up the source material for the podcast.
 
+In the left sidebar, all links are available in one folder or another. You can find individual sources, landings for sources by type, and more.
+
 Dive in to a particular book to see the passages that I've highlighted, or read episode transcripts where all sources appear as hyperlinks. Hovering over these will pop up the passage the supports the statement, along with any citation info and (potentially) related sources and passages.
 
 The app that feeds this info is where I do all research and writing, so it will be constantly updated with (roughly) real-time insight into what I am researching and writing currently.
 
 Thanks for your continued support and listenership!
 
-| cover                                                             | author            | link(file.link, aliases)                                                                                                                                                       |
-| ----------------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![](https://m.media-amazon.com/images/I/91Id2S35ZwL._SL1500_.jpg) | Paine, Lincoln    | <ul><li>[[Research Vault/01 Sources/01.01 Books/@PaineSeaCivilizationMaritime2013.md\\|The Sea and Civilization: A Maritime History of the World]]</li></ul>                   |
-| ![](https://m.media-amazon.com/images/I/61g9Jws4k9L._SL1500_.jpg) | Wilkinson, Toby   | [[Research Vault/01 Sources/01.01 Books/@WilkinsonRiseFallAncient2010\|The Rise and Fall of Ancient Egypt]]                                                                 |
-| ![](https://m.media-amazon.com/images/I/61cvX+77YSL._SL1169_.jpg) | Thesiger, Wilfred | [[Research Vault/01 Sources/01.01 Books/@ThesigerMarshArabs1967\|The Marsh Arabs]]                                                                                          |
-| ![](https://m.media-amazon.com/images/I/81h5H7XRaXL._SL1360_.jpg) | Podany, Amanda    | <ul><li>[[Research Vault/01 Sources/01.01 Books/@PodanyBrotherhoodKingsHow2012.md\\|Brotherhood of Kings: How International Relations Shaped the Ancient Near East]]</li></ul> |
-| ![](https://m.media-amazon.com/images/I/61yetD2aanL._SL1000_.jpg) | Plato             | [[Research Vault/01 Sources/01.04 Classical Source/@PlatoPhaedo\|Phaedo]]                                                                                                   |
-| ![](https://m.media-amazon.com/images/I/51pCfd9PwxL.jpg)          | Morris, Ellen     | [[Unprocessed Zot Notes/@MorrisAncientEgyptianImperialism2018\|Ancient Egyptian Imperialism]]                                                                               |
+# Episodes Transcripts
+
+| cover                                                                                         | File                                                                                                                                                                     |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![](https://res.cloudinary.com/ducqxvol0/image/upload/v1694658433/001_Final_Cover_yiabon.png) | [[Maritime History Podcast/02 Episodes/Series 1 - The Bronze Age/001 - A Maritime Prehistory of the Mediterranean\|001 - A Maritime Prehistory of the Mediterranean]] |
+| ![](https://res.cloudinary.com/ducqxvol0/image/upload/v1694658376/002_Final_Cover_r10lra.png) | [[Maritime History Podcast/02 Episodes/Series 1 - The Bronze Age/002 - Boating in Ancient Mesopotamia\|002 - Boating in Ancient Mesopotamia]]                         |
+| ![](\-)                                                                                       | [[Maritime History Podcast/02 Episodes/Series 1 - The Bronze Age/003 - Predynastic Boating in Egypt's Desert\|003 - Predynastic Boating in Egypt's Desert]]           |
 
 { .block-language-dataview}
-# Reading
-- 📚 Books
-	- [[zz Table Landings/All Books\|All Books]]
-	- [[zz Table Landings/Currently Reading Book\|Currently Reading Book]]
-	- [[zz Table Landings/Finished Books\|Finished Books]]
-	- [[zz Table Landings/Percolating Books\|Percolating Books]]
-	- [[zz Table Landings/Future Books\|Future Books]]
-- 📄 Journal Articles
-	- [[zz Table Landings/All Articles\|All Articles]]
-	- [[zz Table Landings/Currently Reading Articles\|Currently Reading Articles]]
-	- [[zz Table Landings/Finished Articles\|Finished Articles]]
-	- [[zz Table Landings/Percolating Articles\|Percolating Articles]]
-	- [[Future Articles\|Future Articles]]
 
+# Recently Updated Books
 
- # Podcast Episodes
-- 🎙️ Transcripts
-	- [[Maritime History Podcast/02 Episodes/Series 1 - The Bronze Age/Series 01 - The Bronze Age\|Series 01 - The Bronze Age]]
-	- [[Series 2\|Series 2]]
+| cover                                                             | author               | link(file.link, aliases)                                                                                                                                                       |
+| ----------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![](https://m.media-amazon.com/images/I/91Id2S35ZwL._SL1500_.jpg) | Paine, Lincoln       | <ul><li>[[Research Vault/01 Sources/01.01 Books/@PaineSeaCivilizationMaritime2013.md\\|The Sea and Civilization: A Maritime History of the World]]</li></ul>                   |
+| ![](https://m.media-amazon.com/images/I/61g9Jws4k9L._SL1500_.jpg) | Wilkinson, Toby      | [[Research Vault/01 Sources/01.01 Books/@WilkinsonRiseFallAncient2010\|The Rise and Fall of Ancient Egypt]]                                                                 |
+| ![](https://m.media-amazon.com/images/I/61cvX+77YSL._SL1169_.jpg) | Thesiger, Wilfred    | [[Research Vault/01 Sources/01.01 Books/@ThesigerMarshArabs1967\|The Marsh Arabs]]                                                                                          |
+| ![](https://m.media-amazon.com/images/I/81h5H7XRaXL._SL1360_.jpg) | Podany, Amanda       | <ul><li>[[Research Vault/01 Sources/01.01 Books/@PodanyBrotherhoodKingsHow2012.md\\|Brotherhood of Kings: How International Relations Shaped the Ancient Near East]]</li></ul> |
+| ![](https://m.media-amazon.com/images/I/61yetD2aanL._SL1000_.jpg) | Plato                | [[Research Vault/01 Sources/01.04 Classical Source/@PlatoPhaedo\|Phaedo]]                                                                                                   |
+| ![](https://m.media-amazon.com/images/I/51zROGHcIiL.jpg)          | Norwich, John Julius | [[Research Vault/01 Sources/01.01 Books/@NorwichMiddleSeaHistory2007\|The Middle Sea: A History of the Mediterranean]]                                                      |
+| ![](https://m.media-amazon.com/images/I/51pCfd9PwxL.jpg)          | Morris, Ellen        | [[Unprocessed Zot Notes/@MorrisAncientEgyptianImperialism2018\|Ancient Egyptian Imperialism]]                                                                               |
+| ![](https://m.media-amazon.com/images/I/51R3Vu32LJL.jpg)          | McGrail, Sean        | <ul><li>[[Research Vault/01 Sources/01.01 Books/@Mcgrailboatsworldstone2002.md\\|Boats of the World: From the Stone Age to Medieval Times]]</li></ul>                          |
 
-# Research
-- ⚛️  Atomic Notes
-	- [[zz Table Landings/All Atomic Notes\|All Atomic Notes]]
-- ⚓  TIMH
-	- [[TIMH Landing\|TIMH Landing]]
-- ⏳ General Timeline
-	- [[Timeline\|Timeline]]
+{ .block-language-dataview}
+
+# Recently Updated Articles
+
+| cover                                                                                                                     | author                                                                 | link(file.link, aliases)                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://res.cloudinary.com/ducqxvol0/image/upload/v1694744142/Source%20Covers/Pasted_image_20230723175354_vyhyyx.png) | Williams, Bruce, Thomas J. Logan, William J. Murnane                   | [[Unprocessed Zot Notes/@WilliamsMetropolitanMuseumKnife1987\|The Metropolitan Museum Knife Handle and Aspects of Pharaonic Imagery before Narmer]]                                                |
+| ![](https://res.cloudinary.com/ducqxvol0/image/upload/v1694744076/Source%20Covers/Pasted_image_20230723174916_mtmz1o.png) | Vanhulle, Dorian                                                       | [[Unprocessed Zot Notes/@VanhulleBoatSymbolismPre2018\|Boat Symbolism in Pre- and Protodynastic Egypt (ca 4500-2600 B.C.) -- An Ethno-Archaeological Approach]]                                    |
+| ![](https://res.cloudinary.com/ducqxvol0/image/upload/v1694743713/Source%20Covers/Pasted_image_20230723164629_u5bd4v.png) | Lankester, Francis                                                     | [[Unprocessed Zot Notes/@LankesterDesertBoatsPredynastic2013\|Desert Boats - Predynastic and Pharaonic Era Rock-Art in Egypt’s Central Eastern Desert -- Distribution, dating and interpretation]] |
+| ![](https://res.cloudinary.com/ducqxvol0/image/upload/v1694743652/Source%20Covers/Pasted_image_20230722164037_fv1kpb.png) | Josephson, Jack A., Günter Dreyer                                      | [[Unprocessed Zot Notes/@JosephsonNaqadaIIdBirth2015\|Naqada IId - The Birth of an Empire Kingship, Writing, Organized Religion]]                                                                  |
+| ![](https://res.cloudinary.com/ducqxvol0/image/upload/v1694743591/Source%20Covers/Pasted_image_20230722153648_cjgoxp.png) | Huyge, Dirk                                                            | [[Unprocessed Zot Notes/@HuygeCosmologyideologypersonal\|Cosmology, ideology, and personal religious practice in Ancient Egyptian rock art]]                                                       |
+| ![](https://res.cloudinary.com/ducqxvol0/image/upload/v1694743541/Source%20Covers/Pasted_image_20230722162537_kkrkdt.png) | Huyge, Dirk                                                            | [[Unprocessed Zot Notes/@HuygePaintedTombrock2014\|The Painted Tomb, rock art and the recycling of Predynastic Egyptian imagery]]                                                                  |
+| ![](https://res.cloudinary.com/ducqxvol0/image/upload/v1694743492/Source%20Covers/Pasted_image_20230722150753_rzfj4l.png) | Hendrickx, Stan, Merel Eyckerman, John Coleman Darnell, Maria C. Gatto | [[Unprocessed Zot Notes/@HendrickxIconographicPalaeographicElements\|Iconographic and Palaeographic Elements Dating a Dynasty 0 Rock Art Site at Nag el-Hamdulab (Aswan, Egypt)]]                  |
+| ![](https://res.cloudinary.com/ducqxvol0/image/upload/v1694743420/Source%20Covers/hendrickx_2012_iskva3.png)              | Hendrickx, Stan, John Coleman Darnell, Maria Carmela Gatto             | [[Unprocessed Zot Notes/@Hendrickxearliestrepresentationsroyal2012\|The earliest representations of royal power in Egypt - The rock drawings of Nag el-Hamdulab (Aswan)]]                          |
+
+{ .block-language-dataview}
+
+# Recently Added Notes
+
+| File                                                                                                                                                                                                                                                                                                                                                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Research Vault/02 Atomic Notes/A very interesting comparison of the growth of seafaring over the course of Mediterranean history and the maritime administrative units which the Romans divided the sea into\|A very interesting comparison of the growth of seafaring over the course of Mediterranean history and the maritime administrative units which the Romans divided the sea into]] |
+| [[Research Vault/02 Atomic Notes/A great summary of how maritime trade and commerce were at the core of the Mediterranean-wide network in the 7th and 6th centuries BCE\|A great summary of how maritime trade and commerce were at the core of the Mediterranean-wide network in the 7th and 6th centuries BCE]]                                                                               |
+| [[Research Vault/02 Atomic Notes/A gold plated ship was part of the dowry for international marriage alliances in the Amarna Letters\|A gold plated ship was part of the dowry for international marriage alliances in the Amarna Letters]]                                                                                                                                                     |
+| [[Research Vault/02 Atomic Notes/A few artifacts illustrate prehistoric maritime influence from Mesopotamia to Egypt\|A few artifacts illustrate prehistoric maritime influence from Mesopotamia to Egypt]]                                                                                                                                                                                     |
+| [[Research Vault/02 Atomic Notes/9th century BCE Neo-Assyria conquered most of the Levant except for Tyre\|9th century BCE Neo-Assyria conquered most of the Levant except for Tyre]]                                                                                                                                                                                                           |
+| [[Research Vault/02 Atomic Notes/90% of inscribed artifacts from ancient Sumer are administrativeeconomic documents\|90% of inscribed artifacts from ancient Sumer are administrativeeconomic documents]]                                                                                                                                                                                       |
+| [[Research Vault/02 Atomic Notes/6th century BCE Palagruža had a sea-shrine to Diomedes\|6th century BCE Palagruža had a sea-shrine to Diomedes]]                                                                                                                                                                                                                                               |
+| [[Research Vault/02 Atomic Notes/6000s BCE maritime trade does not negate primacy of land trade\|6000s BCE maritime trade does not negate primacy of land trade]]                                                                                                                                                                                                                               |
+| [[Research Vault/02 Atomic Notes/57 percent of Americans do not read a book in an average year, but spend 5.4 hours per day on their phone\|57 percent of Americans do not read a book in an average year, but spend 5.4 hours per day on their phone]]                                                                                                                                         |
+| [[Research Vault/02 Atomic Notes/15th century BCE Theban paintings show tribute to Egypt coming possibly from the Aegean, from people called ‘Keftiu’\|15th century BCE Theban paintings show tribute to Egypt coming possibly from the Aegean, from people called ‘Keftiu’]]                                                                                                                   |
+| [[Research Vault/02 Atomic Notes/13th Dynasty Egypt saw a collapse of long-distance trade\|13th Dynasty Egypt saw a collapse of long-distance trade]]                                                                                                                                                                                                                                           |
+| [[Research Vault/02 Atomic Notes/"Byblos boats" and Egyptian links to the Levant\|"Byblos boats" and Egyptian links to the Levant]]                                                                                                                                                                                                                                                             |
+
+{ .block-language-dataview}
