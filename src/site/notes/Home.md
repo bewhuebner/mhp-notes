@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/home/","contentClasses":"cards cards-cover cards-cover-no-border","tags":["gardenEntry"]}
 ---
 
-![Wide Screen Banner.jpg](/img/user/zz%20Images%20Dump/Wide%20Screen%20Banner.jpg)
-
 Ahoy crew! This hidden corner of the website is an outlet where my ongoing research, notes, writing, and thoughts are accessible to you all. Below you will find links to the books and journal articles that make up the source material for the podcast.
 
 In the left sidebar, all links are available in one folder or another. You can find individual sources, landings for sources by type, and more.
