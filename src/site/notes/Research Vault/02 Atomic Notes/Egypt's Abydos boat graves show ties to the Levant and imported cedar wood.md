@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/egypt-s-abydos-boat-graves-show-ties-to-the-levant-and-imported-cedar-wood/"}
+---
+
+“The Abydos hulls may also affect discussions about early links between Egypt and the Near East. Tombs at Abydos containing North Syrian pottery and beams and planks that Petrie identified as conifers suggest Egyptian contact with the Levantine coast. University of Pennsylvania excavators at Abydos believe the reddish wood of Boat 10 is also from a conifer and report that it was aromatic when brushed.” ([Ward, 2000, p. 42](zotero://select/library/items/Z98WYCE6)) ([pdf](zotero://open-pdf/library/items/UD954MWU?page=52&annotation=G3R2HDMR))
+
+“Thus, the fleet required at least 14,400 kilograms of finished timber to build. Even if the wood used was a locally available acacia or tamarisk, the amount of work involved in the manufacture and joining of planks is comparable to building an elaborate tomb or even one of the massive funerary enclosures looming over the boat graves today. If the boats were built of imported wood such as cedar and juniper, they provide the earliest and strongest testimony to date for direct seaborne Egyptian contact with the Levant.” ([Ward, 2000, p. 42](zotero://select/library/items/Z98WYCE6)) ([pdf](zotero://open-pdf/library/items/UD954MWU?page=52&annotation=4TIJ7SYC))
