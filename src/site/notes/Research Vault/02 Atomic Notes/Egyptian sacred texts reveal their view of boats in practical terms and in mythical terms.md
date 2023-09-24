@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/egyptian-sacred-texts-reveal-their-view-of-boats-in-practical-terms-and-in-mythical-terms/"}
+---
+
+“In addition, the OId Kingdom *Pyramid Texts* and Middle Kingdom *Coffin Texts* each contribute to a comprehensive study of ancient Egyptian watercraft. The Old Kingdom spells allude to thirty-two different types of boats, including celestial vessels sailed by the gods and the stars, earthly boats for the king, boats of divine justice and taxation, transport boats to bring food to the king in the other world, and funerary boats. One study of the boats in the Pyramid Texts focuses on identifying the different names of the boats with determinatives and shows that they are not all to be classed as solar boats.
+
+Spells command a boat to be brought, and the deceased must name the different parts of the hull and compare them to godly images, such as the "ribs of Nephthys," or what seems to be a rope: "Take a *n'w* snake which is with the Controller of the Two Lands and put it in her [the hull], with its head in your hand and its hinder-part in my hand, and we must pull it tight between us in its name of Pain.” ([Ward, 2000, p. 12](zotero://select/library/items/Z98WYCE6)) ([pdf](zotero://open-pdf/library/items/UD954MWU?page=22&annotation=DTV4YIHY))
