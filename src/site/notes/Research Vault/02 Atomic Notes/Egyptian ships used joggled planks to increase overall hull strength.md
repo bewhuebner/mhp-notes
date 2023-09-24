@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/egyptian-ships-used-joggled-planks-to-increase-overall-hull-strength/"}
+---
+
+“Plank edges in watercraft from other places and times are typically straight; Khufu planking edges feature joggles that locked the edges of adjacent planks together as shown in Figure 17. The projecting joggles incline in alternate directions, decreasing longitudinal movement. Long planks tend to bend and hog; joggled edges resisted both hogging and bending by reducing the relative movement between planks. In addition, transverse lashing inside the hull spread any deformation across the entire vessel, reducing the stress on any particular joint. The use of joggled plank edges is critical to understanding how Egyptian ships could withstand the tremendous forces imparted by the transport of massive stone objects or stresses created by waves at sea.” ([Ward, 2000, p. 48](zotero://select/library/items/Z98WYCE6)) ([pdf](zotero://open-pdf/library/items/UD954MWU?page=56&annotation=FH3NYWQA))
