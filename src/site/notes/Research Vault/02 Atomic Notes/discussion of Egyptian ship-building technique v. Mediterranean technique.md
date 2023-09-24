@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/discussion-of-egyptian-ship-building-technique-v-mediterranean-technique/"}
+---
+
+“Because the Khufu vessels were disassembled and the Dashur boats had been taken apart and reassembled with modern tenons, it was not possible to study complete mortise-an-tenon joints in place. Pegged mortise-and-tenon joints in Mediterranean shipbuilding techniques fought lateral and longitudinal slippage; the Egyptian shipwrights knew the benefits of pegs but chose not to use them. No pegs perpendicular to tenons have been recorded from ancient Egyptian watercraft, with the exception of the repair to Lisht plank A-9, but Egyptian carpenters used this type of fastening frequently. Sarcophagi, furniture, and a sledge found with the Dashur boats all have perpendicularly pegged mortise-and-tenon joints. Even the cabin on the Khufu ship used such pegs.” ([Ward, 2000, p. 115](zotero://select/library/items/Z98WYCE6)) ([pdf](zotero://open-pdf/library/items/UD954MWU?page=123&annotation=7ZKMW47K))
+
+“when mortise-and-tenon joints were below the waterline of a hull, Egyptian shipwrights avoided pegging mortise-and-tenon joints perpendicularly in the well-known manner evidenced by the hulls of many Mediterranean ships.” ([Ward, 2000, p. 115](zotero://select/library/items/Z98WYCE6)) ([pdf](zotero://open-pdf/library/items/UD954MWU?page=123&annotation=KXEY7USA))
