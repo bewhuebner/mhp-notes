@@ -33,7 +33,7 @@ Thanks for your continued support and listenership!
 | ![](https://m.media-amazon.com/images/I/61yetD2aanL._SL1000_.jpg) | Plato                | [[Research Vault/01 Sources/01.04 Classical Source/@PlatoPhaedo\|Phaedo]]                                                                                                   |
 | ![](https://m.media-amazon.com/images/I/51zROGHcIiL.jpg)          | Norwich, John Julius | [[Research Vault/01 Sources/01.01 Books/@NorwichMiddleSeaHistory2007\|The Middle Sea: A History of the Mediterranean]]                                                      |
 | ![](https://m.media-amazon.com/images/I/51pCfd9PwxL.jpg)          | Morris, Ellen        | [[Unprocessed Zot Notes/@MorrisAncientEgyptianImperialism2018\|Ancient Egyptian Imperialism]]                                                                               |
-| ![](https://m.media-amazon.com/images/I/51R3Vu32LJL.jpg)          | McGrail, Sean        | <ul><li>[[Research Vault/01 Sources/01.01 Books/@Mcgrailboatsworldstone2002.md\\|Boats of the World: From the Stone Age to Medieval Times]]</li></ul>                          |
+| ![](https://m.media-amazon.com/images/I/51KxuKtrkGL.jpg)          | Mark, Samuel         | <ul><li>[[Research Vault/01 Sources/01.01 Books/@MarkEgyptToMesopotamia1998.md\\|From Egypt to Mesopotamia: A Study of Predynastic Trade Routes]]</li></ul>                    |
 
 { .block-language-dataview}
 
