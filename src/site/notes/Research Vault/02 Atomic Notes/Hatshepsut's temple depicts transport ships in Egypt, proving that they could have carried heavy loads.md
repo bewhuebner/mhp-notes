@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/hatshepsut-s-temple-depicts-transport-ships-in-egypt-proving-that-they-could-have-carried-heavy-loads/"}
+---
+
+![Pasted image 20230923214719.png](/img/user/zz%20Images%20Dump/Pasted%20image%2020230923214719.png)
+
+([pdf](zotero://open-pdf/library/items/UD954MWU?page=116&annotation=G8INBIW9)) ([Ward, 2000, p. 108](zotero://select/library/items/Z98WYCE6))
+
+“Hatshepsut's great temple at Deir el Bahari illustrates the transport of her two great obelisks; the construction of these vessels has been a center of controversy for many years.6 The recent analysis of problems in transporting the Colossi of Memnon points out the advantages of looking at construction techniques in solving such problems.” ([Ward, 2000, p. 108](zotero://select/library/items/Z98WYCE6)) ([pdf](zotero://open-pdf/library/items/UD954MWU?page=116&annotation=EUK4YFH3))
+
+“Techniques used to build the Lisht vessel(s) also would have served the builders of Hatshepsut's barge for carrying two obelisks. A recent evaluation of the different reconstructions of the barge focuses on whether it is possible to build a barge like that of Hatshepsut according to what is known about ancient Egyptian hull construction in order to transport the Colossi of Memnon (c. 720 tons each). Through computer programs, the authors tested the characteristics of two barges, 58 x 5.6 x 20 meters and 70 x 24 x 6 meters, built like Khufu I of cedar planks only 13 centimeters thick. They point out that acacia planks would have provided an even stronger hull and conclude that the Colossi of Memnon could easily have been transported on such a barge.
+
+In other words, a hull built more lightly than an ancient Egyptian shipwright would build it theoretically could carry 1440 tons. Hatshepsut's obelisks probably weighed about 320 tons each and were 30 meters tall. A hull 70 meters long and 24 meters broad, built like cargo carriers as exemplified by the Lisht material with planks 15-20 centimeters thick, supported internally by massive carlings and frames (as Fig. 70) fastened to the protruding beams, could have had an even shallower draft and maximum depth than the tested hull designs. Such a hull could easily carry the weight of the obelisks and would require no complicated engineering that had not already been tested by at least 500 years of shipbuilders before Hatshepsut's time, including the shipwrights who fashioned the Lisht planks.” ([Ward, 2000, p. 128](zotero://select/library/items/Z98WYCE6)) ([pdf](zotero://open-pdf/library/items/UD954MWU?page=136&annotation=WTS8R4WZ))
