@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/boat-transportation-was-efficient-and-central-to-egypt-s-governmental-structure/"}
+---
+
+“Boats transported goods and people so efficiently that Egypt had no significant roads until the Roman era. Naval officers, or at least persons with naval titles, held prominent positions in all areas of government. Work crews, whether working in the turquoise mines of the Sinai or transporting stone from Hatnub, split into SJ, or "gangs." Listed from greatest to least seniority, there were the forward-starboard (imy-wrt), forward-port (tJ-wr), aft-starboard (wJfit), aft-port (nd_st), and steerage, or rudder (jmj-nfrt), gangs. Each of these gangs was divided into two to four subgroups. This ordering of labor may even have , tended to the priesthood, although recent scholarship offers an alternative interpretation of evidence.' ([Ward, 2000, p. 9](zotero://select/library/items/Z98WYCE6)) ([pdf](zotero://open-pdf/library/items/UD954MWU?page=19&annotation=KM592IAM))
