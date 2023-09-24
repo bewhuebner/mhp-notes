@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/early-dynastic-boat-graves-at-abydos-show-the-ties-between-kingship-and-the-sacred-aspect-of-boats-in-egypt/"}
+---
+
+“At Abydos, Early Dynastic tombs demonstrate the large portion of resources devoted to the monuments and cults of the dead. Thousands of perfume-filled stone vases, elaborate jewelry, and other finely crafted objects were buried with each king. The funerary complex at Abydos also includes at least twelve boat graves, each more than 19 meters long, probably dating to Dynasty 1 or 2 (see Ch. 4). The sacred nature of the hulls and the importance of watercraft in the panoply of kingship and ritual are demonstrated by the lack of any secondary burials or buildings in the area until the Middle Kingdom. Even though burial at Abydos enhanced one's chances in the afterlife, a 1200-squre-meter area that included the boat graves was left inviolate for more than one thousand years.” ([Ward, 2000, p. 7](zotero://select/library/items/Z98WYCE6)) ([pdf](zotero://open-pdf/library/items/UD954MWU?page=17&annotation=QWYJCBCJ))
