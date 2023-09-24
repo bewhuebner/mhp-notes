@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/many-timbers-found-in-road-and-ramp-foundations-in-egypt-were-repurposed-boat-planks/"}
+---
+
+“Forty timbers found during recent Metropolitan Museum of Art excavations at Lisht, and more than fifty timbers from much earlier excavations, can be identified as parts of watercraft, broken apart and used as foundations for roadways and ramps around the early Dynasty 12 pyramid of Senwosret I (c. 1950 B.C.). Planks, a frame, and other transverse timbers sculpted from locally available woods demonstrate a previously unknown manner of hull construction using plaited lashing, intricate scarfing of timbers, and deep mortise-and-tenon joints.” ([Ward, 2000, p. 107](zotero://select/library/items/Z98WYCE6)) ([pdf](zotero://open-pdf/library/items/UD954MWU?page=115&annotation=9CBIKEPB))
