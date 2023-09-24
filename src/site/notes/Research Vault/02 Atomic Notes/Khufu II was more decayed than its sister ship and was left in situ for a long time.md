@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/khufu-ii-was-more-decayed-than-its-sister-ship-and-was-left-in-situ-for-a-long-time/"}
+---
+
+“Because the planks from the first excavated boat pit were in such excellent condition, many people were surprised at Khufu II's rather decayed appearance.” ([Ward, 2000, p. 61](zotero://select/library/items/Z98WYCE6)) ([pdf](zotero://open-pdf/library/items/UD954MWU?page=69&annotation=IQFJRZT8))
+
+“This suggests that we were extraordinarily lucky to have recovered one vessel in such excellent condition and that the condition of Khufu II may be influenced by other factors.” ([Ward, 2000, p. 62](zotero://select/library/items/Z98WYCE6)) ([pdf](zotero://open-pdf/library/items/UD954MWU?page=70&annotation=UWV4MQPR))
+
+“The luxury of comparing two such large and stately vessels, built more than 4,500 years ago, is not often granted to archaeologists. The nondestructive documentation of the unexcavated boat pit beside Khufu's pyramid provided a wealth of information. The Supreme Council of Antiquities in Egypt is considering allowing excavation of the now-closed pit; while such an excavation offers much to scientists, the problems of conservation and curating are immense. If excavation is permitted, a truly innovative display could be created by documenting, conserving, and replacing timbers rather than mounting a full-scale reconstruction of a poorly preserved ship. Imagine walking down into the pit, cut so many millennia ago into the limestone plateau, and seeing labeled drawings showing where hull parts, stored in climate-controlled showcases, originally fit on the ship. Then, visitors could walk into the existing museum where the beautifully reconstructed Khufu I continues to amaze all who see it.” ([Ward, 2000, p. 68](zotero://select/library/items/Z98WYCE6)) ([pdf](zotero://open-pdf/library/items/UD954MWU?page=76&annotation=ZCY3CNAX))
