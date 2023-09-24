@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/egyptian-boat-models-and-images-are-magical-connections-to-divine-boats/"}
+---
+
+“Recent scholarship concerning the purpose of boat models and representations suggests that they served to connect magically the deceased with the godly attributes of the pharaoh or to make the gods aware of the virtues of the deceased. One scholar writes: "Nowhere in mortuary literature is it stated that the deceased is to provide any boat, solar or otherwise, for his journey. Indeed, he is always described as using the boats of divinities who already have access to the desired destination." The different boats present in Old Kingdom funerary texts and equipment may have acted as "passports" for the deceased by demonstrating his knowledge of the gods' secrets and thus reinforcing his qualifications to join them.” ([Ward, 2000, p. 2](zotero://select/library/items/Z98WYCE6)) ([pdf](zotero://open-pdf/library/items/UD954MWU?page=12&annotation=28J3LDYM))
