@@ -15,7 +15,29 @@ _ _ _
 
 # 1. Sources and Themes
 
-# 2. Egypt
+# 2. Egypt (14)
+
+## 2.1 The Delta (14)
+
+## 2.2 Egypt's natural resources (16)
+
+## 2.3 Seafaring (16)
+
+## 2.4 The pre-Pharaonic period (c. 13,000 - 3100 BCE) (17)
+
+## 2.5 Non-plank craft throughout Pharaonic times (20)
+
+## 2.6 Planked craft of the Early Dynastic Period (c. 3100 - 2866 BCE) (23)
+
+## 2.7 Planked boats and ships of the Old Kingdom (c. 2686 - 2160 BCE) (26)
+
+## 2.8 Planked vessels of the Middle Kingdom (c. 2133 - 1786 BCE) (36)
+
+## 2.9 Planked vessels of the New Kingdom (c. 1567 - 1085 BCE) (41)
+
+## 2.10 The Late Dynastic Period (1085 - 332 BCE) (47)
+
+## 2.11 Graeco-Roman times (48)
 
 # 3. Arabia (55)
 
