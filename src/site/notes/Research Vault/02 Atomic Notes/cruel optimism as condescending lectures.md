@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/cruel-optimism-as-condescending-lectures/"}
+---
+
+Sitting in a café in Paris, I thought about what I had seen. There’s no point giving people sweet self-help lectures about the benefits of unplugging unless you give them a legal right to do it. In fact, lecturing about the benefits of unwinding to people whose bosses don’t allow them to unwind becomes a kind of maddening taunt—it’s like lecturing famine victims on how they’d feel better if they had dinner at the Ritz. If you have an independent fortune and you don’t need to work, then you can probably make these changes now. But for the rest of us, we need to be part of a collective struggle in order to reclaim the time and space that has been taken from us—so we can finally rest, and sleep, and restore our attention. ([Location 3035](https://readwise.io/to_kindle?action=open&asin=B093G9TS91&location=3035))
