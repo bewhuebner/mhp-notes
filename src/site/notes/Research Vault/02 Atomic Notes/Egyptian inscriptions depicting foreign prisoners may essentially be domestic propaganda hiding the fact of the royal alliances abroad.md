@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/egyptian-inscriptions-depicting-foreign-prisoners-may-essentially-be-domestic-propaganda-hiding-the-fact-of-the-royal-alliances-abroad/"}
+---
+
+“It’s odd, though, that Amenhotep didn’t brag in his inscriptions on the walls of his palaces and temples about the peace he perpetuated through diplomacy. He clearly benefited from it, and seems to have been actively pursuing alliances around the Mediterranean and the Near East. But the only list of his allies on his official inscriptions was in a collection of place names where Babylonia, Alashiya, Arzawa, Hatti, and Mittani were inscribed on a statue base, each with the picture of a bound prisoner above it. There is no indication that these were allies; the images of prisoners almost suggest that these were conquered lands and subject peoples.” ([Podany, 2012, p. 195](zotero://select/library/items/GN73GMNP)) ([pdf](zotero://open-pdf/library/items/LXNK9GFK?page=220&annotation=RHWQLD83))
