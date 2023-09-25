@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/central-and-west-mediterranean-shipwrecks-circa-600-bce-show-the-boom-in-wider-maritime-trade/"}
+---
+
+“In both the west and central Mediterranean, a boom in marine transport is affirmed by the first tangible horizon of wrecks. Best known is that of a vessel that met its end off Giglio around 600 BCE, with a cargo just as diverse as those of the Bronze Age, including iron and lead ingots, Etruscan *bucchero* pottery, Corinthian perfume flasks, musical instruments and a writing tablet. Others include the remains of a ship that foundered near Gela in Sicily, most notable for a hull still built using the antiquated lashed technique (and further writing apparatus), finds off Spain and the Balearics, and an Iron Age equivalent of the Gelidonya ship, wrecked on the Rochelongue off Agde in southern France while transporting scrap metal.” ([Broodbank, 2013, p. 546-47](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=513&annotation=HIR9AI49))
