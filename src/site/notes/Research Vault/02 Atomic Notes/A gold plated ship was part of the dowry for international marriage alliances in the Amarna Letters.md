@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/a-gold-plated-ship-was-part-of-the-dowry-for-international-marriage-alliances-in-the-amarna-letters/"}
+---
+
+“The 1,200 minas of gold weren’t in bullion, though. They were fashioned into hundreds of objects, including jewelry, goblets, containers, boxes, and knives, along with much larger gold-plated items: four chariots, two beds, six thrones, three chairs, and even “one ship, of cedar, overlaid with gold, along with all its gear, and six small ships that one tows.” These seem to have been full-size ships that could be sailed on the river. They must have been dismantled for transport to Babylonia, since there was no way to sail there.” ([Podany, 2012, p. 220](zotero://select/library/items/GN73GMNP)) ([pdf](zotero://open-pdf/library/items/LXNK9GFK?page=245&annotation=8AN4KQ9Z))
