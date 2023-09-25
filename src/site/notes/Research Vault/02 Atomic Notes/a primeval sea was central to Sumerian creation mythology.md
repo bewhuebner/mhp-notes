@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/a-primeval-sea-was-central-to-sumerian-creation-mythology/"}
+---
+
+“From these basic facts concerning the structure of the universe -facts which seemed to the Sumerian thinkers obvious and indisputable—they evolved a cosmogony to fit. First, they concluded, there was the [[primeval sea\|primeval sea]]; the indications are that they looked upon the sea as a kind of first cause and prime mover, and they never asked themselves what preceded the sea in time and space. In this primeval sea was somehow engendered the universe (that is, "heaven-earth"), consisting of a vaulted heaven superimposed over a flat earth and united with it.” ([Kramer, 1963, p. 113](zotero://select/library/items/TI24BNVH)) ([pdf](zotero://open-pdf/library/items/EY8R4485?page=113&annotation=L5FYPDER))
