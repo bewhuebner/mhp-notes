@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/durability-of-lapis-lazuli-makes-it-a-good-indicator-of-trade-activity/"}
+---
+
+“Lapis lazuli is also important because of its durability. Gold and silver are poor markers to discern trade routes because they are valuable metals that are usually melted  down and reused. Silver and copper corrode in most environments and seldom survive in the archaeological record. In contrast, lapis lazuli was mainly carved into  small beads and more rarely stamp seals; the statuette described above is very rare. Beads are too small to be reworked and are more likely to be overlooked when  robbing a grave. If lapis lazuli was brought to a site in even relatively small amounts, then it is likely that these stones will survive in the archaeological record. The lack  of lapis lazuli at so many sites suggests direct contact between sites or regions where lapis lazuli is plentiful.” ([Mark, 1998, p. 42](zotero://select/library/items/KAD9XH5N)) ([pdf](zotero://open-pdf/library/items/UV7SU7ME?page=51&annotation=UAQVTSKU))
