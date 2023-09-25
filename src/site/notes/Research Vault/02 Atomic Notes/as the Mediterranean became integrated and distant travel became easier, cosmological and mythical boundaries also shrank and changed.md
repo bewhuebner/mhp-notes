@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/as-the-mediterranean-became-integrated-and-distant-travel-became-easier-cosmological-and-mythical-boundaries-also-shrank-and-changed/"}
+---
+
+“Despite jealous guarding of the local associations of particular myths throughout antiquity, the shrinking sea and closer acquaintance with its surrounding inhabitants by growing numbers of highly mobile individuals inexorably banished exotic or mythic realms from simply the next sub-basin over, or (an old favourite) the Nile Valley, to more distant parts of Asia, Africa, Europe or an *ultima thule* in the Atlantic. The vagueness of the Odyssey’s fabulous physical and cultural geography west of the Aegean reflects a transitional moment in this process, and in a sense marked a Mediterranean ending.” ([Broodbank, 2013, p. 573](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=539&annotation=MU8F3KFH))
