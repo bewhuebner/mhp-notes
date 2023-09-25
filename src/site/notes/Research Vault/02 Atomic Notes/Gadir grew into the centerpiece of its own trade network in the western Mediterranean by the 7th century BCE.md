@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/gadir-grew-into-the-centerpiece-of-its-own-trade-network-in-the-western-mediterranean-by-the-7th-century-bce/"}
+---
+
+“By the 7th century BCE, however, Gadir had evolved another face, as the hub of an independent maritime circuit centred on the strait, both sides of which were peppered with Phoenician outposts. This reached back through the Pillars of Melqart to the Alboran Sea, but equally out into the tidal reaches of the inner Atlantic. Such shifts in the Phoenician west tend to be explained as reactions to the mounting woes of Tyre, but were more a result of the new regional dynamics that ensued once a new participant had been set up in a favourable position. In this case, Gadir’s outposts extended along the Atlantic facade for a staggering total of 1400 km (870 miles) north and south of Gibraltar.” ([Broodbank, 2013, p. 573](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=539&annotation=9RKIFN5W))
