@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/greek-colonization-from-euboea-corinth-and-megara-competed-for-control-on-sicily-with-syracuse-as-a-prime-example/"}
+---
+
+“Simultaneously, a rash of competitive ventures initiated from Euboea, Corinth and its neighbour and rival, Megara, sprang up at the other end of Sicily, astride the Messina-strait trunk route into the Tyrrhenian Sea. Only once the best nodes there had been spoken for did copycat efforts spread to other niches.
+
+At Syracuse a group spearheaded by Corinthians expelled a local village from the islet of Ortygia, and soon began to push aggressively inland, to the detriment of nearby Pantalica – markedly faster than was normal in such situations, where a lag of one to three centuries would emerge as the norm, and undoubtedly an entirely new kind of behaviour for a Sicilian coastal entrepôt. Elsewhere in the interior, native hilltop villages survived, either, as at Monte Polizzo in the far west, in cultural dialogue with coastal enclaves or, like Sant’Angelo Muxaro and Lentini, for the present protected by Sicily’s rugged depths. Nearly a tonne of weapons and ingots found at Mendolito on the slopes of Etna are plausibly linked to the local cult of a volcano god that only later gained Hephaestian associations.
+
+“As expected of a rising star at sea, Corinth secured its presence near the Strait of Otranto, primarily through a dependency on Corfu, whose later insubordination we came across in the context of the changing face of naval engagements. Cumulatively, the establishment of a new enclave in Sicily or southern Italy every two to three years over the last third of the 8th century BCE is unmatched anywhere in the Mediterranean save, perhaps, in Andalusia.” ([Broodbank, 2013, p. 529-30](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=496&annotation=AEH5Z25W))
