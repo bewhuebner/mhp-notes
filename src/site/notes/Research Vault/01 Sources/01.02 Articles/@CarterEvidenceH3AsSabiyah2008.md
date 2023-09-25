@@ -33,6 +33,7 @@ _ _ _
 
 
 
+
 ### Ubaid pottery distribution around [[Persian Gulf\|Persian Gulf]] shores
 
 “This evidence principally consists of sites on the eastern side of the Arabian Peninsula bearing Ubaid pottery. Around 40 coastal and inland sites are known from the Central Gulf region (Oates et al. 1977) with a further scattering of exclusively coastal sites in Bahrain, Qatar and the Lower Gulf \[Fig. 1\]. Recent discoveries show that Ubaid pottery is distributed as far as the easternmost portions of the Arabian Gulf, in Sharjah, Ajman, Umm al-Qawain and Ras al-Khaimah (Jasim 1996; Haerinck 1991; Uerpmann & Uerpmann 1996: 132).” ([Carter, 2014, p. 92](zotero://select/library/items/95QP46HC)) ([pdf](zotero://open-pdf/library/items/HDYMAYDV?page=3&annotation=IF74TKCM))
@@ -42,6 +43,7 @@ _ _ _
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
 
 
 
@@ -55,11 +57,10 @@ _ _ _
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/research-vault/02-atomic-notes/as-sabiyah-ubaid-boat-model-of-reed-boat/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-### [[As-sabiyah\|As-sabiyah]] ubaid boat model of reed boat
 
 “The model measures 14.5 cm long by 7 cm wide, with a maximum surviving height of just over 5 cm. The tips of the prow and stern were broken off in antiquity, and have not been found: comparable Ubaid-period models from Eridu and al-Ubaid indicate that sometimes they curled round (Lloyd & Safar 1981: Fig. 111; Hall & Woolley 1927: Pl. XLVIII). Certain structural features are evident: pairs of incised undulating lines are visible descending from both sides of the prow and stern; it is unclear whether these join at the centre of the vessel’s sides. These are reminiscent of the wavy lines painted on the sides of the Mashnaqa vessel (Theusen 2000: Fig. 5). If not decorative, they may indicate rope binding the reed bundles, the junction between reed bundles, or the join between different materials.” ([Carter, 2014, p. 95](zotero://select/library/items/95QP46HC)) ([pdf](zotero://open-pdf/library/items/HDYMAYDV?page=6&annotation=NCPCG2UV)) 
 ![Carter2014RobertCarterHarrietCrawfordedMaritimeInteractionsArabianNeolithicEvidenceH3AsSabiyahUbaidRelatedSiteKuwait_F6Y2HYXF.png](/img/user/zz%20Images%20Dump/Carter2014RobertCarterHarrietCrawfordedMaritimeInteractionsArabianNeolithicEvidenceH3AsSabiyahUbaidRelatedSiteKuwait_F6Y2HYXF.png)
@@ -71,6 +72,7 @@ _ _ _
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
 
 
 
@@ -91,11 +93,10 @@ _ _ _
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/research-vault/02-atomic-notes/bitumen-on-mesopotamian-reed-boats/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-### bitumen on mesopotamian reed boats
 
 “Some of the most exciting finds from H3 consist of reed impressed bitumen slabs and fragments, many of which bear barnacles on one side. These are interpreted as the remains of bitumen-coated reed-bundled seafaring boats or ships (see below).” ([Carter, 2014, p. 97](zotero://select/library/items/95QP46HC)) ([pdf](zotero://open-pdf/library/items/HDYMAYDV?page=8&annotation=6QBP7Z73)) 
 “Another interpretation is that the pieces represent the remains of other bitumen-coated reed-bundle structures whose function involves submersion, e.g. fish-traps or fresh-water containers to be towed behind boats.” ([Carter, 2014, p. 98](zotero://select/library/items/95QP46HC)) ([pdf](zotero://open-pdf/library/items/HDYMAYDV?page=9&annotation=QXSIPAQ2))
@@ -120,11 +121,10 @@ _ _ _
  
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/research-vault/02-atomic-notes/as-sabiyah-disc-possible-oldest-depiction-of-sailing-vessel/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-### [[As-sabiyah\|As-sabiyah]] disc - possible oldest depiction of sailing vessel
 
 ==#USE 
 “Another important find consists of a painted ceramic disc, which appears to depict a boat with a bipod mast. This would be the earliest known depiction of a sailing vessel, and settles some of the questions raised above.” ([Carter, 2014, p. 101](zotero://select/library/items/95QP46HC)) ([pdf](zotero://open-pdf/library/items/HDYMAYDV?page=12&annotation=MXSQXIMF))
@@ -133,7 +133,8 @@ _ _ _
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/research-vault/02-atomic-notes/6000s-bce-maritime-trade-does-not-negate-primacy-of-land-trade/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
 
 
 
