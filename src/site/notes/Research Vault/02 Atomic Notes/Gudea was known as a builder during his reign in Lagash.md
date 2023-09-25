@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/gudea-was-known-as-a-builder-during-his-reign-in-lagash/"}
+---
+
+“[[Gudea\|Gudea]] (2141–2122 B.C.E.) The prosperity that had begun in Lagash under Ur-Baba continued during the reign of Gudea. To thank the gods, Gudea restored or rebuilt over a dozen temples, and commissioned multiple stone portraits of himself to communicate his piety. In two statues he sits with the Mesopotamian equivalent of blueprints resting on his lap. His lengthy dedicatory inscriptions embody the apex of classic Sumerian literary style. In the words of Georges Roux: “This young man sitting calmly, a faint smile upon his lips, his hands clasped in front of his chest, the plan of a temple or a foot rule across his knee, is the finest example of a figure unfortunately soon to disappear: the perfect Sumerian ruler, pious, just, cultured, faithful to the old traditions, devoted to his people, filled with love and pride for his city and . . . pacific” (Roux 1992: 168).” ([Bertman, 2003, p. 86](zotero://select/library/items/YPMHZBXL)) ([pdf](zotero://open-pdf/library/items/X3CHJ4P3?page=99&annotation=QTLZVUN7))
