@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/egypt-s-first-and-second-intermediate-periods-compared/"}
+---
+
+Of these three long periods of breakdown in Egyptian history, the first—a sort of cultural revolt, emerging from the depths of the country’s interior, accompanied by an Asiatic invasion and a total breakdown of trade with Byblos on the one hand and the gold-producing countries on the other—was much more pronounced than the second. The Hyksos episode did not produce quite such extensive collapse: the incomers appropriated the economic activity of Lower Egypt without destroying it. Little is known about this activity but we do know that the Delta under Hyksos domination maintained its former links with Syria, Crete, the Levant coast and even with the Hittites. The final and third breakdown, however, spelled the end of an era. ([Location 2230](https://readwise.io/to_kindle?action=open&asin=B004FEFSCC&location=2230)) (Braudel 2001, p. 104) 
