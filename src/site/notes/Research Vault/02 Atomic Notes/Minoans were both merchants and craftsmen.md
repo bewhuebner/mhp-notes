@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/minoans-were-both-merchants-and-craftsmen/"}
+---
+
+Like all seafaring peoples, the Cretans often acted as carriers for others, delivering in foreign ports merchandise which they had not manufactured themselves. But their own import-export trade was nevertheless considerable. Their fine painted pottery has been found in Melos, Aegina, Lernos, Mycenae, Cyprus, Syria and Egypt. They also exported fabrics (their bright colours were sought after in Egypt, the land of white linen), jewels and bronze weapons: the latter have been found in Cyprus where the Cretans went to buy copper, although their own island had a few deposits of it. Their obsidian came from Melos and Yali, and Egypt provided them with many semiprecious stones and amethysts, used for engraved seals. ([Location 2478](https://readwise.io/to_kindle?action=open&asin=B004FEFSCC&location=2478))(Braudel 2001, 117)
