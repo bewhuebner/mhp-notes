@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/cyprus-aegina-and-mycenae-all-show-the-diverse-and-distant-origins-of-material-that-began-to-flow-into-the-aegean-by-the-16th-century-bce/"}
+---
+
+#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 015 - The Advent of the Mycenaean Galley\|(OLD) 015 - The Advent of the Mycenaean Galley]]
+
+“In addition to copper, Cyprus diversified to export its pots to the Levant, Egypt and occasionally the Aegean, while imports increased in the form of seals, metalwork, liquids and an adapted ‘Cypro-Minoan’ version of a script used on Crete. It is odd that Cyprus, so close to the Levant and rich in copper, arose as a major player notably later than more distant, resource-poor Crete. Nonetheless, by 1500 BCE a turnaround that must have been variously exhilarating or alarming for its inhabitants was well on the way to establishing it in a centre-stream position within Mediterranean trade.” ([Broodbank, 2013, p. 368](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=344&annotation=9LAUU933))
+
+“Still closer to the Greek mainland, Aegina established a key trading role independent of Crete, at first as a hub for the Saronic Gulf. It soon accumulated enough wealth to obtain jewelry paralleled at Avaris, and to furnish a rich warrior burial in a deep shaft-like grave – the prototype of a death-style soon taken up by its mainland neighbours.” ([Broodbank, 2013, p. 371](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=347&annotation=4TCYVTYC))
+
+“At Mycenae and a few other places, shaft graves and other burials plot a crescendo in deposition of gold, silver, bronze, fine stones, faience, ostrich egg and other exotica. The diverse, often distant origins of raw materials and finished objects mapped the Aegean, wider east Mediterranean and Europe from a point on their edges where they intersected.” ([Broodbank, 2013, p. 371](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=347&annotation=ZZ6GSAK5))
