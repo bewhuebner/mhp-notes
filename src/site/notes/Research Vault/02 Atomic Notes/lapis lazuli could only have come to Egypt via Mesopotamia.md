@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/lapis-lazuli-could-only-have-come-to-egypt-via-mesopotamia/"}
+---
+
+“Lapis lazuli is important because Badakhshan in Afghanistan is its only known source at this time. Thus, it had to come to Egypt via the same route. . . . Lapis lazuli is important to this study because in Egyptian graves it is usually found in association with other foreign elements, which raises the possibility that they  arrived via the same route.” ([Mark, 1998, p. 38](zotero://select/library/items/KAD9XH5N)) ([pdf](zotero://open-pdf/library/items/UV7SU7ME?page=47&annotation=678FJYH2))
+
+“The Naqada IIc/d period, when lapis lazuli becomes abundant in Egypt, seems to coincide with the appearance of Mesopotamian ''colonies'' in northern Syria, a sharp  decline of lapis lazuli and gold in level IX at Tepe Gawra, and an absence of lapis lazuli in Palestine. Thus, it appears that at this later time the most likely route between  the two areas would be through northern Syria and then by sea to Egypt (fig. 17). This is supported by the discovery of a few pieces of unworked lapis lazuli at the  Mesopotamian colony of Jebel Aruda in northern Syria. A small lapis lazuli figurine, however, is used to lend credence to the possibility of a sea route between the Persian Gulf and Egypt. The figurine comes from  Hierakonpolis and dates to the end of the Predynastic period (fig 18).” ([Mark, 1998, p. 39](zotero://select/library/items/KAD9XH5N)) ([pdf](zotero://open-pdf/library/items/UV7SU7ME?page=48&annotation=YSSUX6XX))
