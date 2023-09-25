@@ -1,5 +1,0 @@
----
-{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-thicker-boat-planks-were-used-on-freight-boats/"}
----
-
-“their thrifty reuse as components of ramps and causeways shows that the Egyptians saw them as utilitarian, not ritual, in nature. This attitude reflects the original function of the Lisht timbers as planks in freight boats. Intricately joggled edges, planks more than half as thick as broad, and fastening types and patterns suggest that the timbers b longed to a sturdy freight vessel. Freighters carried stone from the granite quarries at Aswan to Helwan in Early Dynastic times, and shipbuilders learned early to cope with the problems of stress from heavy loads. As Dieter Arnold has pointed out, a single tone block 1 x 1 x 2 meters weighs about five tons; the elaborate building programs of the ancient Egyptians required efficient freighters. Boats with thick, intricately shaped and interlocking planks, deep mortise-and-tenon fastenings, and lashing fulfilled those requirements.” ([Ward, 2000, p. 107](zotero://select/library/items/Z98WYCE6)) ([pdf](zotero://open-pdf/library/items/UD954MWU?page=115&annotation=6E2P4YB5))
