@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/boats-had-personal-names-in-ancient-sumerian-mythology-and-literature/"}
+---
+
+#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 002 - Surplus Food, Big Buildings, and Power Hungry Lugals\|(OLD) 002 - Surplus Food, Big Buildings, and Power Hungry Lugals]] as reference for boat names and poem
+
+“Enki, for a second time, utters a paean of self-glorification. He begins by exalting the power of his word and command in providing the earth with prosperity and abundance, continues with a description of the splendor of his shrine, the Abzu, and concludes with an account of his joyous journey over the marshland in his magwr-boat, "the ibex of the Abzu," after which the lands of Magan, Dilmun, and Meluhha sent their heavily laden boats to Nippur with rich gifts for Enlil.” ([Kramer, 1963, p. 172](zotero://select/library/items/TI24BNVH)) ([pdf](zotero://open-pdf/library/items/EY8R4485?page=172&annotation=4NAF65NH))
+
+“My magwr-boat, the crown, the 'ibex of the Abzu In its midst there is a great rejoicing. The lofty marshland, my favorite spot, Stretches out its arms to me, bends (?) its neck to me. The kara's drew (?) on (?) the oars in unison, Sing sweet songs, cause the river to rejoice, Nimgirsig, the ensi of my ma[gur-boat], He[ld] the gold scepter [for me], I, Enki, [. . .d] the boat 'ibex of the Abzu/ I, the lord I, Enki, (Approximately five lines missing) .... I would watch over its green cedars (?). The l[ands] of Magan and Dilmun Looked up at me, En[ki], Moored (?) the Dilmun-boat to the ground (?), Loaded the Magan-boat sky high; The magilum-boat of Meluhha Transports gold and silver, Brings them to Nippur for Enlil, the [king] of all the lands."” ([Kramer, 1963, p. 176](zotero://select/library/items/TI24BNVH)) ([pdf](zotero://open-pdf/library/items/EY8R4485?page=176&annotation=RSW37M5N))
