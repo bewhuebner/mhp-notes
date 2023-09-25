@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/maritime-expansion-during-the-middle-kingdom/"}
+---
+
+The Twelfth Dynasty (1938–1755) was the most stable line of kings ever to rule over ancient Egypt. For a period of 180 years, eight monarchs, representing seven generations of a single family, governed the Two Lands. Under their firm control, Egypt prospered materially and culturally. It was the golden age of ancient Egyptian literature, when many of the classics were composed. Craftsmanship reached new heights, with craftsmen creating the most exquisite jewelry to survive from the ancient world. Egypt’s reach and influence were extended more widely than ever before, and in new directions, embracing the Aegean, Cyprus, and Anatolia as well as the Red Sea coast and Nubia. ([Location 2429](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=2429&review=undefined)) (Wilkinson 2010, p. 140)
