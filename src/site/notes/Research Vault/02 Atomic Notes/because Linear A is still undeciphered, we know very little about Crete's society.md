@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/because-linear-a-is-still-undeciphered-we-know-very-little-about-crete-s-society/"}
+---
+
+As for Cretan institutions, I have already referred in passing to the gist of what is known: very little. We know there were priest-kings, palaces, cities, communities of artisans, and seafarers. But the organization of this society remains far more mysterious than that of Babylonia or Egypt. The absence of any written documents is a daunting obstacle (the decipherment of the Linear B tablets did not remedy this, since they consisted almost entirely of inventories, and in any case dated from a late period). The only avenues open to us are religion and art. ([Location 2607](https://readwise.io/to_kindle?action=open&asin=B004FEFSCC&location=2607))(Braudel 2001, 124)
