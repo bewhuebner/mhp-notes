@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/natural-copper-resources-allowed-alashiya-cyprus-to-grow-during-the-bronze-age/"}
+---
+
+“Alashiya had been a trading partner with other kingdoms in the Near East ever since the era of Hammurabi and Zimri-Lim. Over time, Alashiyan copper had become more popular than copper from Magan. With the wealth that came from the copper trade, the villages of Alashiya had grown into towns with elaborate public buildings. These towns were fortified with thick masonry walls, perhaps because of internal battles among different regions of the island. To judge from analysis of the clay used to write the Alashiya letters, the capital city was probably near the Troodos Mountains, which was also the region where copper was mined. With wealth also came administration; the Alashiyans used a writing system known to us as Cypro-Minoan, which is still undeciphered. Some of their scribes even learned the cuneiform script that they needed for writing letters from the king of Alashiya to the pharaoh. If any other documents were written in cuneiform, they haven’t yet been found.  
+Who lived on the island? The Alashiyans weren’t Greeks—Greek invaders didn’t arrive there until a few hundred years later, around the eleventh century BCE.  
+
+To judge from the names of the Alashiyan people that show up in texts from other places, the towns were cosmopolitan, with residents from all over the Near East, speaking Hittite, Hurrian, Egyptian, and Canaanite.” ([Podany, 2012, p. 253](zotero://select/library/items/GN73GMNP)) ([pdf](zotero://open-pdf/library/items/LXNK9GFK?page=278&annotation=9K9SNH8A))
