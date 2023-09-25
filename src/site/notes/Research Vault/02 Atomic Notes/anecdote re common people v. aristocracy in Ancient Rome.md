@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/anecdote-re-common-people-v-aristocracy-in-ancient-rome/"}
+---
+
+Equally revealing is an anecdote about another member of the Scipio family in the second century BCE, Publius Cornelius Scipio Nasica. He was out canvassing one day in a bid to be elected to the office of aedile and was busy shaking the hands of voters (standard procedure, then as now) when he came across one whose hands were hardened by work in the fields. ‘My goodness,’ the young aristocrat joked, ‘do you walk on them?’ He was overheard, and the common people concluded that he had been taunting their poverty and their labour. The upshot, needless to say, was that he lost the election. ([Location 2633](https://readwise.io/to_kindle?action=open&asin=B0108U7IHO&location=2633)) (page 191)
