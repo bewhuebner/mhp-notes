@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/eve-in-biblical-creation-myth-as-tied-to-the-sumerian-word-for-enki-and-the-lady-of-the-rib-nin-ti/"}
+---
+
+“In our Sumerian poem, one of Enki's sick organs is the rib. Now the Sumerian word for "rib" is ti (pronounced tee); the goddess created for the healing of Enki's rib was therefore called in Sumerian Nin-ti, "the Lady of the rib/' But the Sumerian word ti also means "to make live." The name Nin-ti may thus mean "the Lady who makes live" as well as "the Lady of the rib." In Sumerian literature, therefore, "the Lady of the rib" came to be identified with "the Lady who makes live" through what may be termed a play on words. It was this, one of the most ancient of literary pirns, which was carried over and perpetuated in the Biblical paradise story, although there, of course, the pun loses its validity, since the Hebrew words for "rib" and "who makes live" have nothing in common.” ([Kramer, 1963, p. 149](zotero://select/library/items/TI24BNVH)) ([pdf](zotero://open-pdf/library/items/EY8R4485?page=149&annotation=48FH534J))
