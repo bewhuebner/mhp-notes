@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/by-1300-bce-aegean-type-pottery-in-the-central-mediterranean-was-produced-in-italy/"}
+---
+
+“But it was southeast Italy that led the way in the first wheel-thrown pots, both versions of Aegean painted forms and local grey wares, whether fashioned by indigenous or migrant potters. By around 1300 BCE most of the visually Aegean-type pottery in the central Mediterranean was in fact produced in this part of Italy. Nor was this the only uptake. At Broglio di Trebisacce olive cultivation took off, and probably viticulture too, while Coppa Nevigata boasts the earliest donkey in Italy and possibly a purple-dyeing industry. Boundaries were breaking down and wider vocabularies starting to emerge. Over a few turbulent centuries, this process would expand further, from Lebanon to Gibraltar, and the Po to Tunisia. As it culminated to embrace the entire basin, the world of the Middle Sea, so long in the making, would finally come into unified existence.” ([Broodbank, 2013, p. 444](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=412&annotation=6CGLA6M7))
