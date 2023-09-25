@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/crete-s-palatial-society-began-to-break-down-in-the-15th-century-bce/"}
+---
+
+#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 012 - Minoan Thlassocracy\|(OLD) 012 - Minoan Thlassocracy]] AND [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 013 - Akrotiri, Atlantis, and the Thera Eruption\|(OLD) 013 - Akrotiri, Atlantis, and the Thera Eruption]] AND [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 014 - The Amarna Letters and Some Lukkan Pirates\|(OLD) 014 - The Amarna Letters and Some Lukkan Pirates]]
+
+“Beyond, on Crete, the early 15th century BCE witnessed terminal destruction at most palaces. At Zakros, a small and only recently built palace in the east, agricultural storage had devolved to the surrounding town but the flames saved from plunderers caches of copper oxhide ingots, elephant tusks, stone vessels and other fine craft goods, a useful measure of late palatial priorities. Since the Thera eruption’s exoneration from direct responsibility, blame has shifted to internal crises coupled with Knossian aggrandizement, or conquest from the Peloponnese. Several gutted centres were replaced by a large state based at Knossos, which itself fell apart a century later, bringing an atypically early end to Crete’s palatial societies.” ([Broodbank, 2013, p. 409](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=385&annotation=HRX52VXB))
