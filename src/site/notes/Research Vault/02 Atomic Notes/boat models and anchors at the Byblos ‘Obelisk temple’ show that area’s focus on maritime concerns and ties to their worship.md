@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/boat-models-and-anchors-at-the-byblos-obelisk-temple-show-that-area-s-focus-on-maritime-concerns-and-ties-to-their-worship/"}
+---
+
+“Unlike Mesopotamia and Egypt, where temples were usually permanently endowed, the maintenance of the gods’ homes in the Levant was a private, palatial or communal responsibility and commonly reflected the concerns of specific groups of worshippers. In this sense, the boat models, anchors and gilt-bronze men dedicated amidst the diminutive pseudo-Egyptian erections at Byblos’s ‘Obelisk temple’, when compared to the figs, and bones from sheep, goats, plus a few pigs and costly cattle, at the local shrine of a farming village at Tell el-Hayyat in the Jordan Valley, speak volumes about the dominant preoccupations at different points within the Mediterranean landscape.” ([Broodbank, 2013, p. 363](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=339&annotation=N4SC6GXG))
