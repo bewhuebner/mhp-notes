@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/fishing-in-ancient-mesopotamia/"}
+---
+
+“The waters of the Tigris and Euphrates nurtured fish, especially carp, that populated the rivers and their estuaries as well as the canals through which their waters flowed. Sometimes fish were also cultivated in ponds. Nets, spears, and harpoons were the fisherman’s weapons depending on the size and weight of his quarry. Once caught, fish would be immediately cooked to prevent spoilage, or they were salted for later use. Documents show that royal and priestly authorities could control and lease fishing rights to commercial fishermen on the grounds that the waters as well as the land belonged to the state and its gods.” ([Bertman, 2003, p. 247](zotero://select/library/items/YPMHZBXL)) ([pdf](zotero://open-pdf/library/items/X3CHJ4P3?page=260&annotation=YU2MILCZ))
