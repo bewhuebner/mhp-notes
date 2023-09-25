@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/curse-tablets-in-ancient-rome/"}
+---
+
+The only reason we know about the cloak crime in Roman Bath is because people went to the sacred spring of Sulis, the local goddess, and inscribed a curse on the thief on small lead tablets and cast them into the water. Many of these tablets have been discovered, with their angry or desperate messages: ‘Docilianus son of Brucerus to the most holy goddess Sulis, I curse whoever stole my hooded cloak, whether man or woman, slave or free, that the goddess Sulis inflict death on him and not let him sleep or have children now or in the future until he brings my cloak to the temple of her divinity’, as one runs, typical of many. ([Location 6579](https://readwise.io/to_kindle?action=open&asin=B0108U7IHO&location=6579)) (page 465)
