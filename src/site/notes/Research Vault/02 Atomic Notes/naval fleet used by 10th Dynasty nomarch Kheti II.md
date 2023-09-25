@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/naval-fleet-used-by-10th-dynasty-nomarch-kheti-ii/"}
+---
+
+Mentuhotep was helped enormously by unrest in the enemy’s heartland. The new nomarch of Sauty, Kheti II, was encountering serious opposition within his own province. Only a show of force by the crown and the personal attendance of the Herakleopolitan king Merikara allowed the governor’s installation to go ahead. The population of Sauty was starting to think the unthinkable, weighing the advantages of defection to the Theban side. Their embattled nomarch sailed southward at the head of a large fleet, partly as a show of force against the Thebans, partly to prove a point to his own restless population. ([Location 2070](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=2070))(Wilkinson 2010, p. 118-119)
