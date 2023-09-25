@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/egyptian-civil-war-and-the-first-intermediate-period/"}
+---
+
+Confident the Thebans might have been, but their opponents were not about to give up the kingship without a fight. The Egyptian civil war, once formally declared, dragged on for more than a century (2080–1970), coloring the lives of four generations. The martial character of the age is powerfully reflected in the monuments of the time: in tombs, scenes of soldiers are common; on stelae (commemorative slabs), many individuals had themselves shown with bow and arrow in hand; and grave goods often included actual weapons. Never before had Egyptian society been so militarized. It is also unusual that a number of commemorative inscriptions from both sides of the conflict allow us to reconstruct the progress of the war, with its victories and setbacks for the Thebans and Herakleopolitans alike. ([Location 1988](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=1988))(Wilkinson 2010, p. 114)
