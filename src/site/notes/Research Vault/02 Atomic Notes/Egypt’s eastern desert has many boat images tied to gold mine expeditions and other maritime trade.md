@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/egypt-s-eastern-desert-has-many-boat-images-tied-to-gold-mine-expeditions-and-other-maritime-trade/"}
+---
+
+“Moreover, there were major gold mines at Bir Umm Fawakhir in Wadi Hammamat, in Wadi Baramiya, to the east around Bir Dagbag, but also in the desert south of Baramiya (Klemm, Klemm & Marr, 2002-Map 3.7). These mines are all on the Pre-Cambrian basement rock to the east of the sandstone escarpment. Although they are mostly beyond the main EDS/RATS survey area, they are an important feature in the Central Eastern Desert, and north and south of it. There are considerable numbers of pharaonic inscriptions in the wadis which would have been routes to these mines, including ones which contain the word ‘gold,’ and the names and titles of officials who would have had responsibility for gold and other mineral collecting expeditions (Rothe, 2008). There are also boat petroglyphs dateable to the Old, Middle and New Kingdoms.” ([Lankester, 2013, p. 80](zotero://select/library/items/NRXZZPXB)) ([pdf](zotero://open-pdf/library/items/NZ87JA9C?page=112&annotation=K7BQ8JMQ))
+
+==“Images of boats are present at 187 (76%) of sites in the Central Eastern Desert and most of the main wadis have boat images at three-quarters or more sites.== The total number of boat motifs in the corpus is 884.” ([Lankester, 2013, p. 188](zotero://select/library/items/NRXZZPXB)) ([pdf](zotero://open-pdf/library/items/NZ87JA9C?page=220&annotation=376I97QA))
