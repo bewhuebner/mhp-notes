@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/nile-boats-were-central-to-egyptian-religious-ceremony/"}
+---
+
+During the great processions that were a feature of Theban religion in the New Kingdom, this triad of deities became directly accessible to the common people for the first time. On high days and holidays—in particular the Beautiful Festival of the Valley and the annual Festival of Opet—the barque shrines of Amun, Mut, and Khonsu were borne on the shoulders of priests from the great temple of Ipetsut through the crowded Theban streets. Farmers and blacksmiths, as much as scribes and priests, could bask in the warm glow of the divine presence as it passed by. Not only did these spectacles bring color and gaiety to humdrum lives, but the rites also allowed the citizenry to feel more closely allied with the official dogma of the state. As always, pharaonic religion was as much about politics as about piety. ([Location 3740](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=3740))(Wilkinson 2010, p. 225)
