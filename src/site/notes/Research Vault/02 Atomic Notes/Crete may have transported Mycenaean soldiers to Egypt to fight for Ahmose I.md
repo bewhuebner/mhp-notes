@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/crete-may-have-transported-mycenaean-soldiers-to-egypt-to-fight-for-ahmose-i/"}
+---
+
+This parallel rise of Cretan and Mycenaean trade in the sixteenth and fifteenth centuries is sufficient to explain the wealth of the tombs at Mycenae, the abundance of gold objects (the gold came from Egypt) and in particular the amazing gold masks covering the faces of the dead: this was a non-Cretan custom, probably imported, like the gold, from the banks of the Nile. Another hypothesis is that Cretan sailors might have acted as transporters for a mercenary force of Mycenaeans, called in by the pharaoh Amosis in about 1580 B.C., to get rid of the Hyksos from the Delta. These mercenaries may have been identical with the Haunebu, the heavily armed soldiers whose lances, helmets, shields and long swords would have made short work of the Asian intruders. They might have gone home laden with Egyptian gold. But there is no scientific evidence to support this romantic legend. ([Location 2558](https://readwise.io/to_kindle?action=open&asin=B004FEFSCC&location=2558))(Braudel 2001, 121)
