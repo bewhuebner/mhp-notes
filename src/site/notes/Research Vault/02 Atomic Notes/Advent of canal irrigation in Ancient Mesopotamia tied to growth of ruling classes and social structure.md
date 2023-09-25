@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/advent-of-canal-irrigation-in-ancient-mesopotamia-tied-to-growth-of-ruling-classes-and-social-structure/"}
+---
+
+“Irrigation is a complicated process requiring communal effort and organization. Canals had to be dug and kept in constant repair. The water had to be divided equitably among all concerned. To ensure this, a power stronger than the individual landowner or even the single community was mandatory: hence, the growth of governmental institutions and the rise of the Sumerian state. And since Sumer, because of the fertility of the irrigated soil, produced a vast surplus of grain but had practically no metals and very little stone and timber, the state was forced to obtain the material essential to its economy either through trade or military force. So that by the third millenium B.C, there is good reason to believe that Sumerian culture and civilization had penetrated, at least to some extent, as far east as India and as far west as the Mediterranean, as far south as ancient Ethiopia and as far north as the Caspian.” ([Kramer, 1963, p. 5](zotero://select/library/items/TI24BNVH)) ([pdf](zotero://open-pdf/library/items/EY8R4485?page=5&annotation=V4WKHPXB))
+
+#USE in Episode 2 about growth of social structures and ruling classes
