@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/egypt-grows-more-insular-because-of-trade-losses-in-the-21st-dynasty/"}
+---
+
+Furthermore, Paiankh’s protracted war against the viceroy of Kush, Panehsy, signally failed to reestablish Egyptian control of Nubia. With access to the all-important gold mines and the sub-Saharan trade routes lost, Egypt’s economy faltered. The loss of the Near Eastern colonies dealt pharaonic prestige another severe blow, reducing the state’s revenues from Mediterranean commerce. Even if Herihor and Nesbanebdjedet had been able to mobilize the nation’s manpower and resources as in former times, the state’s much-reduced coffers would simply not have supported ambitious building projects. It was all the northern kings could do to demolish the monuments of Per-Ramesses and use the secondhand stone to construct their ceremonial capital. Most of them did not even bother to record their achievements at Thebes, as all their New Kingdom predecessors had done. ([Location 6182](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=6182))(Wilkinson 2010, p. 380)
