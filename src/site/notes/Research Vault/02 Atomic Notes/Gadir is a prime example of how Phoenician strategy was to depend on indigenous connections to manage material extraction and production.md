@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/gadir-is-a-prime-example-of-how-phoenician-strategy-was-to-depend-on-indigenous-connections-to-manage-material-extraction-and-production/"}
+---
+
+“Gadir would soon diversify to become an interface between seas, but trade in silver and other metals back into the Mediterranean was the initial reason for its existence. This explains the close involvement of Tyre in what Tyrians considered a dependency, akin to Kition and Carthage, symbolized by the twin temples of Melqart at Tyre and Gadir, as well as regular sailings between the two islands down the length of the Mediterranean. For the extraction of metal by mining communities like that at Cerro Salomón, with its remains of lamps, picks, bellow nozzles and crucibles, as well as for conveyance from the powerful inland communities to coastal outlets of mixed composition at Huelva and Castillo de Doña Blanca, Gadir was mainly dependent on indigenous power brokers and connections.” ([Broodbank, 2013, p. 525](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=491&annotation=YTQPETLV))
