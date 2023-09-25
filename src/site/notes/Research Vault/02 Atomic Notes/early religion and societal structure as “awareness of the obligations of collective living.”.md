@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/early-religion-and-societal-structure-as-awareness-of-the-obligations-of-collective-living/"}
+---
+
+The entire social structure was thus attached to a religious infrastructure. Without divine commands, without the expert knowledge of the priestly interpreter, who could decipher these messages? Without the sovereign who desired to obey the orders from high, how could life go on? The obedience which was the rule in the first major human societies, Egypt and Mesopotamia, was therefore not simply the product of blind fear, but corresponded to a certain social coherence, one might even say an awareness of the obligations of collective living. Was everything for the best in the best of all possible worlds? We may doubt that in the light of our own sensibilities, but then these are not competent to judge such distant societies. ([Location 1660](https://readwise.io/to_kindle?action=open&asin=B004FEFSCC&location=1660)) (Braudel 2001, p. 73)
