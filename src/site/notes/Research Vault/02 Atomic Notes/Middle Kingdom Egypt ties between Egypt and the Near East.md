@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/middle-kingdom-egypt-ties-between-egypt-and-the-near-east/"}
+---
+
+Close ties between the Egyptians and their Asiatic neighbors were also maintained in the Sinai peninsula, where the local Palestinian rulers provided logistical support to the Egyptian mining expeditions. With friendly relations established, the peaceful immigration of Asiatics into Egypt, especially into the northeastern delta, replaced the forcible resettlement of Asiatic slaves that had taken place earlier in the dynasty. Semitic-speaking Asiatics from the Sinai, with their experience in desert travel, made ideal recruits for Egypt’s paramilitary police force patrolling the Western Desert. Interacting with Egyptian military scribes, they developed a hybrid script for writing their own language—the earliest alphabetic script in history. But the steady buildup of an Asiatic population in the Nile Valley and delta would soon make itself felt in other ways as well, with disastrous consequences for Egypt. ([Location 2763](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=2763))(Wilkinson 2010, p. 160)
