@@ -1,7 +1,0 @@
----
-{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/quartz-hand-axes-dated-before-130-000-bce-have-been-found-on-crete/"}
----
-
-In 2010, the American School of Classical Studies at Athens announced the discovery in Crete of quartz hand-axes dated to before 130,000 BC, indicating that early types of humans found some means to cross the sea, though these people may have been swept there unintentionally on storm debris. (@AbulafiaGreatSeaHuman2013) ([Location 442](https://readwise.io/to_kindle?action=open&asin=B00551S1HI&location=442)) (page 3)
-
-A survey in 2008 and 2009 on the southwestern coast of Crete in the region of Plakias documented 28 preceramic lithic sites.Sites were identified with artifacts of Mesolithic type similar to assemblages from the Greek mainland and islands, and some had evidence of Lower Palaeolithic occupation dated by geological context to at least 130,000 years ago. The long period of separation(more than 5,000,000 years)of Crete from any land mass implies that the early inhabitants of Crete reached the island using seacraft capable of open-sea navigation and multiple journeys - a finding that pushes the history of seafaring on the Mediterranean back by more than 100,000 years and has important implications for the dispersal of early humans.” ([Strasser et al., 2010, p. 145](zotero://select/library/items/HZCUMCFU)) ([pdf](zotero://open-pdf/library/items/65AQJQJG?page=2&annotation=6VS97NXA)) 
