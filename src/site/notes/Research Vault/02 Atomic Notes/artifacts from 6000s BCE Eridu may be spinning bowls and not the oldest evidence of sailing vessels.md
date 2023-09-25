@@ -1,0 +1,17 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/artifacts-from-6000s-bce-eridu-may-be-spinning-bowls-and-not-the-oldest-evidence-of-sailing-vessels/"}
+---
+
+“It has been received wisdom for nearly half a century that 6th-millennium BCE models, discovered at Eridu in southern Mesopotamia, are the earliest direct evidence for sailing boats. Yet certain features of the models, and their contexts, identify them instead as spinning bowls used by weavers.” ([Strasser, 1996, p. 920](zotero://select/library/items/NBBF3WPV)) ([pdf](zotero://open-pdf/library/items/P7GGSX85?page=1&annotation=BW9JFFYI))
+
+“Understanding the Eridu vessels as spinning bowls explains their attributes and context better than the interpretation as boat models, which sets the use of sailing-boats incongruously early in the Mesopotamian artefactual and artistic repertoire. This reinterpretation eliminates an important piece of information from the already scanty evidence for boat construction in the 6th millennium b.p. and earlier.” ([Strasser, 1996, p. 925](zotero://select/library/items/NBBF3WPV)) ([pdf](zotero://open-pdf/library/items/P7GGSX85?page=6&annotation=DQNPYC3G))
+
+“A complete example came from the ‘Ubaid cemetery in the southwest side of the tell, and a restored version from the contemporary settlement. The models figure prominently in the literature as very early representations of sailing-boats” ([Strasser, 1996, p. 920](zotero://select/library/items/NBBF3WPV)) ([pdf](zotero://open-pdf/library/items/P7GGSX85?page=1&annotation=9T3DIWAZ))
+
+#### description of the artifact
+
+“The vessels were found during the second season (1947-48) of excavations at Eridu, when the investigators unearthed almost 200 burials of a large ‘Ubaid cemetery and reported (Safar et al]. 1981: 230): A model of a sailing boat, in greenish buff clay, each end rounded and curving inwards, with holes for fastening the mast by strings, and a socket for the mast. It is 26 cm. long, 15.5 cm. wide, 10cm. \[sic.high\] found near the surface at the Ubaid cemetery above burial no. 51 (IM. 54900). . . . Another model of an ordinary boat, incomplete and restored, in terra-cotta, measuring 23~13x12cm. was found in the Ubaid settlement situated to the southeast of the Ubaid cemetery (IM. 55118). Another fragment from the end of another sailing boat was also discovered.” ([Strasser, 1996, p. 920](zotero://select/library/items/NBBF3WPV)) ([pdf](zotero://open-pdf/library/items/P7GGSX85?page=1&annotation=WF6MEXYM))
+
+#### artifact in female grave tied to common occurrence of textile tools in female burials
+
+“Additional evidence for textile production at Eridu exists in the ‘Ubaid 3 and earlier periods. Spindle-whorls are found in the contemporary Temple level IX (‘Ubaid 3), and the earlier Temple XIV level (‘Ubaid 2 or Hajji Muhammad period) (Safaret al. 1981:figure 117nos. 1-6 & 238). The complete vessel (IM.54900) came from Grave 51, which held a well-preserved female (Safar et al. 1981: 129, 230) -correcting an earlier identification as male ‘(possibly a fisherman)’(Lloyd 1948: 303; see also Van Buren 1949: 124) and is consistent with the common occurrence of textile equipment with female burials in the archaeological record.” ([Strasser, 1996, p. 924](zotero://select/library/items/NBBF3WPV)) ([pdf](zotero://open-pdf/library/items/P7GGSX85?page=5&annotation=ALZN9SS3))
