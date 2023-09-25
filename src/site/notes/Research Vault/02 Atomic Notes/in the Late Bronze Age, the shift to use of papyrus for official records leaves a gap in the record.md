@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/in-the-late-bronze-age-the-shift-to-use-of-papyrus-for-official-records-leaves-a-gap-in-the-record/"}
+---
+
+“Lastly, when the lord of Byblos ordered his ancestors’ records to be read out to prove the reciprocity of earlier relations with pharaoh, it is clearly implied that these were written on papyrus or leather rolls (recall the connotation of papyrus in the Greek name ‘Byblos’), a shift corroborated by the disappearance of clay tablets across the Levant as cursive, informal and ultimately alphabetical scripts replaced traditional cuneiform. Away from the preservation conditions of Egypt and, later, the Judaean desert, a chasm of archaeological loss suddenly gapes at our feet, one that largely explains the perversely lesser contribution of eastern archives over the coming centuries.” ([Broodbank, 2013, p. 447](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=415&annotation=KHBDBE2N))
