@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/early-city-states-emerged-near-rivers-and-used-irrigation-to-increase-food-production/"}
+---
+
+#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 005 - Meanwhile, In Egypt...\|(OLD) 005 - Meanwhile, In Egypt...]] and [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 011 - Harappa and the Erythraean Sea\|(OLD) 011 - Harappa and the Erythraean Sea]]
+
+“By the late fourth millennium BC substantial settlements recognizable as city states, such as Eridu, Uruk, Nippur, Kish, Ur, and Lagash, had emerged, each one either on a major river or joined to it by a canal. Dykes and channels were built to regulate the irregular flow of the two rivers which not only reduced the risk of settlement sites being flooded, but also maintained and enhanced the fertility of the land on which this civilization was based—comparable regulatory means were used in the Nile Valley (c. 3400 BC), the River Indus (c. 2500 BC), and the Huang ho in northern China (c. 1800 BC). These channels also formed a network of communications by boat and raft.” ([McGrail, 2002, p. 55](zotero://select/library/items/LVPZGRY3)) ([pdf](zotero://open-pdf/library/items/85TAQ5UC?page=55&annotation=JQEWCNKC))
