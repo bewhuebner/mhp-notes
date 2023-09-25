@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/egypt-had-ties-via-the-red-sea-to-a-land-they-called-punt-a-source-of-tropical-exotics/"}
+---
+
+#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 007 - Old Kingdom Egypt Expands Its Reach\|(OLD) 007 - Old Kingdom Egypt Expands Its Reach]]
+
+“From an Egyptian viewpoint, there could be no such momentous discovery of the Mediterranean, for incorporation of the Nile Delta was an integral part of Egypt’s unification as a territorial state. But that state shared with Mesopotamia the problem that many of the materials it desired only existed outside its boundaries, even if these were relaxed to include the adjoining deserts and their manifold stones. Two routes lay south, one up the Nile to Nubia and its gold, the other, by about 2500 BCE, via the Wadi Hammamat to the Red Sea and thence [[Punt\|Punt]] (roughly Eritrea and the northern Horn of Africa), a source of tropical exotics.” ([Broodbank, 2013, p. 285](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=262&annotation=UDQN8IM8))
+
+The Egyptians did look outwards to other regions besides Byblos, though. To the south, Egyptian expeditions ventured all the way to the land of Punt, which was probably located in the region of Somalia. The trade with Byblos was regular, perhaps almost routine, but expeditions to Punt were much less common. Getting to Punt was a much bigger production; it involved carrying boats, in pieces, more than sixty miles across the harsh Eastern Desert, then assembling them on the shores of the Red Sea in order to sail south.” ([Podany, 2012, p. 53](zotero://select/library/items/GN73GMNP)) ([pdf](zotero://open-pdf/library/items/LXNK9GFK?page=78&annotation=8DU8U8HY))
+
+“But Egypt, like Mesopotamia, was too hot for the types of trees that were needed in construction, such as cedars and firs, which grew so well near Byblos. Punt was their source for other goods they couldn’t acquire at home: incense, ivory, and exotic woods and animals.” ([Podany, 2012, p. 54](zotero://select/library/items/GN73GMNP)) ([pdf](zotero://open-pdf/library/items/LXNK9GFK?page=79&annotation=T2UIWMNM))
