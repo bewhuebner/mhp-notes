@@ -1,7 +1,0 @@
----
-{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-dashur-boats-show-the-evolution-of-shipbuilding-technique-in-ancient-egypt/"}
----
-
-“The Dashur boats are clear descendants of the Khufu ships. As in Khufu I, the central strake in each of the Dashur boats was built of three sections. This strake depended completely on harnessing physical forces of compression to keep its planks properly aligned; existing fastenings would not do the job along. The design is simple, yet sophisticated.” ([Ward, 2000, p. 101](zotero://select/library/items/Z98WYCE6)) ([pdf](zotero://open-pdf/library/items/UD954MWU?page=109&annotation=7ZSQA8HW))
-
-“The Dashur boats demonstrate thousands of years of expertise in ship construction. Even in the powerful Middle Kingdom, the use of at least six, and probably ten or more, tons of wood to build six cedar boats required tremendous expenditures of labor and capital. Burying these craft south of the pyramid of Senwosret III enhanced the prestige and standing of their owner or owners in the afterworld and in the ritualized world of the mortuary cult. Their construction reflects their ceremonial nature and importance as well as demonstrating technological continuity and change from the earliest vessels.” ([Ward, 2000, p. 102](zotero://select/library/items/Z98WYCE6)) ([pdf](zotero://open-pdf/library/items/UD954MWU?page=110&annotation=A552WSAE))
