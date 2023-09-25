@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/fifth-dynasty-tomb-of-ti-with-boat-depictions/"}
+---
+
+At an effete royal court steeped in pampered privilege, the most sumptuous of all Fifth Dynasty tombs at Saqqara was built not for a chancellor or overseer of works but for the head of palace hairdressers. Ty’s magnificent edifice comprises a vast open courtyard with pillars forming a shady portico on all four sides, a long corridor leading to a further two rooms, and a separate chamber to house his statue. He demonstrates the extent to which royal favor was still the main passport to wealth and status. The administration had indeed been opened up to commoners, but old habits died hard. ([Location 1544](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=1544))(Wilkinson 2010, p. 84)
