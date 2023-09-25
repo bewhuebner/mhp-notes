@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/for-some-land-based-empires-the-threat-of-disorder-from-sea-ties-was-greater-than-any-economic-benefit-it-brought/"}
+---
+
+“But parallels between Babylonian destructiveness and the comparably drastic strategy of Egypt’s Mamluk rulers – who wiped out the last of the Crusader enclaves along the same coast nearly 2000 years later – also suggest that for certain highly continental, alluvium-focused empires, the threat of disorder from the maritime realm outweighed its economic allure and benefits. On the second occasion, the world of the sea carried on flourishing elsewhere, to the advantage of other maritime powers. Babylon, likewise, was utterly unable to suppress the rest of a Mediterranean whose production and consumption pumps were now fully primed for take-off, whose resources and networks were no longer being scoured and tapped off east by Tyre, and that remained free of the tribute that Levantine cities’ prosperity had been forced to surmount.” ([Broodbank, 2013, p. 537](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=503&annotation=SLILWGNH))
