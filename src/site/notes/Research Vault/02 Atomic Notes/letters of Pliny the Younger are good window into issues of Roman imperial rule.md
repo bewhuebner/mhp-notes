@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/letters-of-pliny-the-younger-are-good-window-into-issues-of-roman-imperial-rule/"}
+---
+
+This was a new world of ‘Rome outside Rome’, and Pliny is a good guide to it. His letters raise questions about how far the [[empire\|empire]] under the emperors was different from the [[empire\|empire]] under the Republic, whether for the governed or the governing, victors or victims. They point to wider dilemmas over official relations with the Christians, which eventually became one of the most divisive conflicts across the Roman world, and hint at many important issues in the infrastructure of imperial rule at this period, from the role of soldiers in provincial administration to the organisation of official transport. ([Location 6757](https://readwise.io/to_kindle?action=open&asin=B0108U7IHO&location=6757)) (page 478)
