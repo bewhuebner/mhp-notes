@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/fabius-as-a-symbol-through-history-delaying-tactics/"}
+---
+
+[[Fabius\|Fabius]] took command after Cannae, avoided pitched battle with [[Hannibal\|Hannibal]] and played a waiting game, combining guerrilla tactics with a scorched-earth policy, to wear down the enemy (hence ‘delayer’). For some observers, this canny strategy largely won the day. Despite his close association with Africanus, Ennius credited Fabius with ensuring Rome’s survival: ‘One man alone restored the state to us by delaying (*cunctando*),’ he wrote. [[George Washington\|George Washington]], the ‘American Fabius’, as he has sometimes been called, opted for similar tactics at the start of the American War of Independence, harassing rather than directly engaging the enemy, and even the British left-wing Fabian Society adopted his name and example – the message being, ‘if you want the revolution to be successful, you must, like Fabius, bide your time’. ([Location 2481](https://readwise.io/to_kindle?action=open&asin=B0108U7IHO&location=2481)) (page 181-82)
