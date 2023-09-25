@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/creativity-is-making-association-between-things-you-already-know-and-thrives-in-low-stress-and-low-focus-situations/"}
+---
+
+The nineteenth-century French mathematician Henri Poincaré was wrestling with one of the hardest problems in math, and he had narrowed his spotlight down onto every squiggle of it for ages, but he was getting nowhere. Then one day when he was away on a trip, suddenly, as he was stepping onto a bus, the solution came to him in a flash. It was only when he turned off the spotlight of his focus, and let his mind wander on its own, that he could connect the pieces and finally solve the problem. In fact, when you look back over the history of science and engineering, many great breakthroughs don’t happen during periods of focus—they happen during mind-wandering. “Creativity is not [where you create] some new thing that’s emerged from your brain,” Nathan told me. “It’s a new association between two things that were already there.” Mind-wandering allows “more extended trains of thought to unfold, which allows for more associations to be made.” ([Location 1490](https://readwise.io/to_kindle?action=open&asin=B093G9TS91&location=1490))
+
+In situations of low stress and safety, mind-wandering will be a gift, a pleasure, a creative force. In situations of high stress or danger, mind-wandering will be a torment. ([Location 1557](https://readwise.io/to_kindle?action=open&asin=B093G9TS91&location=1557))
