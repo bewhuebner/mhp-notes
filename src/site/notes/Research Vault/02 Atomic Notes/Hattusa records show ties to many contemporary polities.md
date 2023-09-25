@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/hattusa-records-show-ties-to-many-contemporary-polities/"}
+---
+
+“Writings at Hattusa reveal the names of several polities and their towns. Arzawa was the largest, with its capital Apasa, possibly to be equated with later Ephesus; as we saw earlier, it was the only one to write to Amarna, and a century before it had supplied shipwrights for Perunefer on the Nile. Others included Ahhiyawa (arguably ‘Achaea’, and denoting one or more Mycenaean polities of uncertain location that exploited the haze of distance to bid for Great King status), Millawanda (probably coastal Miletus, previously a minoanized community) and maybe Troy, with unquenchable optimists discerning cross-references to Homeric politics.” ([Broodbank, 2013, p. 410](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=387&annotation=UTEXDQS2))
