@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/meluhha-indus-valley-saw-a-decline-and-breakdown-of-urban-networks-by-1800-bce/"}
+---
+
+#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 003 - Sargon to Hammurabi - Trade and Turmoil in Ancient Mesopotamia\|(OLD) 003 - Sargon to Hammurabi - Trade and Turmoil in Ancient Mesopotamia]] AND [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 011 - Harappa and the Erythraean Sea\|(OLD) 011 - Harappa and the Erythraean Sea]]
+
+“Some of the 160 kings must have ruled over tiny realms, but others were as powerful as Zimri-Lim himself. Among the most distant (and powerful) were the kings of Elam and Babylonia—far away, but still within the same cultural world as Mari. They belonged in a shared universe. All the diplomatic relationships described in the previous chapter took place within the realm that included Syria, Mesopotamia, and Elam. No king of Meluhha appears in the records, no king of Crete or Egypt.” ([Podany, 2012, p. 94](zotero://select/library/items/GN73GMNP)) ([pdf](zotero://open-pdf/library/items/LXNK9GFK?page=119&annotation=D3LH59BN))
+
+“A visit to the ancient Indus Valley land of Meluhha in Zimri-Lim’s reign would have revealed a profoundly changed place. The great Meluhhan cities were in ruins, the writing system had been forgotten, and the unified system of weights and measures had fallen out of use. Each region within the Indus Valley had its own culture now, and no more seafaring merchants set off for Dilmun and Mesopotamia. . . .
+
+after 1900 BCE a traveler to some of the old Meluhhan capitals would have been greeted with empty ruins. Small settlements and towns might still have carried on some trade, but the civilization had changed dramatically.5 The urban centers in Iran that had marked the land route to Mesopotamia had collapsed even earlier. By 2100 BCE, they had been abandoned, for reasons that are still unknown.” ([Podany, 2012, p. 96](zotero://select/library/items/GN73GMNP)) ([pdf](zotero://open-pdf/library/items/LXNK9GFK?page=121&annotation=M5RIKVY9))
