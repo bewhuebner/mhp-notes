@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/crete-s-culture-had-much-more-of-an-independent-merchant-class-than-other-cultures-did/"}
+---
+
+Moreover, alongside every palace there was a city, built at the same time if not earlier. Just a few steps from the outer esplanade at Knossos, one is in an urban settlement which may have had as many as 60,000 or 100,000 inhabitants. This city of artisans, shopkeepers and sailors did not necessarily obey its masters indeed and word. It is logical to suppose, as H. van Effenterre did in a brilliant article, that there was a class of merchants with their own private commercial interests, outside the strict control of the palace economy. The island’s dispersed overseas trade, and the many merchant “colonies” it had founded in Syrian or Aegean towns must have encouraged this economic independence. ([Location 2415](https://readwise.io/to_kindle?action=open&asin=B004FEFSCC&location=2415))(Braudel 2001, 114)
