@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/boat-travel-on-the-nile-was-central-to-egyptian-policy-including-centralized-control/"}
+---
+
+By Amenemhat I’s twenty-ninth year on the throne, everything was ready. An expeditionary force led by his trusted vizier Intefiqer arrived from Egypt to overthrow Wawat. In his determination to snuff out any vestige of Nubian independence and to impose absolute Egyptian control over the wayward province, the king’s henchman showed no mercy to the local inhabitants, boasting: Then I killed the Nubians of the entire remainder of Wawat. I sailed upstream in victory, killing the Nubian upon his land; and I sailed downstream, uprooting crops and cutting down the remaining trees. I put their houses to the torch, as is done to a rebel against the king. ([Location 2536](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=2536))(Wilkinson 2010, p. 146)
