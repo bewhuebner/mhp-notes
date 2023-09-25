@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/amenhotep-iii-named-his-royal-barge-the-dazzling-orb/"}
+---
+
+The next special issue scarab, dated a year later, celebrates not a hunt but a construction project, specifically the excavation of a lake for the king’s great wife, Tiye. This was no mere ornamental pond but a rowing lake measuring more than a mile long and nearly a quarter of a mile wide (thirty-seven hundred by seven hundred cubits). To mark the lake’s formal opening, the king duly had himself rowed up and down in the royal barge, prophetically named The Dazzling Orb. Both in the nature of the project itself and in the manner of its inauguration, Amenhotep had found his true calling. ([Location 3998](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=3998))(Wilkinson 2010, p. 241)
