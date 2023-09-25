@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/grain-movement-in-the-1st-millennium-bce-flexibly-targeted-the-towns-that-had-a-poor-harvest/"}
+---
+
+“Most 7th- and 6th-century BCE movement of grain instead flexibly targeted whichever towns had suffered a poor harvest that year, thereby providing an integral buffer for the overall maintenance of a constellation of towns across the basin, while ensuring reliable profits for producers and shippers operating in an unpredictable environment blessed with swift information exchange. As a further means of turning a profit, less hardy but higher-status white wheats may have been cash-cropped for discerning consumers. In this respect it is intriguing that while wheat and, to a lesser degree, olives dominated at coastal Selinous, it was barley, fava beans and animal fat that remained the norm in the Sicilian interior, at indigenous Monte Polizzo.” ([Broodbank, 2013, p. 549](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=515&annotation=VP52JXC6))
