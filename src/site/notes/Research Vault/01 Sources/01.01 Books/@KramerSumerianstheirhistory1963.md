@@ -70,7 +70,7 @@ _ _ _
 
 ## Chapter Five: Literature: The Sumerian Belles-Lettre ([Kramer, 1963, p. 165](zotero://select/library/items/TI24BNVH)) ([pdf](zotero://open-pdf/library/items/EY8R4485?page=165&annotation=4X87SBUH))
 
-[[Research Vault/02 Atomic Notes/90% of inscribed artifacts from ancient Sumer are administrativeeconomic documents\|90% of inscribed artifacts from ancient Sumer are administrativeeconomic documents]]
+[[Research Vault/02 Atomic Notes/90% of inscribed artifacts from ancient Sumer are administrative or economic documents\|90% of inscribed artifacts from ancient Sumer are administrative or economic documents]]
 
 [[Research Vault/02 Atomic Notes/Boats had personal names in ancient Sumerian mythology and literature\|Boats had personal names in ancient Sumerian mythology and literature]]
 
