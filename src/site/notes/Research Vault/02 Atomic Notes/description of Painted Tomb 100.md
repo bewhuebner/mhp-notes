@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/description-of-painted-tomb-100/"}
+---
+
+“The undoubtedly high-status person once buried in the Painted Tomb at Hierakonpolis has received various qualiications: he has been called ‘one of the legendary Kings of Upper Egypt’ (Case & Payne 1962), a ‘person that socially stands out’ (Kaiser & Dreyer 1982), a ‘proto-king’ (Baines 1995), a ‘prince enseveli’ (Ciałowicz 2001: 157), a ‘late Predynastic king’ (Kemp 2006: 81) and a ‘local ruler of the Naqada IIC period’ (Wilkinson 2007). B. Williams and T.J. Logan (1987) went as far as to say that ‘it would be perverse to deny that this [tomb] is a royal monument in the strictest sense’.” ([Huyge, 2014, p. 97](zotero://select/library/items/EYPX3L9X)) ([pdf](zotero://open-pdf/library/items/CU4GA9NI?page=6&annotation=I32YHDK8))
+
+“Unfortunately, as far as known, F.W. Green is the only scholar to have examined the tomb in situ. As said above, its location is currently lost and the few fragments of the decoration preserved in the Egyptian Museum in Cairo have so badly deteriorated and blackened that no additional information can be gained from them. We therefore have to rely” ([Huyge, 2014, p. 97](zotero://select/library/items/EYPX3L9X)) ([pdf](zotero://open-pdf/library/items/CU4GA9NI?page=6&annotation=RWL54EMN))
+
+![Pasted image 20230722162749.png](/img/user/zz%20Images%20Dump/Pasted%20image%2020230722162749.png)
+
+([pdf](zotero://open-pdf/library/items/CU4GA9NI?page=7&annotation=3TI9UDFV)) ([Huyge, 2014, p. 98](zotero://select/library/items/EYPX3L9X))
+
+“on Green’s 1902 account, which says: ‘... the scenes seem to have been put where there was room for them, after the larger designs, such as the boats, had been drawn’ (Quibell & Green 1902: 21). Also recent ‘art-historical’ investigations (‘figurative space analysis’) of the decoration of Tomb 100 (Gautier 1993) have confirmed that the imagery was done in more than one phase and that the boats were painted first. his is undoubtedly the case, but I would argue that there may have been several centuries before the flotilla of sickle-shaped boats was completed with (most of?) the other figures. Elsewhere, Green (same reference as above) states: ‘In many places also the artist had rubbed out his red outline, thus reddening the yellow surface before re-drawing his design...’. Here too, one may wonder whether these ‘corrections’, or probably rather ‘additions’, were not done with a considerable interval of time.” ([Huyge, 2014, p. 98](zotero://select/library/items/EYPX3L9X)) ([pdf](zotero://open-pdf/library/items/CU4GA9NI?page=7&annotation=PLFQXCXX))
