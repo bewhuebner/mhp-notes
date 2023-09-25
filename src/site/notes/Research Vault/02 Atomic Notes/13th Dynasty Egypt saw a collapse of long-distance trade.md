@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/13th-dynasty-egypt-saw-a-collapse-of-long-distance-trade/"}
+---
+
+In the country at large, it was harder to paper over the cracks. Private individuals stopped invoking the king or the royal residence on their funerary monuments, no longer convinced that it would make any difference to their chances of an afterlife. Now, it seemed, the king was barely around long enough to make provision for his own. Pyramid building all but stalled, many kings making do with a shaft tomb cut inside the pyramid enclosure of one of their Twelfth Dynasty forebears. Expeditions to the Sinai ceased altogether. All the outward trappings of might and majesty disappeared from a beleaguered monarchy. ([Location 2837](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=2837))(Wilkinson 2010, p. 165)
