@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/funerary-practices-in-ancient-sumer-show-the-tax-collectors-taking-advantage-of-the-situation/"}
+---
+
+“Even death brought no relief from levies and taxes. When a dead man was brought to the cemetery for burial (there were two grades of cemeteries—an ordinary one and another called "the reeds of Enki"), quite a number of officials and parasites made it their business to be on hand to relieve the bereaved family of quantities of barley, bread, and date wine, and various furnishings. From one end of the state to the other, our venerable reporter observes bitterly, "there were the tax collectors” ([Kramer, 1963, p. 81](zotero://select/library/items/TI24BNVH)) ([pdf](zotero://open-pdf/library/items/EY8R4485?page=81&annotation=XTQIQ46Q))
