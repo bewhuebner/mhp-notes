@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/egypt-s-written-record-is-often-just-internally-pointed-propaganda/"}
+---
+
+An ivory label from the tomb of Narmer shows a Palestinian dignitary stooping in homage before the Egyptian king. At the same time, in the real world, Egypt and Palestine were busy engaging in trade. The xenophobic ideology masked the practical reality. This should serve as a warning for the historian of ancient Egypt: from earliest times, the Egyptians were adept at recording things as they wished them to be seen, not as they actually were. The written record, though undoubtedly helpful, needs careful sifting, and must always be weighed against the unvarnished evidence dug up by the archaeologist’s trowel. ([Location 896](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=896))(Wilkinson 2010, p. 42)
