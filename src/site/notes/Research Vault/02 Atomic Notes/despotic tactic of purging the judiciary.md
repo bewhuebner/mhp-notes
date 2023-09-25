@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/despotic-tactic-of-purging-the-judiciary/"}
+---
+
+Having dealt with official corruption, Horemheb next turned his legislative attention to the law courts. Purging the judiciary has always been a favorite tactic of despots (especially those with a military background), and Horemheb was no exception. He appointed a raft of new judges, men who would be “attentive to the words of the court and the laws of the judgment hall.” He further decreed that local officials found guilty of perverting the course of justice would be sentenced to death, adding, “My Majesty has done this to advance the laws of Egypt.” And, of course, the king’s word was the law. ([Location 4795](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=4795))(Wilkinson 2010, p. 291)
