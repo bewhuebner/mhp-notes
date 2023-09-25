@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/egypt-fantastically-well-ordered-and-intelligent-yet-obstinately-archaic-bronze-and-money/"}
+---
+
+The spectacle of life in Egypt: fantastically well-ordered and intelligent, yet obstinately archaic. Just as the potter’s wheel took a long time to enter everyday life, so too did bronze. First introduced in about 2000 B.C., it was not in common use until 1500, after an interval of five hundred years during which it was hardly used at all. Similarly, Egypt only ever had one money of account, the shat (7.6 grammes) of copper or bronze, dating from the fourth dynasty. In about 1400 B.C. this was replaced by the qite (9.1 grammes). This should not be regarded as a strengthening of the currency: money remained of marginal significance in Egypt, barter being the rule until the Persian or indeed the Greek conquests. ([Location 2184](https://readwise.io/to_kindle?action=open&asin=B004FEFSCC&location=2184)) (Braudel 2001, p. 102)
