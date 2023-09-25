@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/neolithic-malta-was-an-early-example-of-an-isolated-culture-that-reached-its-peak-before-maritime-movement-led-outsiders-to-integrate-and-weaken-the-culture/"}
+---
+
+For startling evidence of massive building projects from Neolithic Europe it is necessary to turn westwards, to the temples and sanctuaries of Malta and Gozo, which predate even the pyramids. The Maltese temples were created by people who crossed the sea and created an isolated culture with their own hands. The eminent British archaeologist Colin Renfrew has observed that ‘something really exceptional was taking place in Malta more than five thousand years ago, something quite unlike anything else in the Mediterranean world or indeed beyond’; this society was in full ascendancy around 3500 BC. The old diffusionist assumption that the temples were in some way imitations of the pyramids or ziggurats far to the east is patently false. ([Location 549](https://readwise.io/to_kindle?action=open&asin=B00551S1HI&location=549))
+
+The chambers at Tarxien have left clear evidence of sacrificial ceremonies. An altar at Tarxien was found to contain, in a hollowed space, a flint knife; around the altar were the bones of cattle and sheep. Shells were unearthed, confirming that seafood was an important part of the local diet; and among the carvings are graffiti of ships.14 ([Location 570](https://readwise.io/to_kindle?action=open&asin=B00551S1HI&location=570))
