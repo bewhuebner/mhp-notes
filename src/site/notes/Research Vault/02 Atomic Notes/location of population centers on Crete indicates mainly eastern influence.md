@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/location-of-population-centers-on-crete-indicates-mainly-eastern-influence/"}
+---
+
+Unless new finds do turn up, there is absolutely nothing in the west of the island. Yet it was just as fertile as the east and certainly better watered. This must prove that Crete was influenced from outside, and from the eastern side of the compass only. In similar fashion, western Argos and peninsular Greece west of Mount Pindus and Mount Parnassus long remained areas inhabited by primitive peoples (according to Spyridon Marinatos). 
+
+Plotting the rise of these centres over time is also instructive. There were, broadly speaking, two generations of palaces: the first from 2000 to 1700; the second, from 1700 to 1400. Fire, earthquake, foreign invasion or social revolution—every kind of explanation has been put forward for the many vicissitudes of the Cretan palaces. What is certain is that they were destroyed and rebuilt on the same site more than once, and that the period of the second palaces corresponds both to economic prosperity and to the spread of the high art of Crete. ([Location 2404](https://readwise.io/to_kindle?action=open&asin=B004FEFSCC&location=2404))(Braudel 2001, 113)
