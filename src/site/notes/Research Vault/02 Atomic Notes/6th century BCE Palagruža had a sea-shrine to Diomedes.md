@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/6th-century-bce-palagruza-had-a-sea-shrine-to-diomedes/"}
+---
+
+“Palagruža has repeatedly acted as a mid-Adriatic barometer of seafaring trends, from its first hints of Mesolithic exploration and role as a stepping stone for expanding farmers, to its popularity as a destination for long-range canoe voyagers and converse emptiness as the first sailing ships sped past it in a shrinking central Mediterranean. In the late 6th century BCE, Palagruža was reinvented yet again, this time as a sea-shrine to the legendary wandering hero Diomedes, whose name was scratched on Greek potsherds that link this barren scrap of now sacred rock to places far away.” ([Broodbank, 2013, p. 562](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=528&annotation=2GWXHS3I))
