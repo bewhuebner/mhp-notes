@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/a-major-archaeological-frontier-in-the-modern-age-lies-underwater/"}
+---
+
+“Another frontier lies underwater, from the shoreline down to the inkiest depths. The Mediterranean was one of the birthplaces of maritime archaeology. The 1960s dives on a 3200-year-old boat that sank off Cape Gelidonya, a cruel stretch of the Turkish coast, remain a landmark, though the title of the world’s earliest shipwreck is now held by a slightly older neighbour at [[Encyclopedia/06 Ships/Uluburun shipwreck\|Uluburun]], more recently excavated, and there are potential challengers elsewhere in the form of hull-less debris scatters up to a thousand years older (seafaring, as we shall see, long pre-dates all of these sites, but its earliest indications are indirect proxies such as traces of human presence on the islands.” ([Broodbank, 2013, p. 34](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=33&annotation=FYR3UPB5))
