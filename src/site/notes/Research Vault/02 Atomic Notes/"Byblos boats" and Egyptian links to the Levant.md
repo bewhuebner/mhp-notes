@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/byblos-boats-and-egyptian-links-to-the-levant/"}
+---
+
+Egyptian ships were sailing both to Byblos and the Red Sea from an early date—exactly when we cannot say. But cooking oil from Syria was already arriving in pre-dynastic Egypt, carried in pots of non-Egyptian origin. And by about 2600 B.C., we know that Egypt already had plentiful contacts with Byblos, through which it gained access to the cedars of Lebanon, pitch from the Dead Sea, gold from the Taurus mountains, and the oil and wine of Syria. The boats which ceaselessly plied to and fro on these trips were known in the middle of the third millennium as the “Byblos boats”; but while Egypt certainly financed them, and while their design was Egyptian, we do not know whether they were in fact built in Byblos or in Egypt, nor whether their crews came from one or other place, or both. ([Location 1753](https://readwise.io/to_kindle?action=open&asin=B004FEFSCC&location=1753)) (Braudel 2001, p. 78)
