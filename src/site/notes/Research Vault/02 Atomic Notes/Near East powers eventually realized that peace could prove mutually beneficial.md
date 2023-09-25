@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/near-east-powers-eventually-realized-that-peace-could-prove-mutually-beneficial/"}
+---
+
+“All of which is to say that the kings on both sides entered into their new peaceful relationship probably not as a result of any idealism or commitment to peace in principle, but because, in a pragmatic way, peace suited them. They could be richer and more comfortable as allies than as enemies, and each king could use the agreement to his own advantage in the way he presented it to his people.” ([Podany, 2012, p. 179](zotero://select/library/items/GN73GMNP)) ([pdf](zotero://open-pdf/library/items/LXNK9GFK?page=204&annotation=F22ADCPF))
+
+“From around the end of the fifteenth century BCE, when the alliances between Egypt, Mittani, Hatti, and Babylonia might have been forged, for almost a century, the Near East enjoyed a respite from war between the great powers, and every land prospered. Even when wars later erupted between Hatti and Mittani, the diplomatic institutions continued to work, and peace largely was maintained among the other great powers, right up until around 1200 BCE.” ([Podany, 2012, p. 183](zotero://select/library/items/GN73GMNP)) ([pdf](zotero://open-pdf/library/items/LXNK9GFK?page=208&annotation=V25JM7QM))
