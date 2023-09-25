@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/egypt-was-a-central-link-in-rome-s-international-trade-connections-to-india-and-arabia/"}
+---
+
+But Egypt’s importance to Rome was not confined to its agricultural and mineral wealth. With unique access to both the Mediterranean and Red seas, the country played a key role in Roman commerce—especially trade with India, source of the oriental luxuries so beloved of the ruling class. Egypt’s strategic location, at the nexus of routes linking Arabia, Asia, Africa, and Europe, had been a prime reason for its prosperity as an independent nation; the same geographical advantage now ensured Egypt’s subjugation by a succession of foreign empires. Rome, Byzantium, and Persia; the Caliphs, the Ottomans, and the British—all looked upon Egypt as a source of wealth and a trading hub without peer. ([Location 7861](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=7861))(Wilkinson 2010, p. 483)
