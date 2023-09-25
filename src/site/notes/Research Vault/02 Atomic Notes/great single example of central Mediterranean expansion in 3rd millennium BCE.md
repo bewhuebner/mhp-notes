@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/great-single-example-of-central-mediterranean-expansion-in-3rd-millennium-bce/"}
+---
+
+“But the strangest phenomenon of all is minuscule Plagruža, almost the only place from which both shores of the Adriatic can be seen. After slight traces of passage during the expansion of farming came three millennia of silence, abruptly broken in the later 3rd millennium BCE by thousands of stone arrowheads, one discovered by a early modern visitor embedded in a buried skeleton, alongside plentiful stone blades and decorated Dalmatian bowls. Many of the stone objects were made of chert from next-door Mala Palagruža, but this hardly explains the whole phenomenon. It very much looks as if armed men came to this scrap of rock, as a test in itself or as part of longer voyages, and engaged in combat with each other or the crews of passing seacraft, perhaps even leaving many of the arrows as part of a maritime warrior cult otherwise lost to us.” ([Broodbank, 2013, p. 331-32](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=309&annotation=XZX7SI9H))
