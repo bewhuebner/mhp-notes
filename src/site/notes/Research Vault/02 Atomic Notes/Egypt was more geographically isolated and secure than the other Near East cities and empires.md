@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/egypt-was-more-geographically-isolated-and-secure-than-the-other-near-east-cities-and-empires/"}
+---
+
+#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 005 - Meanwhile, In Egypt...\|(OLD) 005 - Meanwhile, In Egypt...]] OR [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 007 - Old Kingdom Egypt Expands Its Reach\|(OLD) 007 - Old Kingdom Egypt Expands Its Reach]]
+
+“Egypt was both physically and psychologically isolated from the lands around it, the deserts and seas forming a formidable barrier to any invaders (though not to immigrants). But then, around 1630 BCE, a century and a half before the reign of Thutmose I, a group of foreigners known as the Hyksos had changed all that. They had been able to come to power as kings and to rule the area of the Delta during a time of internal weakness.” ([Podany, 2012, p. 139](zotero://select/library/items/GN73GMNP)) ([pdf](zotero://open-pdf/library/items/LXNK9GFK?page=164&annotation=6SSLZ55H))
+
+“The foreign dynasties had a lasting impact: once the Hyksos kings were expelled, the Egyptian kings changed their conception of their kingdom and its relationship to the outside world in a fundamental way. Later kings repeatedly made the case that it was necessary to attack lands beyond Egypt in order to combat foreigners who might possibly be interested in ruling Egypt, as the Hyksos had done.” ([Podany, 2012, p. 140](zotero://select/library/items/GN73GMNP)) ([pdf](zotero://open-pdf/library/items/LXNK9GFK?page=165&annotation=NSUAIU9E))
