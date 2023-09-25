@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/materials-not-natural-to-the-alluvial-plains-of-mesopotamia-or-the-nile-are-what-contributed-to-the-spiraling-growth-of-elite-and-early-consumer-societies/"}
+---
+
+#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 002 - Surplus Food, Big Buildings, and Power Hungry Lugals\|(OLD) 002 - Surplus Food, Big Buildings, and Power Hungry Lugals]]
+
+“many of the materials implicated did not occur naturally in Mesopotamia or Egypt and could only be acquired outside their borders, towards all points of the compass and including those that necessitated an engagement with the Mediterranean proper. Pragmatically, this was a function of the geology and ecology of alluvial plains, but it also owed much to an esteem for things brought from the ends of the known world as affirmations of the cultural centrality of the places where they were consumed, and the cosmic centrality of their rulers and gods. Such materials had to be procured in increasing amounts as consumption spirals took off. One means of doing so was trade, sometimes over extremely long ranges, and at first in valuable but low-bulk substances, as is witnessed in both respects by lapis lazuli.” ([Broodbank, 2013, p. 282](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=259&annotation=3FXHF2RS))
+
+### various origins for resources that flowed into Mesopotamia
+
+“Where did the gold and silver, lapis and carnelian come from? Nowhere in Mesopotamia or Syria could these materials have been mined out of the ground” ([Podany, 2012, p. 41](zotero://select/library/items/GN73GMNP)) ([pdf](zotero://open-pdf/library/items/LXNK9GFK?page=66&annotation=9FWYT4CE))
+
+“The silver, along with some of the copper (for bronze), may have come from Anatolia (modern Turkey), to the north of Ebla and Mari, at the end of a long journey through the Taurus Mountains. This was virtually in Mesopotamia’s backyard compared to the distances to the sources of gold, lapis, and carnelian. Such materials had, in some cases, traveled over a thousand miles in order to reach Ebla, Mari, and Ur: the carnelian from India, the gold perhaps from Egypt or Afghanistan, and the lapis lazuli from the Hindu Kush mountains in what is now Afghanistan, almost at the modern border with China.” ([Podany, 2012, p. 43](zotero://select/library/items/GN73GMNP)) ([pdf](zotero://open-pdf/library/items/LXNK9GFK?page=68&annotation=R9VA8VYS))
