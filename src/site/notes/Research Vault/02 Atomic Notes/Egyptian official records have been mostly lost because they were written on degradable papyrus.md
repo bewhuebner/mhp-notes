@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/egyptian-official-records-have-been-mostly-lost-because-they-were-written-on-degradable-papyrus/"}
+---
+
+An important technical point is that a flexible form of paper, made from the cortex of the papyrus reed, was in use in Egypt from the time of the first dynasties. This made it possible to use the calamus reed as a pen and to write quickly, using black or red ink. The ingenious invention has had rather annoying consequences for us though: whereas the heavy tablets of Mesopotamian clay stacked in the palace “archives” have been found in large numbers, the fragile papyrus rolls have only rarely survived. For every few metres preserved in museums today, literally kilometres have disappeared—virtually all the public records. ([Location 1479](https://readwise.io/to_kindle?action=open&asin=B004FEFSCC&location=1479)) (Braudel 2001, p. 63)
