@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/mesopotamia-and-sumer-compared-with-renaissance-italy-s-city-state-competition/"}
+---
+
+#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 003 - Sargon to Hammurabi - Trade and Turmoil in Ancient Mesopotamia\|(OLD) 003 - Sargon to Hammurabi - Trade and Turmoil in Ancient Mesopotamia]]
+
+So Mesopotamia had a singular destiny. But the outside world, mountain or desert, was not solely responsible. The house was itself divided. Exaggerating only a little, we might compare it to Renaissance Italy. Sumer, like Italy, flourished under a plurality of powers, with fierce rivalries between cities. These cities—Uruk, Ur, Eridu, Kish, Larsa, Isin, Mari, Adab, Lagash—had taken the place of tribes and primitive societies. Each one had its particular divinities and its priest-kings (something very different from a king identified with a god). They fought each other unremittingly and hegemony passed from one to another: from Kish to Ur, then to Uruk, Lagash and Adab. The first serious unification took place under the Akkadian Empire, created by Semitic peoples. This state had a brilliant flowering with Sargon the Elder, but only a short life (2340–2230). Ur then took the lead for a while, before passing the torch to Isin, Larsa and eventually Babylon. ([Location 1631](https://readwise.io/to_kindle?action=open&asin=B004FEFSCC&location=1631)) (Braudel 2001, p. 72)
