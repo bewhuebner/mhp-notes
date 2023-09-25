@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/iron-production-in-the-iron-age-as-the-democratic-metal/"}
+---
+
+“The beginnings of local iron production, often (unlike on Cyprus) from rich nearby ores, were staggered over the next few centuries in different parts of the basin, each time loosely correlated with the conventional start of a regional Iron Age sequence. Iron was functionally useful, creating lighter tools and weapons easy to resharpen, but its military impact can be exaggerated, and its true significance lay in the ubiquity of its ores, which made it harder to control centrally, once the necessary know-how had diffused, than only selectively available copper and distantly sourced tin. It was this slippery, potentially subversive aspect that earned it Gordon Childe’s famous sobriquet, the ‘democratic metal’, though ‘antimonopolistic’ better captures its role among the new societies that we shall encounter across the Iron Age Mediterranean.” ([Broodbank, 2013, p. 451](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=418&annotation=9KHBFVYI))
