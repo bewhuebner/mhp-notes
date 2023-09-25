@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/a-5th-century-bce-tablet-from-southern-france-describes-a-boat-purchase-and-trade-contract/"}
+---
+
+“We begin in southern France. Some time in the early 5th century BCE, a lead tablet inscribed in Greek on one side and Etruscan on the other was deposited at a modest indigenous trading post between the mouth of the Aude and the Pyrenean foothills, today known as Pech Maho. The Greek side records the purchase of a boat from a port on the other side of the Pyrenees known as Emporion; the witnesses to the details of profit-sharing and debt (perhaps local dignitaries) bear Iberian names, while on the Etruscan face the place name Mataliai (Massalia) can be discerned. The only outstanding feature of this unexceptional vignette of Mediterranean maritime business, whose generics would have been at home in Late Bronze Age Ugarit, is that it would have been unthinkable just a few generations earlier in the part of the world in which it was embedded.” (Broodbank, 2013, p. 562-63)
