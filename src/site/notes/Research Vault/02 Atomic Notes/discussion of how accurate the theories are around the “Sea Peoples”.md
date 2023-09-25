@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/discussion-of-how-accurate-the-theories-are-around-the-sea-peoples/"}
+---
+
+“Of these, Shardana had confusingly already served Egypt as mercenaries; others, such as Peleset and Shekelesh, were hitherto less familiar, while a few flashed so briefly in and out of the textual limelight that we may well doubt whether the royal annalists really understood whom they were describing. One famously self-glorifying rendition, on Ramesses III’s mortuary temple at Medinet Habu in Thebes, portrayed inter-ship fighting at the mouth of the Delta around 1179 BCE, at the end point of a purported trail of mayhem down the Levant and as far inland as the Euphrates. Add to this the reports from Ugarit’s terminal years of sea raids by flotillas of anonymous enemies, its own ship deployments off Lycia, and attacks on Cyprus embarrassingly launched from Ugaritic territory, and a cat’s cradle of possibilities becomes woven into a narrative of invasion and migration by that notorious modern invention: ‘The [[Sea Peoples\|Sea Peoples]]’.” ([Broodbank, 2013, p. 461-62](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=429&annotation=Y666N5B9))
+
+![Pasted image 20221106221401.png](/img/user/zz%20Images%20Dump/Pasted%20image%2020221106221401.png)
+
+([pdf](zotero://open-pdf/library/items/85K7BT2G?page=428&annotation=PPAAYM9U)) ([Broodbank, 2013, p. 461](zotero://select/library/items/IR54JIQG))
+
+“Insofar as any cause for this deluge of war-bands and migrants is offered, the apparent geography of names is typically used to argue that a crisis in the Aegean (itself underexplicated) opened the floodgates there and further west to a surge of gathering momentum.” ([Broodbank, 2013, p. 462](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=429&annotation=YMWDC89S))
+
+“The quarrel with the [[Sea Peoples\|Sea Peoples]] hypothesis in terms of mobility is not over the likelihood of frequent, multilateral and sometimes cumulatively large-scale relocation, much of it by young men - the most footloose, aggressive and armed element in most populations. It is rather with the over-simplification that results from looking at this process through Egyptian spectacles, into a sequence of ethnically organized, discrete events to be correlated with specific headgear, pots and suchlike, and which possessed the explanatory power to shut down the Bronze Age.” ([Broodbank, 2013, p. 464](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=431&annotation=A2CCVLWT))
