@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/culture-and-symbols-are-used-to-make-imperial-rule-more-attractive-for-locals/"}
+---
+
+It is rather more surprising to discover that he (Agricola) had a local education policy too: he made sure that the sons of the leading provincials were educated in the ‘liberal arts’ (literally ‘the intellectual pursuits suited to the free’) and in the Latin language. And soon, as [[Tacitus\|Tacitus]] put it, the Britons were dressing up in togas and taking their first steps on the path to vice, thanks to porticoes, baths and banquets. He sums this up in a pithy sentence: ==‘They called it, in their ignorance, “civilisation”, but it was really part of their enslavement’ (‘Humanitas vocabatur, cum pars servitutis esset’).==([Location 6977](https://readwise.io/to_kindle?action=open&asin=B0108U7IHO&location=6977)) (page 495) #empire #propaganda
