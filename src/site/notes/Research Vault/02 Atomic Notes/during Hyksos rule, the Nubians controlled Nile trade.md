@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/during-hyksos-rule-the-nubians-controlled-nile-trade/"}
+---
+
+His colleague Soped-her, the fortress commandant, even helped rebuild the temple of Horus at Buhen “to the satisfaction of the ruler of Kush.” In the dedication of his commemorative inscription, Soped-her covered all eventualities, invoking the Egyptian funerary god Ptah-Sokar-Osiris; the local deity Horus, lord of Buhen; and even the deified Senusret III; but also the unnamed “gods that are in Wawat.” He was clearly hedging his bets. Senusret III would have turned in his grave. The tables were now turned on the Egyptians. It was they, not the Nubians, who had to pay taxes on trade shipments; they, not the Nubians, who could be told where, what, and when they could trade. The heyday of the Twelfth Dynasty must have seemed a distant memory. ([Location 2927](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=2927))(Wilkinson 2010, p. 170)
