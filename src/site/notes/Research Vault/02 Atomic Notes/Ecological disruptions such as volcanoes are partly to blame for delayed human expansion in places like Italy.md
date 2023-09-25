@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/ecological-disruptions-such-as-volcanoes-are-partly-to-blame-for-delayed-human-expansion-in-places-like-italy/"}
+---
+
+“Why did moderns take such a strangely long time to reach even the continental extremities of Mediterranean Europe?” ([Broodbank, 2013, p. 115](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=111&annotation=2YJLQNQH))
+
+“In one instance the dangers were admittedly more dramatic, for from a volcanological point of view southward-bound moderns in Italy could not have timed it worse. Ischia blew up three times in 10,000 years, and around 37,000 BCE the Phlegraean Fields near Naples suffered the basin’s most colossal convulsion of the last 200,000 years, which smothered huge areas up to 50 m (165 ft) deep in ash and generated a plume borne on the winds as far as the Volga. Eruptions on this scale must have disrupted if not destroyed life throughout southern Italy, and the first Sicilians whom we have just encountered could plausibly have been displaced people fleeing this devastation.” ([Broodbank, 2013, p. 115](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=111&annotation=45FY525W))
