@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/9th-century-bce-neo-assyria-conquered-most-of-the-levant-except-for-tyre/"}
+---
+
+“During the 9th century, Neo-Assyrian kings at ever more giant capitals along the Tigris had begun to forge standing expeditionary armies and institute bureaucratic practices that would forever alter the face and reach of ancient empire, and eventually carve out and hold 1.4 million sq. km (540,000 sq. miles) of subject territory. Mesopotamia, the Jazira, upland Anatolia and the Caucasus soon felt the consequences. Just after the middle of the 8th century BCE, confederacies of Levantine polities, devoid of oId Bronze Age counterbalance of a super-power along the Nile, also succumbed, to a series of devastating campaigns in the aftermath of a further, drastic round of internal reforms, by the Assyrian monarch Tiglath-Pileser in (744-727).” ([Broodbank, 2013, p. 507](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=474&annotation=LR8SLEP8))
