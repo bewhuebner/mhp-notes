@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/babylonian-merchants-formed-trade-organizations-and-sought-financing-for-their-commercial-ventures/"}
+---
+
+#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 004 - Mesopotamian Merchants\|(OLD) 004 - Mesopotamian Merchants]]
+
+“Until the rise of the enterprising Phoenicians in the eighth century B.C.E., the entrepreneurs of Babylonia were the most industrious traders of the ancient world. So widespread was their mercantile activity that their language, Akkadian, became the lingua franca of the Near East, employed not only for transacting business across national borders but also for the purposes of international diplomatic correspondence. Because of their mobility and foreign connections, Babylonian merchants also functioned as emissaries to foreign potentates, presenting gifts from Mesopotamian rulers and carrying messages on their behalf. As documents show, their commercial operations were at times carried out under treaties arranged between their homeland and the cities or countries where they conducted business. For their mutual benefit, merchants formed cooperative trade organizations and collaborated in operating caravans that, because of their size, offered greater security against raids by marauders. Their commercial ventures were sometimes financed by loans from temple priesthoods or wealthy individuals who in turn were rewarded with interest on their financial investment or a share of the profits. ==By the early second millennium B.C.E., checkpoints were set up on the Euphrates that allowed passage only to those merchant vessels that bore a “tablet of the king.” Around the same time, the royal administration included a high official known as the “chief trader,” or “secretary of commerce.” Both facts testify to the realization by the government that the state should play an active role in commercial affairs.”== ([Bertman, 2003, p. 256](zotero://select/library/items/YPMHZBXL)) ([pdf](zotero://open-pdf/library/items/X3CHJ4P3?page=269&annotation=SM5TBANC))
+
+### Merchants in ancient Mesopotamia were subject to special taxes
+
+“Merchants were also subject to special taxes when they shipped or received goods, or when they passed through cities along trade routes or crossed rivers.” ([Bertman, 2003, p. 68](zotero://select/library/items/YPMHZBXL)) ([pdf](zotero://open-pdf/library/items/X3CHJ4P3?page=81&annotation=4MR4T3IM))
+
+#merchants
