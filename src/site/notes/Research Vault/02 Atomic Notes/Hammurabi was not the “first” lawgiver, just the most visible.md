@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/hammurabi-was-not-the-first-lawgiver-just-the-most-visible/"}
+---
+
+#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 003 - Sargon to Hammurabi - Trade and Turmoil in Ancient Mesopotamia\|(OLD) 003 - Sargon to Hammurabi - Trade and Turmoil in Ancient Mesopotamia]]
+
+“The idea stuck. [[Hammurabi\|Hammurabi]] is still often called (by nonspecialists) the author of the “oldest surviving collection of laws.” The scholars, however, had dated Hammurabi far too early—in the third millennium BCE instead of the second—and already by 1915 scholars knew that other lawgivers had preceded Hammurabi. The earliest laws that we know of now were written by a king of Ur, over 300 years before Hammurabi drew up his code. Subsequent collections of laws, put together by kings of the kingdoms of Isin and Eshnunna among others, also predate those of Hammurabi. But these kings didn’t enjoy the public relations blitz that accompanied the discovery of Hammurabi’s Code.” ([Podany, 2012, p. 65](zotero://select/library/items/GN73GMNP)) ([pdf](zotero://open-pdf/library/items/LXNK9GFK?page=90&annotation=7LWZK96B))
+
+“Mari holds the key to much of our knowledge of this era. The site of Babylon has physically sunk over the years so that now the palace and archives of Hammurabi are below the water table and, presumably, reduced to mud (though later levels at Babylon can still be seen). But we know quite a bit about Hammurabi’s diplomatic efforts because they are memorialized in letters by and about him, some of which were found in the palace of his ally, King Zimri-Lim of Mari.” ([Podany, 2012, p. 69](zotero://select/library/items/GN73GMNP)) ([pdf](zotero://open-pdf/library/items/LXNK9GFK?page=94&annotation=Y3U2NNJJ))
