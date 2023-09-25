@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/iberian-people-may-not-have-travelled-much-into-the-east-before-1000-bce-but-levantine-javelin-heads-from-2200-bce-were-found-near-seville/"}
+---
+
+“More mysterious is a bunch of twenty-seven copper javelin heads of an ostensibly Levantine type variously dated between 2200 and 1600 BCE, found back in AD 1860 in the outer flank of the La Pastora burial mound at Valencina de la Concepción, near Seville. These could conceivably be another instance of eastern objects that escaped into the margins beyond the reach of direct contacts, but it is more probable that, as with a handful of other Bronze Age east Mediterranean goods, they arrived as antiques as a result of Phoenician traffic on the younger side of 1000 BCE. How much Iberian people really knew about the outside world during the 2nd millennium BCE is a speculative matter, but all the signs are that they seldom ventured far afield or received travellers from across the sea.” ([Broodbank, 2013, p. 418-19](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=394&annotation=SVMXFMX3))
