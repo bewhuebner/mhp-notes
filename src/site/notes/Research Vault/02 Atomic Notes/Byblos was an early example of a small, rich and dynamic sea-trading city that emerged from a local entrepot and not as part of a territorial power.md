@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/byblos-was-an-early-example-of-a-small-rich-and-dynamic-sea-trading-city-that-emerged-from-a-local-entrepot-and-not-as-part-of-a-territorial-power/"}
+---
+
+ “Herein lies Byblos’s long-term significance, for the later Mediterranean would see many more small, rich and dynamic sea-trader polities (here the looser term is definitely helpful) effloresce at key junctures and places in subsequent history. Many arose, like Byblos, bottom-up from local entrepots, routes and networks; a few, notably Tyre and Aegina, would finally challenge in wealth and influence the greatest territorial powers of their day.” ([Broodbank, 2013, p. 303](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=280&annotation=2E2RW46E))
