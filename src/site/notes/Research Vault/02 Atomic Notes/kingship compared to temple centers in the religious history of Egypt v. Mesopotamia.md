@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/kingship-compared-to-temple-centers-in-the-religious-history-of-egypt-v-mesopotamia/"}
+---
+
+#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 002 - Surplus Food, Big Buildings, and Power Hungry Lugals\|(OLD) 002 - Surplus Food, Big Buildings, and Power Hungry Lugals]] OR [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 005 - Meanwhile, In Egypt...\|(OLD) 005 - Meanwhile, In Egypt...]]
+
+Indeed, as a form of government, kingship was quintessentially Egyptian. Among the early civilizations of the ancient world, only Egypt embraced this particular mode of rule from the very beginning of its history. In Mesopotamia (modern Iraq), city-states based their identity on their local temples, so it was the high priests who wielded the greatest political and economic power. Only later did a monarchical system develop, and it was never as thoroughgoing or omnipotent as its Egyptian counterpart. In the Nile Valley, kings seem to have ruled the people from prehistoric times. ([Location 649](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=649))(Wilkinson 2010, p. 27)
