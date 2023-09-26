@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/references-to-grain-shipments-from-egypt-for-ugarit-do-not-indicate-climate-crisis-but-rather-advances-in-shipping/"}
+---
+
+“As noted already, these snippets, far from indicating that drought was bringing this world to its knees, instead point to a 2nd-millennium BCE origin for the practice of shipping grain, often but not always the bountiful, exceptionally reliable harvests of Egypt, in bulk over substantial distances – a further role for sailing ships that would regularly keep later Mediterranean towns and cities alive through lean years. They are, in short, an index of robust precocity, rather than weakness. Equally, there is no evidence that Bronze Age palatial societies brought doom upon themselves by overexploiting the landscapes around them. This transformation began and ended with human actions.” ([Broodbank, 2013, p. 461](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=428&annotation=IV6XXFRZ))
