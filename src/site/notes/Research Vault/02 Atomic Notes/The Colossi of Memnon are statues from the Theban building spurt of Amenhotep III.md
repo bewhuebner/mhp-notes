@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-colossi-of-memnon-are-statues-from-the-theban-building-spurt-of-amenhotep-iii/"}
+---
+
+The easternmost pair of statues still stand more than sixty feet tall, flanked by diminutive statues of Amenhotep’s mother, wife, and daughter, and are visible for miles around. (Today they are known as the Colossi of Memnon.) Their sheer immensity, looming over every man, woman, and child in western Thebes, led them to be considered deities in their own right, living images of the king as “ruler of rulers.” They certainly conveyed Amenhotep’s overwhelming authority, and must have evoked a mixture of awe and fear in every observer. ([Location 4039](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=4039))(Wilkinson 2010, p. 243-44)
