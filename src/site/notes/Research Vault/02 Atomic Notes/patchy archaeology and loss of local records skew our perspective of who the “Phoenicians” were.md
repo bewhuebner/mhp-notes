@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/patchy-archaeology-and-loss-of-local-records-skew-our-perspective-of-who-the-phoenicians-were/"}
+---
+
+“‘Phoenicia’, as we noted earlier, is an externally imposed and not unproblematic flag of ancient and modern convenience. As it rockets to pan-Mediterranean prominence we encounter other impediments to balanced assessment, not least an archaeology hampered by subsequent overbuild and recent civil war, and surviving texts that, with the total loss of local records written on papyrus, reflect the views of outsiders fired up by varied cocktails of envy, fear and scorn, from Israelite prophets, Assyrian kings and Greek poets to later Roman authors traumatized by the existential threat they faced from Phoenicia’s Punic offspring.” ([Broodbank, 2013, p. 484](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=451&annotation=3YIMRWRL)) 
