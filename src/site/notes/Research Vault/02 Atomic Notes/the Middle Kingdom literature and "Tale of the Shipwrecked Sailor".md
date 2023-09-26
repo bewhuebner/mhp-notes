@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-middle-kingdom-literature-and-tale-of-the-shipwrecked-sailor/"}
+---
+
+The Middle Kingdom was the golden age of literature, when many of the great classics were composed. From the heroic Tale of Sinuhe to the rollicking yarn of The Shipwrecked Sailor, from the overtly propagandist Prophecies of Neferti to the subtle rhetoric of The Eloquent Peasant, and from the metaphysical Dispute Between a Man and His Soul to the burlesque Satire of the Trades, the literary output of the Middle Kingdom reveals ancient Egyptian society at its most complex and sophisticated. Archaeological evidence is prosaic and unsentimental, whereas the surviving writings of the ancient Egyptians allow us to enter into their imaginations, to see the world as they saw it. For this reason the Middle Kingdom seems more immediate, more tangible than many other periods of Egyptian history. For once, we can taste its flavor. ([Location 1790](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=1790))(Wilkinson 2010, p. 101)
