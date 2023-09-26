@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/obsidian-trade-and-movement-in-the-mediterranean-is-a-useful-indicator-of-early-man-s-maritime-expansion-ability-and-related-trade/"}
+---
+
+“With the interesting exception of its deep penetration of the interior Maghreb (a reflection of more generalized long-range terrestrial mobility across North Africa), Mediterranean obsidian circulation is strongly associated with movement by sea, well beyond the requirement of getting off its islands. It is tempting to wonder whether its cultural value lay partly in this maritime association. Transport of Lipari’s obsidian to Calabria implied the ability not merely to cross the Strait of Messina, no challenge since the Aurignacian, but the skilled business of navigating its length, which demanded knowledge of its racing, treacherous currents, and the later transport of such obsidian round the heel of Italy and into the Adriatic was manifestly maritime.” ([Broodbank, 2013, p. 233](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=219&annotation=SGFC2JZ3))
