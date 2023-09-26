@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/roman-mythology-enshrined-the-idea-that-romans-were-from-somewhere-else-troy-etc/"}
+---
+
+The message is clear: however far back you go, the inhabitants of Rome were always already from somewhere else. That message is most neatly summed up in a strange etymology recorded by Dionysius, among others. Greek and Roman intellectuals were fascinated by word derivations, which they were convinced gave the key not just to the origin of the word but also to its essential meaning. They were sometimes correct in their analysis, and sometimes extravagantly wrong. Their mistakes are often revealing, as in this case. Dionysius, at an early point in his history, reflects on yet another group of even more primitive inhabitants of the site that became Rome: the Aborigines. The derivation of this word should have been blindingly obvious: these were the people who had been there ‘from the beginning’ (*ab origine*). ([Location 952](https://readwise.io/to_kindle?action=open&asin=B0108U7IHO&location=952)) (page 78)
