@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-mediterranean-and-the-sea-s-function-of-connecting-developing-societies-did-lend-an-element-of-anarchy-to-palaces-trying-to-maintain-control/"}
+---
+
+“For even at this high noon of the palatial system, potential future problems are not hard to spot. Most involve the growing challenges faced by palaces in maintaining their controlling grip. The connecting sea, as we have noted, remained an essentially anarchic space. In some areas, the complexity of coasts, seas and islands over which trade networks shifted and flickered made it hard for any point to maintain a nodal position, particularly if the means of doing so was a territorially embedded institution like a palace and dynasty.” ([Broodbank, 2013, p. 414](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=390&annotation=H873BU9V))
