@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/similarity-between-painted-tomb-100-and-gebel-el-arak-knife/"}
+---
+
+The knife and ivory handle from Gebel el-Araq have often been discussed in this context. On the handle, figures associated with motives common also to the Eastern Invaders, namely the macehead. probably the foreign ship, and presumably the hero in a long kilt, attack and outnumber those probably associated with Gerzean boats, which mount awnings identical with those of the central boat of the painted tomb. Both parties wear the native sheath and fight with the Gerzean flint-knife, but the dangerous-looking aggressors bear the stamp of foreign influence and differ in physical appearance. And these contrasts are emphasized by the opposed directions faced by the boats. The superimposition of foreign culture on native is even seen in the knife itself which has been flaked down from its normal shape to fit an exotic and rather inefficient handle. 
+
+The painted tomb shows similar aggressors of Asiatic affiliation intruding far into the south of Upper Egypt. What impelled them? A combination of trade and brigandage may be a reasonable explanation: elephant-ivory, skins, timber, and possibly spices of Nubian origin being sought against the offer of technical and ideological innovation. 
+
+Geographically, Hierakonpolis was the limit of Upper Egypt and controlled the entry to Nubia ; its chief, if reacting vigorously, could have made favourable terms with intruders. The paintings can be interpreted as partly a narrative of such a reaction by a Gerzean chief and of its consequences: first, resistance to aggression shown in the figures confronting the conqueror; second, assimilation of foreign ideology shown in the heroic attitude; third, authority over native and foreign, shown by the hero and lion affronter imposing on black and red lions; fourth, harmonious co-existence shown in the paired antelopes and the peaceful passage of ships.
+
+A ruler, accessible to such conceptions and techniques as divine kingship, structural brickwork, the sailing ship, and ground-line composition (the basis of writing), possessed the potentiality of the kings of the First Dynasty.
+
+To these techniques may be added carving in relief, since the decorated tomb dates the Gebel el-Araq knife-handle. In its naturalistic and vivid style the handle contrasts markedly with typical Gerzean carvings and compares altogether better with the Hierakonpolis ivories, suggesting that already, during the currency of the Gerzean culture, aforeign-inspired school of carvers was established in Upper Egypt, producing objects in character with those which formed the regalia later buried as the Main Deposit, Hierakonpolis.
+
+==In short, the conclusion is that the person once buried in the decorated tomb deserves consideration as one of the legendary Kings of Upper Egypt.”== ([Case and Payne, 1962, p. 17](zotero://select/library/items/MNAF7ZFG)) ([pdf](zotero://open-pdf/library/items/FVM5PZ2D?page=13&annotation=TUQUW9LI))
