@@ -29,12 +29,10 @@ _ _ _
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/research-vault/02-atomic-notes/ubaid-pottery-distribution-around-persian-gulf-shores/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-
-### Ubaid pottery distribution around [[Persian Gulf\|Persian Gulf]] shores
 
 “This evidence principally consists of sites on the eastern side of the Arabian Peninsula bearing Ubaid pottery. Around 40 coastal and inland sites are known from the Central Gulf region (Oates et al. 1977) with a further scattering of exclusively coastal sites in Bahrain, Qatar and the Lower Gulf \[Fig. 1\]. Recent discoveries show that Ubaid pottery is distributed as far as the easternmost portions of the Arabian Gulf, in Sharjah, Ajman, Umm al-Qawain and Ras al-Khaimah (Jasim 1996; Haerinck 1991; Uerpmann & Uerpmann 1996: 132).” ([Carter, 2014, p. 92](zotero://select/library/items/95QP46HC)) ([pdf](zotero://open-pdf/library/items/HDYMAYDV?page=3&annotation=IF74TKCM))
 
@@ -42,7 +40,7 @@ _ _ _
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/research-vault/02-atomic-notes/structural-evidence-at-as-sabiyah-h3/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -71,13 +69,10 @@ _ _ _
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/research-vault/02-atomic-notes/z-were-masts-used-on-reed-boats-boat-model-from-eridu-mast-socket-different-than-as-sabiyah-boat-model/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-
-
-### Z: were masts used on reed boats? boat model from eridu ‘mast socket’ different than [[As-sabiyah\|As-sabiyah]] boat model
 
 ==“The most famous published example is from the Eridu cemetery, though identification of this item as a boat has been challenged ([[Research Vault/01 Sources/01.02 Articles/@StrasserboatmodelsEridu1996\|@StrasserboatmodelsEridu1996]]; cf. Bourriau & Oates 1997). The Eridu example is quite different from the H3 model, or the Ubaid-period boat models published from Mashnaqa and Al-Ubaid, the chief dissimilarity lying in the breadth of the Eridu model’s beam and the presence of a ‘mast socket’. No mast socket is evident on the H3 example; this does not prove that it does not represent a masted sailing ship, as bipod masts may have been used which do not require a socket. Casson (1995: 13) states that bipod masts are suitable for reed vesels, where no part is strong enough to support a pole mast, though Vosmer (2000: 151) allows the possibility of a pole mast being used on Bronze Age reed vessels. At present, therefore, we cannot ascertain whether the vessel represented by the H3 model was a sailing craft, or whether it relied on another means of propulsion (rowing, punting). Considerably later model boats from the Ur cemeteries are associated either with oars or punt poles (Woolley 1934: 71, 145), though these may represent only river- or marsh-boats rather than sea-going vessels.” ([Carter, 2014, p. 96](zotero://select/library/items/95QP46HC)) ([pdf](zotero://open-pdf/library/items/HDYMAYDV?page=7&annotation=IIJ4TK9V))==
 
