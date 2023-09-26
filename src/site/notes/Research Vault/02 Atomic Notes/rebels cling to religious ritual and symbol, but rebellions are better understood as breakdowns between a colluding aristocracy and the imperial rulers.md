@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/rebels-cling-to-religious-ritual-and-symbol-but-rebellions-are-better-understood-as-breakdowns-between-a-colluding-aristocracy-and-the-imperial-rulers/"}
+---
+
+Religion often confirmed the aspirations of the rebels and provided unifying rituals and symbols–from messianic hopes of the Jews to the human sacrifices reputedly carried out by Arminius in the Teutoburg Forest–==but rebellions were not specifically religious uprisings. They were usually led by the provincial aristocracy and were a sign that the relationship of collusion between the local elites and the Roman authorities had broken down.== To put it another way, they were the price the Romans paid for their dependence on collaboration. [[Rebellion\|Rebellion]] [was] usually sparked by some isolated inflammatory or offensive act on the part of the Romans which upset the delicate balance of power. ([Location 7202](https://readwise.io/to_kindle?action=open&asin=B0108U7IHO&location=7202)) (page 512)
