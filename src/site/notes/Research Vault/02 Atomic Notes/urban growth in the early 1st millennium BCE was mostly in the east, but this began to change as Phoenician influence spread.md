@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/urban-growth-in-the-early-1st-millennium-bce-was-mostly-in-the-east-but-this-began-to-change-as-phoenician-influence-spread/"}
+---
+
+“Beginning with the former, Chapter 9 argued that for the first two centuries of the new millennium, towns, and the tightly surrounding or more spacious polities associated with them, remained unknown west of Cyprus and the Nile Delta, save by the very end at Carthage. Even after 800 BCE , at a time of rapid population growth, developments remained variable. East of the Cyprus–Delta line, town life was initially boosted by wetter conditions and expanding trade, but Assyrian intervention exerted a heavy influence on individual urban histories; on the one hand, even the provincial governor’s seat at Megiddo was a mere 6 ha (15 acres), while favoured ports like Tyre and Ashkelon boasted five-figure populations.” ([Broodbank, 2013, p. 521](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=487&annotation=9VU7D44L))
+
+“Yet the other early Phoenician enclaves in the centre and west that we shall encounter shortly were much smaller, and while determined to project a Levantine or Carthaginian urban aspect in their architecture, they lacked both extensive infrastructure and weight of numbers.” ([Broodbank, 2013, p. 522](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=488&annotation=9LVBDSW7))
