@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-mesopotamian-merchant-lu-enlilla-is-a-perfect-example-of-trade-with-magan-and-the-mesopotamian-trade-networks/"}
+---
+
+#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 003 - Sargon to Hammurabi - Trade and Turmoil in Ancient Mesopotamia\|(OLD) 003 - Sargon to Hammurabi - Trade and Turmoil in Ancient Mesopotamia]] OR [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 004 - Mesopotamian Merchants\|(OLD) 004 - Mesopotamian Merchants]]
+
+“A visitor to [[Encyclopedia/02 Places/Magan and Meluhha\|Magan]] around 2000 BCE would have been rewarded with the sight of Mesopotamian traders bartering wool, textiles, sesame oil, and leather goods in exchange for copper. One such man was named Lu-Enlilla, whose job title specified that he was a “seafarer.” When not on a trading expedition, he lived in the city of Ur. The temple of Nanna (the moon god) employed Lu-Enlilla to sell woolen textiles in Magan in order to buy copper. He came home not only with the copper but also with beads, ivory, and special (and presumably delicious) “Magan onions.” His must have been an exciting, though perhaps somewhat hazardous, career. The Persian Gulf through which he sailed regularly was blazing hot and humid in summer, even hotter than his native Ur, and in the fall, sudden gales would blow up out of nowhere, buffeting the boats and no doubt capsizing some. 
+
+But after Lu-Enlilla’s time, the Mesopotamian traders seem to have stopped traveling all the way to Magan for their copper. By the nineteenth century BCE, the sailors who set out in their boats on the Persian Gulf in search of copper headed not for Magan but for the closer shores of [[Encyclopedia/02 Places/Dilmun\|Dilmun]] (Bahrain).” ([Podany, 2012, p. 98](zotero://select/library/items/GN73GMNP)) ([pdf](zotero://open-pdf/library/items/LXNK9GFK?page=123&annotation=ARR66N99))
