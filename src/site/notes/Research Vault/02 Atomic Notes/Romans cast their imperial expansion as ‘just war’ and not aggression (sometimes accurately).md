@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/romans-cast-their-imperial-expansion-as-just-war-and-not-aggression-sometimes-accurately/"}
+---
+
+Many Romans insisted that their overseas expansion resulted from a series of just wars, in the sense of wars undertaken with the necessary support of the gods, in self-defence or in the defence of allies, who had often solicited Rome’s help. It was not aggression at all. First, the Romans were not the only agents in the process. They did not invade a world of peace-loving peoples, who were just minding their own business until these voracious thugs came along. However cynical we might rightly be about Roman claims that they went to war only in response to requests for assistance from friends and allies (that has been the excuse for some of the most aggressive wars in history), part of the pressure for Rome to intervene did come from outside. ([Location 2661](https://readwise.io/to_kindle?action=open&asin=B0108U7IHO&location=2661)) (page 193)
