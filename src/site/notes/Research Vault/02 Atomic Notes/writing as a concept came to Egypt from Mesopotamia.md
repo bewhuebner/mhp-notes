@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/writing-as-a-concept-came-to-egypt-from-mesopotamia/"}
+---
+
+#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 002 - Surplus Food, Big Buildings, and Power Hungry Lugals\|(OLD) 002 - Surplus Food, Big Buildings, and Power Hungry Lugals]] OR [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 005 - Meanwhile, In Egypt...\|(OLD) 005 - Meanwhile, In Egypt...]]
+
+Archaeologists dispute whether Egypt or Mesopotamia should take the credit for inventing the very idea of writing, but Mesopotamia, especially the southern city of Uruk (modern Warka), seems to have the better claim. It is likely that the idea of writing came to Egypt along with a raft of other Mesopotamian influences in the centuries before unification—the concept, but not the writing system itself. Hieroglyphics are so perfectly suited to the ancient Egyptian language, and the individual signs so obviously reflected the Egyptians’ particular environment, that they must represent an indigenous development. We may imagine an inspired genius at the court of one of Egypt’s predynastic rulers pondering the strange signs on imported objects from Mesopotamia—pondering them and their evident use as encoders of information, and devising a corresponding system for the Egyptian language. ([Location 870](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=870))(Wilkinson 2010, p. 41)
