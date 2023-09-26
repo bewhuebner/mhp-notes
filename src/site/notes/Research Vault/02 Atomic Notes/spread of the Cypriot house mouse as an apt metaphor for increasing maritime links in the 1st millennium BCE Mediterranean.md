@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/spread-of-the-cypriot-house-mouse-as-an-apt-metaphor-for-increasing-maritime-links-in-the-1st-millennium-bce-mediterranean/"}
+---
+
+“The modern DNA of Cypriot mice is exceptionally diverse, as befits an island that became a maritime crossroads. Meanwhile, the native woodmouse reigned supreme in the centre and west, with the house mouse entirely absent long after suitable living conditions and canoe travel had become established there. Then, over a few centuries in the early to mid-1st millennium BCE, as direct maritime links consolidated and sea traffic surged west of Italy, house mice stormed into Corsica, France, the Balearics, Spain and the western Maghreb. A few giant leaps and innumerable little scuttles: a fitting enough metaphor for the diverse tempos of Mediterranean mobility.” ([Broodbank, 2013, p. 495](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=462&annotation=4NTT7KQW))
