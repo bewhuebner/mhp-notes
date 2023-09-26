@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/ubaid-pottery-distribution-around-persian-gulf-shores/"}
+---
+
+“This evidence principally consists of sites on the eastern side of the Arabian Peninsula bearing Ubaid pottery. Around 40 coastal and inland sites are known from the Central Gulf region (Oates et al. 1977) with a further scattering of exclusively coastal sites in Bahrain, Qatar and the Lower Gulf \[Fig. 1\]. Recent discoveries show that Ubaid pottery is distributed as far as the easternmost portions of the Arabian Gulf, in Sharjah, Ajman, Umm al-Qawain and Ras al-Khaimah (Jasim 1996; Haerinck 1991; Uerpmann & Uerpmann 1996: 132).” ([Carter, 2014, p. 92](zotero://select/library/items/95QP46HC)) ([pdf](zotero://open-pdf/library/items/HDYMAYDV?page=3&annotation=IF74TKCM))
