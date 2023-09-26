@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/pompey-s-triumph-in-61-bce-signaled-the-roman-empire-s-shift-toward-world-conquest/"}
+---
+
+Pliny the Elder, writing just over a hundred years later, singled out for disapproval a portrait head of [[Pompey\|Pompey]] that the general himself had commissioned, made entirely of pearl: ‘the defeat of austerity and the triumph of luxury’. But there was a bigger point. This celebration was the most powerful expression yet of the Roman Empire in territorial terms, and even of Roman ambition for world conquest. One of the trophies carried in the procession, probably in the shape of a large globe, had an inscription attached to it declaring that ‘this is a trophy of the whole world’. And a list of Pompey’s achievements displayed in a Roman temple included the telling if over-optimistic boast that he ‘extended the frontiers of the empire to the limits of the earth’. ([Location 3855](https://readwise.io/to_kindle?action=open&asin=B0108U7IHO&location=3855)) (page 274)
