@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-rise-of-athens-the-ionian-revolt-and-the-battle-of-lade-in-494-bce-led-to-the-clash-between-greece-and-persia/"}
+---
+
+“What went wrong in 500-499 BCE in the east Aegean, where reconciling the demands of overbearing terrestrial polities with the call of the sea had proved tricky since the late 2nd millennium BCE, is veiled in obscurity, though the young Athenian democracy, with its trading interests there and further north, assuredly had a hand in inciting opposition. The resultant ‘Ionian Revolt’ caught up Caria and Cyprus too, and ended disastrously for its instigators in 494 BCE, when nearly 1000 ships fought off the islet of Lade, today a hillock landlocked by alluvial mud a short stroll from Miletus. Just fourteen years later the comparably sized navies of the Persian empire and a different alliance of Greek city-states would clash again, more famously, and with the inverse result, at Salamis.” ([Broodbank, 2013, p. 584](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=550&annotation=82VWHRUT))
