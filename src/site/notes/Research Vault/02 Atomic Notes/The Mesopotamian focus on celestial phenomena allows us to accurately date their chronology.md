@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-mesopotamian-focus-on-celestial-phenomena-allows-us-to-accurately-date-their-chronology/"}
+---
+
+“Because the ancient Mesopotamians stood in awe of the sky and its mysteries, celestial phenomena such as lunar and solar eclipses were among the special events they cited in their chronicles. Due to their meticulous observations, today’s astronomers can calculate exactly when these events would have taken place. Since the ancient astronomer also noted who was then sitting on the throne, modern calculations can help us date not only heavenly events but terrestrial ones as well. Astronomy thus provides us with the very keys we need to unlock the absolute chronology of the Mesopotamian past” ([Bertman, 2003, p. 50](zotero://select/library/items/YPMHZBXL)) ([pdf](zotero://open-pdf/library/items/X3CHJ4P3?page=63&annotation=U3H8JEGT))
