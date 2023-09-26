@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-sumerian-world-extended-to-india-anatolia-the-mediterranean-shore-and-egypt/"}
+---
+
+“To judge from the available evidence, both archeological and literary, the world known to the Sumerians extended no farther than India on the east; Anatolia, the Caucasus region, and the more westerly parts of central Asia on the north; the Mediterranean Sea on the west, although perhaps Cyprus and even Crete might be included; and Egypt and Ethiopia on the south. There is at present no evidence known to me that the Sumerians had any contact with, or knowledge of, peoples living in northern Asia, China, or anywhere on the European continent.” ([Kramer, 1963, p. 284](zotero://select/library/items/TI24BNVH)) ([pdf](zotero://open-pdf/library/items/EY8R4485?page=284&annotation=MM2AC3FZ))
+
+#USE in Ep 2 or 3
