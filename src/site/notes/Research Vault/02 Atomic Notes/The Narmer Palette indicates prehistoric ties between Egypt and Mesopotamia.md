@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-narmer-palette-indicates-prehistoric-ties-between-egypt-and-mesopotamia/"}
+---
+
+The decoration of the Narmer Palette likewise spans two worlds and two ages. The shallow well that betrays the object’s practical origins is formed by the entwined necks of two fabulous creatures, held on leashes by attendants. These “serpopards” (leopards with serpentine necks) are not Egyptian in origin. They come from the artistic canon of ancient Mesopotamia. ([Location 678](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=678))
+
+ So, for a few generations, Egyptian elite culture adopted a range of Mesopotamian imagery, especially artistic motifs to represent complex or difficult concepts, such as the notion of kingship itself (a rosette) or the reconciliation of opposing forces by the ruler (two intertwined beasts). But once the borrowed ideas had achieved the desired effect, they were discarded just as quickly, in favor of indigenous cultural expressions—the only exception being the Mesopotamian-inspired style of architecture adopted for the king’s palace and other royal buildings. The Narmer Palette captures this pivotal moment in cultural history: Mesopotamian motifs appear on one side, exclusively Egyptian motifs on the other. Egyptian civilization had come of age and was finding its own voice. ([Location 684](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=684))(Wilkinson 2010, p. 29)
