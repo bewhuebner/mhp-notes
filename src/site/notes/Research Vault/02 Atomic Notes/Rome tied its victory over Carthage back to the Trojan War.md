@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/rome-tied-its-victory-over-carthage-back-to-the-trojan-war/"}
+---
+
+Aemilianus’ rueful quotation from Homer as he watched the destruction had its poignant side. But it was also a boast. Rome was now claiming its place in the cycle of great powers and great conflicts that started with the [[Trojan War\|Trojan War]]. ([Location 2891](https://readwise.io/to_kindle?action=open&asin=B0108U7IHO&location=2891)) (page 210)
+
+Whatever motivations lay behind the violence of 146 BCE, the events of that year were soon seen as a turning point. In one way, they marked the acme of Roman military success. Rome had now annihilated its richest, oldest and most powerful rivals in the Mediterranean world. As Virgil presented it more than a hundred years later in the [[Aeneid\|Aeneid]], Mummius, by conquering Corinth, had at last avenged the defeat of Aeneas’ Trojans by the Greeks in the [[Trojan War\|Trojan War]]. But in another way, the events of 146 BCE were seen as the beginning of the collapse of the Republic and as the herald of a century of civil wars, mass murder and assassinations that led to the return of autocratic rule. ([Location 2938](https://readwise.io/to_kindle?action=open&asin=B0108U7IHO&location=2938)) (page 213)
