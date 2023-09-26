@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-temple-of-melqart-and-ties-to-the-pillars-of-herakles-that-essentially-hellenized-the-phoenician-mythology/"}
+---
+
+“Maybe the greatest loss, however, is the fabled temple of Melqart, a new, specifically Tyrian god of cyclic fertility, the sea and overseas ventures, with a good claim to be true lord of the city – indeed the etymology of his name connotes precisely this. Tyrian ideology conceived of his temple as a reference point for the entire Mediterranean. Its twin gold and emerald columns were balanced at the other end of the basin first by the rocks of Gibraltar and Ceuta, known as the Pillars of Melqart long before their Hellenizing reattribution to Herakles (their earliest known names, Calpe and Abyla, may also be Phoenician rather than indigenous), and later by inscribed bronze columns at a matching temple to the god at Cadiz, between the strait itself and Huelva.” ([Broodbank, 2013, p. 486-87](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=454&annotation=TZ94Q3H9))
