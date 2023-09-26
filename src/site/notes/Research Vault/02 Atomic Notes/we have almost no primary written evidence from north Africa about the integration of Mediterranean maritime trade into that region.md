@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/we-have-almost-no-primary-written-evidence-from-north-africa-about-the-integration-of-mediterranean-maritime-trade-into-that-region/"}
+---
+
+“Frustratingly, although we know quite a lot about the overseas ventures that effected the rapid integration of parts of the African Mediterranean, Herodotus and informed guesswork are almost the only options concerning the receiving end. Herodotus was writing at a time when North Africa had already been so changed that his assertions about past ways of life there are hard to evaluate. For what it is worth, he described a Cyrenaica roamed by seasonal pastoralists.” ([Broodbank, 2013, p. 568](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=534&annotation=PI6G5XES))
