@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-absence-of-pottery-in-thutmose-iii-s-dedication-at-karnak-from-the-battle-of-megiddo-shows-the-materials-that-were-deemed-valuable/"}
+---
+
+“The other priority was the extraction of tribute or, as a last resort, booty from defeated rebel vassals. In this sense both Egypt and Haiti could be extremely successful through a mix of diplomacy and force. A superb example is Thutmose III’s dedication at the Karnak temple in Thebes after he annihilated a coalition of Levantine kings in about 1458 BCE at Megiddo, the battle to which we owe the connotations of Armageddon. The booty was displayed in tiers of value culminating in precious metals (including silver Canaanite amphorae, an otherwise unknown refinement) that confirm the economic hierarchies of the age and illustrate just how effective such coercive strategies might be. Thutmose acquired living booty, too, including 2000 horses and more thousands of captives, among them probably some expert in glass production. Hatti’s approach likewise focused on metal tribute and population transfers. (Broodbank, 2013, 404-05)
