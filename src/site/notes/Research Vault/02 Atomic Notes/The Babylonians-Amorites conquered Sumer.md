@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-babylonians-amorites-conquered-sumer/"}
+---
+
+“In any case, it was a Semitic people—the Amorites—who put an end to the Sumerians as a political, ethnic, and linguistic entity. To be sure, the conquered conquered the conquerors, and the Amorites, commonly known as Babylonians because their capital was the city of Babylon, took over Sumerian culture and civilization lock, stock, and barrel. Except for the language, the Babylonian educational system, religion, mythology, and literature are almost identical with the Sumerian, excluding, of course, the expected changes and variations due to political developments and the passing of time.” ([Kramer, 1963, p. 288](zotero://select/library/items/TI24BNVH)) ([pdf](zotero://open-pdf/library/items/EY8R4485?page=288&annotation=7BLCA53I))
