@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/rome-was-probably-a-typical-archaic-town-rather-than-the-complex-society-that-roman-myth-depicts/"}
+---
+
+“But unless Rome was different from every other archaic township in the ancient Mediterranean (or early townships anywhere), it would have been much less formally structured than the stories suggest.” ([Location 1229](https://readwise.io/to_kindle?action=open&asin=B0108U7IHO&location=1229)) (page 98)
+
+re: 6th century BCE *La Grande Rome dei Tarquini* - “So far as we can judge the town’s extent in the middle of the sixth century BCE (part of that judgement inevitably comes down to guesswork), it was now substantially bigger than the Latin settlements to the south and at least as large as the largest Etruscan towns to the north, with a population of perhaps 20,000 to 30,000, although it had nowhere near the grandeur of some contemporary Greek settlements in Sicily and South Italy, and was significantly smaller. That is to say, Rome must have been a major player in the region, but it was not yet in any way extraordinary.” ([Location 1526](https://readwise.io/to_kindle?action=open&asin=B0108U7IHO&location=1526)) (page 119)
