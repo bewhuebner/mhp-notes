@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/seti-i-campaigns-along-the-levantine-coast-to-secure-trade-routes/"}
+---
+
+Egypt’s reputation as a great power was seriously compromised, its overseas territories vulnerable to secession or seizure by the Hittites, and its mastery of trade routes threatened. Action was urgently needed if the Ramessides’ inheritance was not to disappear before their very eyes. Seti had lost no time, launching his first campaign while still crown prince. He had fought his way along the Phoenician coast to reassert Egypt’s traditional sphere of influence and to secure Egypt’s continued access to the Mediterranean harbors, with their garrisons and trading wharfs. ([Location 4878](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=4878))(Wilkinson 2010, p. 296)
