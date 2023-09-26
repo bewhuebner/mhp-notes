@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-development-of-the-cuneiform-system-of-writing-was-a-main-contribution-of-sumer-to-civilization-as-a-whole/"}
+---
+
+“From the point of view of the history of civilization, Sumer's supreme achievements were the development of the cuneiform system of writing and the formal system of education which was its direct outgrowth. It is no exaggeration to say that had it not been for the inventiveness and perseverance of the anonymous, practically oriented Sumerian pundits and teachers who lived in the early third millennium B.C., it is hardly likely that the intellectual and scientific achievements of modern days would have been possible; it was from Sumer that writing and learning spread the world over.” ([Kramer, 1963, p. 229](zotero://select/library/items/TI24BNVH)) ([pdf](zotero://open-pdf/library/items/EY8R4485?page=229&annotation=VY39FQHX))
