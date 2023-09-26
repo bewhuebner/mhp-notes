@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/royal-acquisition-of-luxury-goods-is-a-thread-running-through-the-amarna-letters/"}
+---
+
+“Gifts had always been important in diplomatic correspondence, but by the time of the Amarna letters it almost seemed as though the alliances existed solely so that the kings could acquire luxury goods. This wasn’t the case— there were many other reasons for alliances to flourish—but the allure of exotic wares that were unavailable at home was powerful. Just about every letter was accompanied by valuable presents.” ([Podany, 2012, p. 244](zotero://select/library/items/GN73GMNP)) ([pdf](zotero://open-pdf/library/items/LXNK9GFK?page=269&annotation=EASJTMAN))
+
+“But there was another kind of gift as well, one that caused much more anxiety. Such gifts involved significant quantities of raw materials that had, for all practical purposes, been ordered by a king from his ally with the promise that a shipment of a local product on a similar scale would be sent in return. Most of the Amarna letters that mention such large shipments pertained to unworked gold from Egypt, but it’s likely that other goods, such as silver, copper, and horses, might have been viewed in a similar way and requested from other kings.” ([Podany, 2012, p. 245](zotero://select/library/items/GN73GMNP)) ([pdf](zotero://open-pdf/library/items/LXNK9GFK?page=270&annotation=Q7UJKZ7G))
