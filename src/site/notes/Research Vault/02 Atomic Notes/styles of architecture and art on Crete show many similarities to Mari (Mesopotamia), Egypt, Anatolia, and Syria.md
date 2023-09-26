@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/styles-of-architecture-and-art-on-crete-show-many-similarities-to-mari-mesopotamia-egypt-anatolia-and-syria/"}
+---
+
+Yet in Mallia, a curious hypostyle room unequivocally points to direct Egyptian influence. Well, why not? After all, an Egyptian statue, probably dating from the nineteenth century B.C., has been found in Knossos, and a Minoan vase has been found at Abydos in Egypt among Egyptian objects from the same period. I have no intention of joining in this debate among specialists, and will simply conclude that Mesopotamia, Crete, Anatolia, Syria and Egypt all shared certain architectural features during the second millennium B.C. Even the bathhouses with tiled walls and drains, which were once thought to be a Cretan invention, have been found at Mari. 
+
+And that is not all. The Cretan frescoes which only appear rather late on, in the second palace period (sixteenth century B.C.), look as if they could have been inspired by the frescoes which the last king of Mari had had painted for the Zimri Lim palace, before the conquest of the city by Hammurabi in 1760. The techniques of moistening are the same, and the colours are very similar, no doubt because they were obtained by crushing the same stones, lapis lazuli for instance for the brilliant blues which were still beloved of the Etruscans centuries later. ([Location 2701](https://readwise.io/to_kindle?action=open&asin=B004FEFSCC&location=2701))(Braudel 2001, 128–129)
