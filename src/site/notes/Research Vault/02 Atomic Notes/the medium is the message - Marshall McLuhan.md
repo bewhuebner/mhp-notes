@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-medium-is-the-message-marshall-mc-luhan/"}
+---
+
+“[[the medium is the message\|the medium is the message]].” What he meant, I think, was that when a new technology comes along, you think of it as like a pipe—somebody pours in information at one end, and you receive it unfiltered at the other. But it’s not like that. Every time a new medium comes along—whether it’s the invention of the printed book, or TV, or Twitter—and you start to use it, it’s like you are putting on a new kind of goggles, with their own special colors and lenses. Each set of goggles you put on makes you see things differently. ([Location 1290](https://readwise.io/to_kindle?action=open&asin=B093G9TS91&location=1290))
+
+every time a new medium comes along—a new way for humans to communicate—it has buried in it a message. It is gently guiding us to see the world according to a new set of codes. The way information gets to you, McLuhan argued, is more important than the information itself. TV teaches you that the world is fast; that it’s about surfaces and appearances; that everything in the world is happening all at once. ([Location 1295](https://readwise.io/to_kindle?action=open&asin=B093G9TS91&location=1295))
+
+What, I wondered, is the message buried in the medium of the printed book? Before the words convey their specific meaning, the medium of the book tells us several things. Firstly, life is complex, and if you want to understand it, you have to set aside a fair bit of time to think deeply about it. You need to slow down. Secondly, there is a value in leaving behind your other concerns and narrowing down your attention to one thing, sentence after sentence, page after page. Thirdly, it is worth thinking deeply about how other people live and how their minds work. They have complex inner lives just like you. ([Location 1329](https://readwise.io/to_kindle?action=open&asin=B093G9TS91&location=1329))
