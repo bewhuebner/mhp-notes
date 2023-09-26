@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/seti-i-forced-lebanon-to-cut-wood-in-his-presence-as-a-symbol-of-egypt-s-dominance-and-lebanon-s-servitude/"}
+---
+
+Seti knew that control of the northern Sinai coastal route was a necessary prerequisite for more ambitious military maneuvers. Having reimposed Egyptian authority in his own backyard, he moved onward into Canaan, regaining control of the key fortified towns of Beth-Shan and Yenoam. He then set the seal on Egypt’s victory by forcing the chiefs of Lebanon to hew wood in his presence—a public act of submission to the pharaoh that also emphasized Egypt’s claim over the region’s abundant natural resources. ([Location 4884](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=4884))(Wilkinson 2010, p. 296)
