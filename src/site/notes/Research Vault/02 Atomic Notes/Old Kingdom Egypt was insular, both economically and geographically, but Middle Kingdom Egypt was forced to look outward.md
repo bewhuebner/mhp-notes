@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/old-kingdom-egypt-was-insular-both-economically-and-geographically-but-middle-kingdom-egypt-was-forced-to-look-outward/"}
+---
+
+#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 007 - Old Kingdom Egypt Expands Its Reach\|(OLD) 007 - Old Kingdom Egypt Expands Its Reach]] and [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 008 - The Middle Kingdom Mariners\|(OLD) 008 - The Middle Kingdom Mariners]]
+
+J. M. Keynes, the economist’s economist, joked about ancient Egypt that it represented human and economic perfection since any surplus production, agricultural or urban, was systematically consumed by putting up huge and “useless” pyramids. So the Egyptian economy ran no risk of “over-heating”—but only on condition that it was self-contained. The Egypt of the Old Kingdom had little contact with the outside world except that it sent expeditions to Libya, Sinai or Nubia in search of precious or rare stones, gold, slaves and black mercenaries—and that it sent a few boats to Byblos to fetch oil and wood from Lebanon. Everything was to change when Egypt was forcibly drawn into the international scene in the second millennium B.C., and had to defend its own gates. Then the army began to consume what had earlier fuelled the peaceful building programme of the pyramids. ([Location 1604](https://readwise.io/to_kindle?action=open&asin=B004FEFSCC&location=1604)) (Braudel 2001, p. 70)
