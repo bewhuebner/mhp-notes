@@ -49,7 +49,7 @@ As the world's first nation-state, the history of Ancient Egypt is above all the
 
 [[Research Vault/02 Atomic Notes/The Narmer Palette indicates prehistoric ties between Egypt and Mesopotamia\|The Narmer Palette indicates prehistoric ties between Egypt and Mesopotamia]]
 
-[[Research Vault/02 Atomic Notes/writing was initially used for record-keeping,but then became a method of societal control\|writing was initially used for record-keeping,but then became a method of societal control]]
+[[Research Vault/02 Atomic Notes/writing was initially used for record-keeping, but then became a method of societal control\|writing was initially used for record-keeping, but then became a method of societal control]]
 
 ## Chapter 3: Absolute Power
 
