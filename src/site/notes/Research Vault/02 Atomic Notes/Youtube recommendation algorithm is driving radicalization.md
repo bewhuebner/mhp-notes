@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/youtube-recommendation-algorithm-is-driving-radicalization/"}
+---
+
+A major study asked white nationalists how they became radicalized, and a majority named the internet—with YouTube as the site that most influenced them. A separate study of far-right people on Twitter found that YouTube was by far the website they turned to the most. “Just watching YouTube radicalizes people,” Tristan explained. Companies like YouTube want us to think “we have a few bad apples,” he explained to the journalist Decca Aitkenhead, but they don’t want us to ask: “Do we have a system that is systematically, as you turn the crank every day, pumping out more radicalization? We’re growing bad apples. We’re a bad-apple factory. We’re a bad-apple farm.” ([Location 2130](https://readwise.io/to_kindle?action=open&asin=B093G9TS91&location=2130))
