@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/silver-and-iron-became-important-bulk-minerals-in-the-9th-to-6th-centuries-bce/"}
+---
+
+“Silver, although mined in quantity only in Anatolia, Attica and Iberia, was widely crafted, and critically important as bullion, an exchange currency and, in the Levant, ultimately tribute by the tonne. By late Roman times, 6.6 million tonnes of waste from silver extraction had piled up at Río Tinto, the first of the two spikes that generated this lying between the 9th and mid-6th centuries BCE. Whatever the truth of the tale that Phoenician ships cast anchors in silver so as to carry more away with them from Iberia, the gist is obvious. Iron now began to appear in bulk, too. It was smelted or worked using strikingly similar techniques in Pithekoussai, Carthage, Oropos (over the strait from Euboea) and Iberia. The 160 tonnes found stockpiled in an Assyrian palace near Nineveh affirm the stupendous quantities needed for armaments and tools.” ([Broodbank, 2013, p. 515](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=481&annotation=W6U5VFXV))
