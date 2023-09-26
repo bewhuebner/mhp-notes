@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/until-people-could-cross-the-sea-proficiently-the-mediterranean-in-a-real-sense-did-not-exist/"}
+---
+
+“the aim is to be a holistic explanation of how people living around the basin came together to create a cultural, social and ecological Mediterranean out of the initially mere geographical expression. Understanding this phenomenon requires finding out how its features first emerged. To illustrate this point simply, ==until people could cross the sea proficiently, the Mediterranean in a real sense did not exist; a non-conveying sea could not corrupt, or in fact do much save sustain fish==.” ([Broodbank, 2013, p. 22](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=19&annotation=K6SZJFEJ))
