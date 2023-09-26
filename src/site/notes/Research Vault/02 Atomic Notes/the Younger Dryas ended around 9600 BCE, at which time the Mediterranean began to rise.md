@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-younger-dryas-ended-around-9600-bce-at-which-time-the-mediterranean-began-to-rise/"}
+---
+
+“The end of the Younger Dryas came swiftly around 9600 BCE, with temperature rises of as much as 7°C (12.5°F) in a few decades. This marked the beginning of the Holocene, the most recent 11,600 years of the planet’s life into which most human achievement has been crammed and during which, without our interventions, Earth would broadly resemble its state in the previous interglacial over 100,000 years ago.” ([Broodbank, 2013, p. 156](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=143&annotation=TT5XLQLS))
+
+Around 8000 BC there was a very gradual warming, and this resulted in changes in flora and fauna that sometimes set these small groups of people on the move in search of their traditional prey, and sometimes encouraged a search for alternative types of food, especially that provided by the sea. The sea gradually rose, by as much as 120 metres, as the ice caps melted. The contours of the modern Mediterranean become more recognizable as isthmuses turned into islands and sea coasts retreated to roughly their current position; but all this was too slow a process to be readily visible. (@AbulafiaGreatSeaHuman2013)([Location 475](https://readwise.io/to_kindle?action=open&asin=B00551S1HI&location=475))(page 6)
