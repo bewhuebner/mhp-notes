@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-ship-depiction-at-the-tomb-of-unas/"}
+---
+
+The reign of Unas has left little in the way of evidence for historic events—a battle scene showing Egyptians fighting Asiatics is a rare exception—but one particular series of scenes from his pyramid causeway suggests a grim episode with dreadful human consequences. The images of famine, rendered in excruciating detail, are horribly familiar to modern audiences, who are accustomed to scenes of misery and degradation emanating from the African continent. On the Unas causeway, the tableau is just as harrowing: a man on the verge of death is supported by his emaciated wife, while a male friend grips his arm; a woman desperate for food eats the lice from her own head; a little boy with the distended belly of starvation begs a woman for food. ([Location 1628](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=1628))(Wilkinson 2010, p. 89)
