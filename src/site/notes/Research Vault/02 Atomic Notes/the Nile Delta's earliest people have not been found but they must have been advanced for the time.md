@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-nile-delta-s-earliest-people-have-not-been-found-but-they-must-have-been-advanced-for-the-time/"}
+---
+
+“No traces of the first inhabitants of this waterworld have yet emerged from beneath the subsequent metres of silt laid down by the river, but there is little doubt that as the Delta swelled into the most ecologically stupendous wetland in the basin, it became home to substantial numbers of sedentary hunter-gatherers with a strong aquatic streak. One legacy of such invisible populations may be later Egyptian adeptness with the papyrus reed, a palpably hunter-gatherer technology that was turned to make everything from boats, sandals, mats and food to, finally, a writing surface.” ([Broodbank, 2013, p. 200](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=187&annotation=MAQVVYXN))
