@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/tracing-pottery-evolution-is-a-great-indicator-of-technological-and-stylistic-sophistication-for-cultures-around-the-mediterranean/"}
+---
+
+“In the Neolithic, pottery enjoyed its first peak of technological and stylistic sophistication. As intimated for the Levant and Africa, the function of early pots varied, in the Aegean beginning with a minor social role, in the centre and west with a one-suits-all approach. It then diversified almost everywhere on the northern side of the Mediterranean to embrace coarser cooking and storage (taste-enhancing and parasite-proof respectively), as well as technically highly ambitious, smartly shaped and intricately decorated vessels for formalized eating and drinking, some with elevated pedestals, flat bases suggestive of table use, and handles on the first clear drinking cups. Elaborate ‘salt pots’ in the Aegean and the Danilo phase of Dalmatia further remind us that eating entailed far more than simply survival.” ([Broodbank, 2013, p. 227](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=213&annotation=S3PZIW4T))
