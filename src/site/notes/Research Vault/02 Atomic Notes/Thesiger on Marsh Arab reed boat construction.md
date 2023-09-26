@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/thesiger-on-marsh-arab-reed-boat-construction/"}
+---
+
+“I once saw an interesting type of coracle, called a zaima (Plate 45), on a branch of the Euphrates below Suqash Shuyukh. Made of qasab and coated outside with bitumen, it was ten feet long and two and a half feet at its widest. The owner told me that a zaima would only last a year, as the bitumen could not be renewed. He demonstrated how to construct one. First he made half a dozen tight bundles of five or six qasab reeds rather longer than the length of the proposed boat, and fastened them securely together side by side to form the keel, leaving eighteen inches free at both ends, which he bent upwards. He next bent five long reeds into the shape of a U, passed the middle among the loose ends of the keel, and laced them back to the keel itself. He repeated the process at either end alternately, until he had built up the sides and ends of the hull. This framework he stiffened by tying into it a number of ribs made from two or three willow wands. Bundles of a few reeds, fastened one below the other along the inside of the boat, covered the top half of the ribs and formed the inner planking. Finally, he wedged three stout sticks across the boat as thwarts and secured their ends in place with lumps of bitumen. The zaima was now ready to be coated outside with bitumen. Nowadays even the poorest of the Madan possess wooden boats, but in the past, when communications were precarious and wood difficult to obtain, many probably used just this type of coracle. A circular coracle, called the quffa, used to be common around Baghdad. The farthest south I saw one was below Kut, near Sheikh Saad.”
+{ #thesiger-zaima}
+
+
+([Thesiger, 1967, p. 128](zotero://select/library/items/P55CWFC3)) ([pdf](zotero://open-pdf/library/items/ZCJ2MAF6?page=128&annotation=FK5NULAK))
