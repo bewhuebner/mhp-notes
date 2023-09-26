@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/ptolemaic-alexandria-as-a-commercial-and-maritime-center/"}
+---
+
+In a more radical departure from pharaonic precedent, Ptolemy II’s astonishing pomp took place not in Thebes or Memphis but in Alexandria, the jewel in the Ptolemaic crown. Since its foundation on April 7, 331, the city had grown into the leading commercial center of the Mediterranean world. Alexander had personally selected the location, and he had chosen well. Since it was fewer than twenty miles from one of the Nile’s main mouths, yet unaffected by the annual inundation, Alexandria was ideally situated for maritime trade. A double natural harbor, divided by a causeway, provided deep-water anchorage for merchant shipping, and extensive wharfs were built for loading and unloading goods. As well as warehouses, shipyards, and the emporium, the waterfront also provided the perfect location for a theater and a temple to Poseidon, Greek god of the seas. ([Location 7310](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=7310)) (Wilkinson 2010, p. 448) 
