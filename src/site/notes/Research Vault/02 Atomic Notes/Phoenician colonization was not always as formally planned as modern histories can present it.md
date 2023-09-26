@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/phoenician-colonization-was-not-always-as-formally-planned-as-modern-histories-can-present-it/"}
+---
+
+“For a variety of reasons, mother cities were often retrospectively appointed, but the initial realities were less coherent and more opportunistic. Trial-and-error tales abound in the legends dealing with selection of places to settle, and the core group of specific origin was probably often no more than a shipload around an entrepreneurial leader, with accomplices and later recruits drawn from the connections that flowed in and out of such fledgling foci, and increasingly from their native neighbours, female as much as male.” ([Broodbank, 2013, p. 524](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=490&annotation=VXQC2PXL))
