@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-only-textual-reference-to-direct-trade-between-ugarit-and-the-aegean/"}
+---
+
+“The palace itself was heavily involved in staging and part-funding mercantile ventures, as well as more ceremonially articulated exchanges that we come to shortly, but it did not exert overall control over trade, and raised some of its revenue by taxing others’ profits in silver shekels. Thus, in an exception that proves the rule (and the sole reference to direct trade with the Aegean), one merchant won a royal favour: ‘Ammishtamru, son of Niqmepa, King of Ugarit, exempts Sinaranu, son of Siginu.. .his grain, his beer, his oil to the palace he shall not deliver. His ship is exempt when it arrives from Crete.’” ([Broodbank, 2013, p. 394](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=370&annotation=AK4QKATU))
