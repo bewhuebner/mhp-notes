@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-interchangeability-of-egypt-s-naval-and-military-personnel/"}
+---
+
+A reorganization of the armed forces in the late Eighteenth Dynasty divided them into two distinct corps, infantry and chariotry. Egypt also had a strong naval tradition (used to great effect in the battles against the Hyksos), but the interdependence of land-based and river-borne fighting was reflected in the interchangeability of military personnel, with men and officers alike alternating between army and navy postings. A major naval base was located at the port of the capital city, Memphis. Another, at the site of the former Hyksos capital, Hutwaret, went under the suitably appropriate name of Perunefer (“bon voyage”). Military garrisons were probably stationed in provincial centers throughout the country for rapid deployment in emergency situations, while a large garrison of reservists just outside Memphis was no doubt a powerful deterrent against would-be insurgents within the Egyptian population. ([Location 4672](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=4672))(Wilkinson 2010, p. 284)
