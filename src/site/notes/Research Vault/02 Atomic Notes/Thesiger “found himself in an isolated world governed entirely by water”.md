@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/thesiger-found-himself-in-an-isolated-world-governed-entirely-by-water/"}
+---
+
+“When the Englishman Wilfred [[Thesiger, WIlfred\|Thesiger]] lived among the Marsh Arabs of the south during the 1930s and ’40s, he found himself in an isolated world governed entirely by water. Anyone wanting to go anywhere had to step from their hut into a reed boat, even when just visiting a neighbor, let alone a nearby village. Reed boats thrived in the marshes and swamps of the south from the very earliest days of human occupation, perhaps as early as nine thousand years ago, when farmers moved onto the southern plains of Mesopotamia. Many communities made use of natural outcrops of asphalt to waterproof their boat” ([Fagan, 2012, p. 117](zotero://select/library/items/YUMUCT4Z)) ([pdf](zotero://open-pdf/library/items/IL7KTQZ2?page=117&annotation=7S25764Z))
