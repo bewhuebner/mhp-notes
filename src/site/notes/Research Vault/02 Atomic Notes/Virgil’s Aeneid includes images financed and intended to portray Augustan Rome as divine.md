@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/virgil-s-aeneid-includes-images-financed-and-intended-to-portray-augustan-rome-as-divine/"}
+---
+
+Augustus to all intents and purposes had writers such as Virgil and Horace on his payroll, and the work they produced offers a memorable and eloquent image of a new golden age for Rome and its empire, with Augustus centre stage. ‘I have given them [[empire\|empire]] without limit’ (imperium sine fine), Jupiter prophesies for the Romans in Virgil’s [[Aeneid\|Aeneid]], national epic, instant classic and a book which landed straight on the school curriculum in Augustan Rome. It still remains (just) on the modern Western curriculum 2,000 years later. ([Location 5054](https://readwise.io/to_kindle?action=open&asin=B0108U7IHO&location=5054)) (page 355 )
