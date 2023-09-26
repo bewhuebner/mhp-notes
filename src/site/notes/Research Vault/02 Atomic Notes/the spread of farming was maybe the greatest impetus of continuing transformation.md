@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-spread-of-farming-was-maybe-the-greatest-impetus-of-continuing-transformation/"}
+---
+
+“The spread of farming unleashed the greatest rolling transformation of the Mediterranean’s ecologies seen during the Holocene, one still unfolding today. It created, initially in tiny patches, a basic combination of fields, pasture and fringing wilderness resources that would prove hugely successful, and by the time this reached Iberia, the Levant was putting together a more ambitious variant, including olives and vines as well as wider uses of animals, that could be deployed in all kinds of ways, from a bolster for subsistence to industrial-level extraction.” ([Broodbank, 2013, p. 595-96](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=554&annotation=JZLU6Q9P))
