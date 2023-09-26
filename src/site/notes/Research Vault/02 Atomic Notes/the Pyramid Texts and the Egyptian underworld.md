@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-pyramid-texts-and-the-egyptian-underworld/"}
+---
+
+The greatest novelty of all was the decoration on the walls of the burial chamber and anteroom—column after column of texts, painted blue to recall the watery abyss of the underworld. The so-called Pyramid Texts constitute the earliest surviving body of religious literature from ancient Egypt, and the only large corpus of inscriptions from the Old Kingdom. They are a motley collection of prayers, spells, and hymns, all designed to assist the king in his afterlife journey into the cosmic realm to join the indestructible circumpolar stars. The language and imagery of some utterances suggest that they date back many centuries, perhaps even to the dawn of Egyptian history. Others were surely composed anew at the end of the Fifth Dynasty. ([Location 1605](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=1605))(Wilkinson 2010, p. 88)
