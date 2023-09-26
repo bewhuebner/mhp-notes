@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-breadth-of-maritime-expansion-in-polynesia-at-an-early-date-is-an-interesting-contrast-to-the-seeming-lack-of-similar-such-expansion-in-the-mediterranean-at-a-similar-early-date-circa-50-000-bce/"}
+---
+
+“Whatever the precise dates, the contrast between this eastward route along tidal shores rich in marine resources and headed into a gigantic patchwork of outsized, accessible islands, and the separate, later and dry-shod exit across the Suez isthmus up through the island-poor Levant into Europe (or in the case of the Dabban along North Africa) could explain why the initial expansion around the Mediterranean was so obdurately non-aquatic in character. Mediterranean moderns had to generate a seafaring orientation and technology from scratch, and that required time.” ([Broodbank, 2013, p. 112-113](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=109&annotation=REHEEFAM))
