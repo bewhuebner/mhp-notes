@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-code-of-hammurabi-contain-laws-about-boat-maintenance-and-merchant-liability-during-shipment/"}
+---
+
+The owner of a boat generally did not sail it himself but hired it out to a boatman. The Code of Hammurabi contains clauses referring to what happens if a negligent boatman lets the craft fall into disrepair: he becomes liable for the damage. If he allows the boat and its cargo to sink, he is sentenced to reimburse the owner in full—unless he has had the presence of mind (and the material means) to refloat the wreck, in which case he will “only repay half the money.” We see here surely the kind of relation between employer and employee which already foreshadows a capitalist society. ([Location 1703](https://readwise.io/to_kindle?action=open&asin=B004FEFSCC&location=1703)) (Braudel 2001, p. 75-76)
