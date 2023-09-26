@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-qena-bend-of-the-nile-and-wadis-that-lead-to-the-red-sea-ports/"}
+---
+
+As the Nile enters the great “Qena bend,” it swings to the east, bringing it closer to the Red Sea than at any other point in its course. The east bank was therefore the obvious point of departure for expeditions into the Red Sea hills—with their gold mines and stone quarries—and beyond to the shores of the Red Sea itself. Throughout pharaonic times, the Egyptians sent trading expeditions to the distant and fabled land of Punt (coastal Sudan and Eritrea)—expeditions that left from Red Sea ports. In the Ptolemaic and Roman periods, the Red Sea offered the quickest maritime route to India, and the deserts to the east of the Qena bend were a hive of commercial and military activity. ([Location 568](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=568))(Wilkinson 2010, p. 22)
