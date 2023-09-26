@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-thera-eruption-also-decimated-crete-and-the-palace-centers-there/"}
+---
+
+Crete, 120 kilometres from Thera, was not only hit head-on by this massive upheaval of the sea, but also shaken by earthquakes, showered with ash and overwhelmed by toxic gases. The whole of the eastern end of the island and even the centre were devastated. A single palace survived at Knossos, damaged but not destroyed. The cities of Phaistos, Mallia, Haghia Triada and Zakro were all destroyed along with their palaces; as were Gournia, Palaikastro, Pseira and Mochlos. The vegetation was annihilated; ash at least ten centimetres thick lay over everything like a blanket and made any cultivation or rebuilding impossible for years. There was a wave of emigration to the western end of the island and probably to the Mycenaean mainland too, as appears from excavations. ([Location 2507](https://readwise.io/to_kindle?action=open&asin=B004FEFSCC&location=2507))(Braudel 2001, 118)
