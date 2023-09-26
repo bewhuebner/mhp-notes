@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-heyday-of-the-fourth-dynasty-pyramids-fizzled-out-within-a-few-generations/"}
+---
+
+Three generations of huge investment—human, material, and administrative—in pyramid building transformed Egypt but proved an unsustainable drain on its resources. Khafra’s successor, Menkaura, was the last king to build a pyramid at Giza, and it was on a much reduced scale, reaching only 216 feet in height and only one-tenth of the volume of the Great Pyramid. The architects tried hard to compensate with an extravagant use of red granite, brought by barge all the way from the first cataract region, and by an enlarged pyramid temple, where Menkaura’s funerary cult continued to be celebrated for centuries after his death. But the era of massive pyramids was over. Later kings would have to find new ways of projecting their power. ([Location 1419](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=1419))(Wilkinson 2010, p. 75)
