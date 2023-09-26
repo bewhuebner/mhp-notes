@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-finds-of-jars-from-sardinia-on-islands-further-east-indicate-that-they-were-actively-engaged-in-trade-themselves/"}
+---
+
+“In fact, bearing in mind major changes in central Mediterranean shipping technology, the presence of Sardinian jars of the kind used to carry metals at Cannatello in Sicily, Kommos in Crete and, most recently reported, on Cyprus itself, an expanding island population and maybe a ‘Shardana equation’, it becomes likely that Sardinians did not all simply wait for the Mediterranean to come to them, but that certain groups among them engaged it actively abroad. Prominent among the latter would have been people at major coastal settlements, such as the import-rich nuraghe of Antigori, on the Gulf of Cagliari, facing the seaways east.” ([Broodbank, 2013, p. 477](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=444&annotation=5XL45M42))
