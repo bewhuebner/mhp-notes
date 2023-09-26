@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/reading-novels-has-correlation-with-higher-levels-of-empathy/"}
+---
+
+When they got the results, they were clear. The more novels you read, the better you were at reading other people’s emotions. It was a huge effect. This wasn’t just a sign that you were better educated—because reading nonfiction books, by contrast, had no effect on your empathy. ([Location 1363](https://readwise.io/to_kindle?action=open&asin=B093G9TS91&location=1363))
+
+It’s a way of combining “outwardly directed attention and inwardly directed attention.” When you read fiction in particular, you imagine what it is like to be another person. You find yourself, he says, “trying to understand the different characters, their motivations, their goals, tracking those different things. It’s a form of practice. We’re probably using the same kinds of cognitive processes that we would use to understand our real peers in the real world.” You simulate being another human so well that fiction is a far better virtual reality simulator than the machines currently marketed under that name. ([Location 1370](https://readwise.io/to_kindle?action=open&asin=B093G9TS91&location=1370))
