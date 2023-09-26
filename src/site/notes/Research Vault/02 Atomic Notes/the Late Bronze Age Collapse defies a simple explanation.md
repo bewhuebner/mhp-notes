@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-late-bronze-age-collapse-defies-a-simple-explanation/"}
+---
+
+“The three centuries after 1300 BCE witnessed an enormous transformation in this half of the basin. In the uncritical language of earlier generations, the later part of this period saw the onset of a ‘dark age’, ushered in by disasters and destructions clustered around 1200 BCE and associated with a ragged region-by-region start to the Iron Age. In fact, as Wenamun’s tale already intimates, the reality in terms of modern knowledge and ancient trajectories was a more thought-provoking chiaroscuro. Of this we can only make sense if we straddle the paroxysms around 1200 BCE with a longer, more coolly analytical time frame, from the aftermath of Amarna to the threshold of the 1st millennium BCE .” (Broodbank, 2013, p. 448-49) (pdf)
