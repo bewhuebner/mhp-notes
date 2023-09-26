@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-khufu-ship-summarized/"}
+---
+
+“Just as stone architecture of the Old Kingdom translated wood and brick buildings into huge symbols that reflected the king's power, so the Khufu I hull transformed a simple means of transportation into a massive ship of state. Its function remains obscure; some see it as a solar boat with strong religious connotations while others view it as a funerary pilgrimage vessel.” ([Ward, 2000, p. 45](zotero://select/library/items/Z98WYCE6)) ([pdf](zotero://open-pdf/library/items/UD954MWU?page=53&annotation=2U6PNBUV))
+
+“Kamal el Mallakh, the archaeologist who discovered the pits, made a hole in the twenty-second eastern block and saw a steering oar, boards, columns, beams, and remains of matting and ropes, all extremely well preserved. The forward papyriform finial showed that the bow of the dismantled ship pointed west.'” ([Ward, 2000, p. 45](zotero://select/library/items/Z98WYCE6)) ([pdf](zotero://open-pdf/library/items/UD954MWU?page=53&annotation=MBMEK6RC))
+
+“Six hundred fifty-one major pieces and an additional 467 tenons in the hull and 200 tenons in the cabin were counted. The 651 major pieces included 30 planks, 16 floor timbers, 62 deck beams, 36 stanchions, a carling and 2 stringers, 22 sections of decking, 23 pre-fabricated deckhouse panels, 58 papyrus-bud pillars, 5 doors, and 300 battens. Baskets of un- used rope, lashings, and other cordage were also retrieved. When reconstructed, the hull measured 42.3 x 5.66 x 1.8 meters.” ([Ward, 2000, p. 47](zotero://select/library/items/Z98WYCE6)) ([pdf](zotero://open-pdf/library/items/UD954MWU?page=55&annotation=PBKBTJPQ))
