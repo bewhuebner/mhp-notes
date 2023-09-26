@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-latin-v-the-greek-terms-to-label-a-colony/"}
+---
+
+“At the rather arbitrary point in this continuum of mobility at which people migrated between sub-basins and over old cultural boundaries on a detectable scale, the result has become known as a ‘colony’. The Roman term is in fact thoroughly misleading at this juncture, given its connotations of central, imperial initiative. Greek *apoikia* (a succinct expression for ‘home-away-from-home’) is truer to the reality of such places, though even its differentiation from the narrowly mercantile *emporion* seems hard to police at this stage (what should we call Pithekoussai?).” ([Broodbank, 2013, p. 524](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=490&annotation=45QVVRW9))
