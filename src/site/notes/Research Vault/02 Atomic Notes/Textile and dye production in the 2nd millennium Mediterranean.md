@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/textile-and-dye-production-in-the-2nd-millennium-mediterranean/"}
+---
+
+“Purple cloth is attested in the 14th-13th-century BCE central and north Levant, famously the home of superior molluscs, by dye works, texts and a surviving scrap from Qatna. Decisively earlier, however, are the middens of crushed shells at 19th-18th-century BCE sites in east Crete, which may reflect an early initiative subsequently swamped by Levantine quality and quantity. Even more tantalizing is a case made at Akrotiri from a preserved cocoon, together with the diaphanous clothing illustrated on the walls, for wild silk production from a moth native to the Aegean, Cyprus and southern Adriatic. Remnants from later, Iron Age cemeteries (in central Anatolia and Germany) support the existence of a western industry later eclipsed when Chinese degummed silk from domesticated moths reached the Mediterranean under the Roman empire.” ([Broodbank, 2013, p. 378](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=354&annotation=DDTNCJA4))
