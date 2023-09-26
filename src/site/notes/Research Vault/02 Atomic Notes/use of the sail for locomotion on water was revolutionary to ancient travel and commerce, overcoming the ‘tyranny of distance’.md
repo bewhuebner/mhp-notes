@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/use-of-the-sail-for-locomotion-on-water-was-revolutionary-to-ancient-travel-and-commerce-overcoming-the-tyranny-of-distance/"}
+---
+
+“The second innovation was the introduction of the sail, which had momentous repercussions. Up to this point, locomotion over water had relied on paddler-power, which imposed modest ceilings on size, speed and cargo comparable to overland travel in the last two respects. The harnessing of the wind changed this forever, and ushered in prototypes of the kinds of ships that would tie the Mediterranean, and indeed the world, together until the age of steam. By Classical times an average single day and night’s sail would cover some 100-50 km (60-90 miles), and although averages were rarely the reality at sea, and the first sailing ships assuredly slower and clumsier, even they represented a mighty blow against the ‘tyranny of distance’, and the advent of a new age of low-friction maritime bulk transport.” ([Broodbank, 2013, p. 290](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=267&annotation=JUQFFWCG))
