@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-dark-side-of-growing-maritime-trade-was-the-connected-growth-and-spread-of-the-slave-trade/"}
+---
+
+“The other bulk commodity of growing significance had earlier beginnings, too, but appears much more disquieting today. Slaves had existed for a long time in the Mediterranean, in considerable numbers at Bronze Age palaces in the east and probably more widely at a household scale. As far as we can ascertain, most had been taken as war captives or criminals, or were the descendants of such people, although debt slavery was another downward, if redeemable route, and opportunistic coastal snatches of the kind so vividly described in the Odyssey must also have had a high antiquity.” ([Broodbank, 2013, p. 549](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=515&annotation=S6SYXF8Q))
