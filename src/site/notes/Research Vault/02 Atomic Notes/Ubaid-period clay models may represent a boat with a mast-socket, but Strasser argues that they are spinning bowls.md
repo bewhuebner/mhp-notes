@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/ubaid-period-clay-models-may-represent-a-boat-with-a-mast-socket-but-strasser-argues-that-they-are-spinning-bowls/"}
+---
+
+“Clay models of the Ubaid period, dated to the early fifth millennium BC, from a grave at Eridu in southern Mesopotamia (Fig. 3.2) are almost elliptical in plan and have a vertical socket in the base and three holes through the top of the sides. Bass (1972: 12) following Barnett (1958:221) has suggested that these may represent hide boats with fittings for a mast. [[Research Vault/01 Sources/01.02 Articles/@StrasserboatmodelsEridu1996\|Strasser]] has argued that they are spinning bowls, a hypothesis which is strongly opposed by Bourriau and Gates (1997). It is possible that these models may represent some form of water transport, possibly hide or reed-bundle boats. However, the fittings seem more readily explained as a socket for a ceremonial staff and as fastening points for suspension cords, as proposed by Casson (1971:22). An alternative hypothesis is that, if the models are of boats, the socket is for a towing mast, for which it is in an ideal position about one-third of the waterline length from the bow. The earliest evidence for sail in Mesopotamia, in fact,” ([McGrail, 2002, p. 57](zotero://select/library/items/LVPZGRY3)) ([pdf](zotero://open-pdf/library/items/85TAQ5UC?page=57&annotation=8UIBHEUG))
+
+![Pasted image 20221010220645.png](/img/user/zz%20Images%20Dump/Pasted%20image%2020221010220645.png)
+
+([pdf](zotero://open-pdf/library/items/85TAQ5UC?page=57&annotation=HTGTKYBK))([McGrail, 2002, p. 57](zotero://select/library/items/LVPZGRY3))
