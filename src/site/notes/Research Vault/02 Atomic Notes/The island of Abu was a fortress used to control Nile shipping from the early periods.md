@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-island-of-abu-was-a-fortress-used-to-control-nile-shipping-from-the-early-periods/"}
+---
+
+#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 005 - Meanwhile, In Egypt...\|(OLD) 005 - Meanwhile, In Egypt...]]
+
+A final, telling example of how the early Egyptian state imposed its control can be found at the country’s southern frontier, on the island of Abu. Here, at the very beginning of the First Dynasty, the government lost no time in building a massive fortified customs post, to monitor and regulate the movement of people and goods across the border with Nubia. The fact that the chosen location for the fortress—an elevated part of the island, overlooking the main channel for shipping—also cut off access to the local shrine was evidently of no concern to the national authorities. Economic and political control were far more important considerations than local sensibilities. From the dawn of history, the state’s arrogance in its dealings with the population set the scene for the next three thousand years. For the ancient Egyptians, the price of national unity, effective government, and a successful economy was authoritarian rule. ([Location 991](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=991))(Wilkinson 2010, p. 48)
