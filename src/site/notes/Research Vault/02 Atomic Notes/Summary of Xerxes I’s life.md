@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/summary-of-xerxes-i-s-life/"}
+---
+
+“[[Xerxes\|Xerxes]] I (485–465 B.C.E.) The son of the Persian king [[Darius I\|Darius I]], Xerxes reasserted Persian authority over Egypt and Babylonia, dividing the latter into two districts for more effective administration. Preoccupied with the conquest of Greece, which his predecessor had failed to win, Xerxes set into motion a massive invasion of Greece involving forces on land and sea—the second “Persian War” recounted by Herodotus in his History. Once again, Persia was defeated in a David and Goliath struggle that served to inspire the patriotic Golden Age of Greece. Both Xerxes and his son were later killed in a coup.” ([Bertman, 2003, p. 111](zotero://select/library/items/YPMHZBXL)) ([pdf](zotero://open-pdf/library/items/X3CHJ4P3?page=124&annotation=LGM3SI5K))
