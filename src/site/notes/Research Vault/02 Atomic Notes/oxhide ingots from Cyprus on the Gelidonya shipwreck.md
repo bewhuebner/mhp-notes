@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/oxhide-ingots-from-cyprus-on-the-gelidonya-shipwreck/"}
+---
+
+Copper and tin mines would therefore become coveted objects, jealously guarded. Comparatively rare, but scattered across the known world, they usually had to be exploited from a distance. To capture trade in these precious metals, rich regions had a built-in advantage, using their trading networks which had long been organized around the so-called “palace economy.” ([Location 2099](https://readwise.io/to_kindle?action=open&asin=B004FEFSCC&location=2099)) (Braudel 2001, p. 97)
+
+Copper from Anatolia, Arabia (via Bahrain) or Cyprus, and tin from Iran or possibly already from Tuscany, Spain and England, were circulating in the form of crude, half-finished (or even finished) products. Primitive furnaces, dug in the ground, have been found in Sinai, where copper ore was treated before being dispatched to the Nile. When in 1960 underwater archaeologists discovered a wreck dating from 1200 B.C. off Gelidonya on the Turkish coast, its cargo was found to consist of forty copper ingots in the shape of “oxhides,” bearing the mark of the Cypriot copperfounders. ([Location 2116](https://readwise.io/to_kindle?action=open&asin=B004FEFSCC&location=2116)) (Braudel 2001, p. 98)
