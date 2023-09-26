@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/semna-garrison-used-to-guard-river-traffic-on-the-upper-nile-river/"}
+---
+
+In addition to having a permanent garrison of four hundred to five hundred men, the commander could also quickly summon reinforcements from Uronarti, Iken, and Buhen, farther downstream, via a system of beacons sited at relay stations within sight of each other. In times of peace, the main role of the Semna garrison was to control traffic along this stretch of the Nile. Vessels would moor in the fort’s lower pool while cargoes were off-loaded onto Egyptian ships or overland donkey caravans for the onward journey to Iken. A forward base at Semna South, given the belligerent name “suppressing the Nubians,” provided a holding area for native caravans awaiting permission to continue their journeys, as well as a lookout to monitor people and ships approaching the gorge. ([Location 2720](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=2720))(Wilkinson 2010, p. 157)
