@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/palace-destruction-is-what-preserved-massive-record-archives/"}
+---
+
+#### Fox - Knossos
+
+IT TOOK FIRE TO GIVE us Linear B. In about 1400 B.C., the final conflagration at Knossos destroyed most of the palace and its contents, marking the end of the great civilization that had been rooted there for centuries. But the blaze had one completely beneficial effect: It preserved for future generations the clay tablets that recorded the palace’s final year. . . . In this way fire—so fatal elsewhere to historic libraries!—has acted as a preservative of these earlier records,” Evans wrote after the first season’s dig. ([Location 882](https://readwise.io/to_kindle?action=open&asin=B009NQZPCU&location=882)) (Fox 2013, p. 67)
+
+#### Podany - Ebla
+
+“When the Ebla palace burned down around 2250 BCE, about thirty-five years after Irkab-damu’s death, the archives were left in the abandoned building, baked by the fire and lying in the places where they had fallen when the shelves collapsed. There they stayed for over 4,000 years. Thanks to these tablets, a great deal is known about the kingdom of Ebla; more, in fact, than about any other state from such an early date.” ([Podany, 2012, p. 22](zotero://select/library/items/GN73GMNP)) ([pdf](zotero://open-pdf/library/items/LXNK9GFK?page=47&annotation=TQXV72BX))
+
+“One of the odd outcomes of archaeology is that we focus not necessarily on the places that were the most important in their own time but on the ones that have been excavated and have produced the most dramatic finds. This often means, for Syria or Mesopotamia at least, that we know most about the cities that were burned down. The conqueror who put the torch to the palace at Ebla (whether he was from Akkad, Mari, or some other city) inadvertently baked the bricks and the clay tablets and sealed them under debris, creating a time capsule for archaeologists to uncover. Ebla has become the most informative city for our understanding of late third-millennium Syria. But this doesn’t mean that it was the most important city at the time, or that diplomacy started there. For all we know, most of the Early Dynastic kingdoms in Syria and Mesopotamia were ruled by kings who had alliances with one another, married one another’s daughters, sent one another gifts, and exchanged letters and envoys. Perhaps treaties governed all these relationships.” ([Podany, 2012, p. 60](zotero://select/library/items/GN73GMNP)) ([pdf](zotero://open-pdf/library/items/LXNK9GFK?page=85&annotation=9Q6ZHNI8))
+
+“As in the case of Ebla, the vast archive of thousands of documents from eighteenth-century Mari is preserved because the palace burned down. Surprisingly, the man who burned it was [[Hammurabi\|Hammurabi]] himself, Zimri-Lim’s erst- while ally. Because of this, it is possible to read, in some of the letters baked and buried in the conflagration, about Hammurabi’s relations with Mari in happier times.” ([Podany, 2012, p. 70](zotero://select/library/items/GN73GMNP)) ([pdf](zotero://open-pdf/library/items/LXNK9GFK?page=95&annotation=XM3LEVM8))
