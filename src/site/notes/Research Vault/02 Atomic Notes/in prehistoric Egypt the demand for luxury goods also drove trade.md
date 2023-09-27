@@ -2,6 +2,4 @@
 {"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/in-prehistoric-egypt-the-demand-for-luxury-goods-also-drove-trade/"}
 ---
 
-#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 005 - Meanwhile, In Egypt...\|(OLD) 005 - Meanwhile, In Egypt...]]
-
 The rulers of these three territories did what all aspiring leaders do: they sought to demonstrate and enhance their authority by political, ideological, and economic means. Their unquenchable thirst for rare and valuable objects, whether gold and precious stones from the deserts of Egypt or exotic imports from far-off lands (such as olive oil from the Near East and lapis lazuli from Afghanistan), stimulated internal and external trade. The authority to remove such items permanently from circulation was a particularly powerful statement of wealth and privilege, so the burials of the elite became increasingly elaborate and richly furnished, building upon a tradition of grave goods that stretched back to Badarian times. The development in all three territories of special burial grounds, set aside for the local ruling class, is a sure sign of strongly hierarchical societies. ([Location 422](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=422))(Wilkinson 2010, p. 12–13)
