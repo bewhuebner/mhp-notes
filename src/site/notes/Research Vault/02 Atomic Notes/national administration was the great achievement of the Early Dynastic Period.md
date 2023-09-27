@@ -2,6 +2,4 @@
 {"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/national-administration-was-the-great-achievement-of-the-early-dynastic-period/"}
 ---
 
-#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 002 - Surplus Food, Big Buildings, and Power Hungry Lugals\|(OLD) 002 - Surplus Food, Big Buildings, and Power Hungry Lugals]] OR [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 005 - Meanwhile, In Egypt...\|(OLD) 005 - Meanwhile, In Egypt...]]
-
 The development in ancient Egypt of a truly national administration was one of the major accomplishments of the First to Third dynasties, the four-hundred-year formative phase of pharaonic civilization known as the Early Dynastic Period (2950–2575). At the start of the period, the country had only just been unified. Narmer and his immediate successors were faced with the challenge of ruling a vast realm, stretching five hundred miles from the heart of Africa to the shores of the Mediterranean. By the close of the Early Dynastic Period, the government presided over a centrally controlled command economy, financing royal building projects on a lavish scale. ([Location 859](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=859))(Wilkinson 2010, p. 40)
