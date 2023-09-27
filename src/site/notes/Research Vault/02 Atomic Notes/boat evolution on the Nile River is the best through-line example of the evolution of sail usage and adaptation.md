@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/boat-evolution-on-the-nile-river-is-the-best-through-line-example-of-the-evolution-of-sail-usage-and-adaptation/"}
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/boat-evolution-on-the-nile-river-is-the-best-through-line-example-of-the-evolution-of-sail-usage-and-adaptation/","tags":["USE"]}
 ---
-
-#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 005 - Meanwhile, In Egypt...\|(OLD) 005 - Meanwhile, In Egypt...]]
 
 “The best evidence, however, comes from the Nile. There can be no doubt that boats had been part of life on the river for millennia; deep-channel fishing and riverboat models had a long history, while the Egyptian language contains over eighty words for watercraft. Moreover, unlike the rivers of Mesopotamia, the Nile was a perfect experimental laboratory, in which the current conveyed boats downstream, while the prevailing winds from the north, with something to catch on, could propel them back up against the flow. About 3500 BCE, large angular boats appear in upriver imagery, with deck cabins, long steering oars at the rear and bristling with paddlers. Plank-built construction is proven by the discovery of fourteen such craft buried at Abydos in around 3050 BCE, one over 17 m (55 ft) long. The Abydos boats were oddly held together by cross-hull lashings, a relic of reed-bundle craft, or possibly connected to the need to dismantle ships for desert carriage to the Red Sea or around Nile cataracts. Their wood was poor, mainly local sycamore, acacia and tamarisk. Although such boats are depicted and excavated in association with royal ceremony and fighting, they surely also played a less glamorous role in shifting goods, tribute and grain up and down the river.” ([Broodbank, 2013, p. 290](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=267&annotation=B3MTIARF))
 
