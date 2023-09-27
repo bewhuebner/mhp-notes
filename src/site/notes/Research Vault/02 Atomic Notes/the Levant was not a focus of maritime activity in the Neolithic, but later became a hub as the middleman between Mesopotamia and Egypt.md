@@ -2,6 +2,4 @@
 {"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-levant-was-not-a-focus-of-maritime-activity-in-the-neolithic-but-later-became-a-hub-as-the-middleman-between-mesopotamia-and-egypt/"}
 ---
 
-#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 002 - Surplus Food, Big Buildings, and Power Hungry Lugals\|(OLD) 002 - Surplus Food, Big Buildings, and Power Hungry Lugals]] OR [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 005 - Meanwhile, In Egypt...\|(OLD) 005 - Meanwhile, In Egypt...]]
-
 “This volte-face, without which the Levant might have stayed as terrestrial in orientation as much of North Africa, was highly contingent on the region’s recently acquired role as middleman between Mesopotamia and Egypt (as well as metal-rich Anatolia, and soon additional players further west), combined with the desirability abroad of its own products, decisively consolidated by the invention of a propulsion device that suddenly made bulk sea transport fast and efficient.” ([Broodbank, 2013, p. 301](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=278&annotation=BZRQAJ8P))
