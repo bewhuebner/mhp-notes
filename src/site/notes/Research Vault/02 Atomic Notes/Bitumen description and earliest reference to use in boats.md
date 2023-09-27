@@ -10,14 +10,11 @@ Bitumen is a mineral tar available in the Iraq/Iran region either as a liquid se
 
 
 
-#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 003 - Sargon to Hammurabi - Trade and Turmoil in Ancient Mesopotamia\|(OLD) 003 - Sargon to Hammurabi - Trade and Turmoil in Ancient Mesopotamia]]
-
 “[[Encyclopedia/01 People/Sargon of Akkad\|Sargon of Akkad]] (Sharru-kin) (2334–2279 B.C.E.) Sargon was a Semitic ruler of Akkad who conquered Sumer and united the two lands under his leadership, thereby forming the most extensive kingdom Mesopotamia had ever seen. His capital was founded at Agade, “the only royal city of ancient Iraq whose location remains unknown” (Roux 1992: 152). His imperialistic ambitions carried him and his army to Iran in the east and Syria in the west. As he boasted in an inscription: “Let any king who regards himself as my equal go where I have gone!” ==A legend (that may have inspired the biblical story of Moses’ birth) related that his mother gave birth to him in secret, thereafter placing him in a reed basket and floating him down a river until he was found by someone (a drawer of water) who adopted and raised him. Shown divine favor (by the goddess Ishtar), he went on to fulfill his royal destiny.== Sargon’s name means “legitimate ruler,” implying that he may in fact have been a usurper, a theory supported by another account: that he had served as cup-bearer to king Ur-zababa of Kish until he seized the king's throne for himself.” ([Bertman, 2003, p. 100](zotero://select/library/items/YPMHZBXL)) ([pdf](zotero://open-pdf/library/items/X3CHJ4P3?page=113&annotation=RR4AQWIR))
 
 </div></div>
 
 
-#USE reference to [[Encyclopedia/01 People/Sargon of Akkad\|Sargon of Akkad]] in basket of rushes with bitumen. Ep 1
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/research-vault/02-atomic-notes/bitumen-was-a-natural-asphalt-with-many-uses-including-as-a-boat-waterproofing/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
