@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/materials-not-natural-to-the-alluvial-plains-of-mesopotamia-or-the-nile-are-what-contributed-to-the-spiraling-growth-of-elite-and-early-consumer-societies/"}
 ---
 
-#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 002 - Surplus Food, Big Buildings, and Power Hungry Lugals\|(OLD) 002 - Surplus Food, Big Buildings, and Power Hungry Lugals]]
-
 “many of the materials implicated did not occur naturally in Mesopotamia or Egypt and could only be acquired outside their borders, towards all points of the compass and including those that necessitated an engagement with the Mediterranean proper. Pragmatically, this was a function of the geology and ecology of alluvial plains, but it also owed much to an esteem for things brought from the ends of the known world as affirmations of the cultural centrality of the places where they were consumed, and the cosmic centrality of their rulers and gods. Such materials had to be procured in increasing amounts as consumption spirals took off. One means of doing so was trade, sometimes over extremely long ranges, and at first in valuable but low-bulk substances, as is witnessed in both respects by lapis lazuli.” ([Broodbank, 2013, p. 282](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=259&annotation=3FXHF2RS))
 
 ### various origins for resources that flowed into Mesopotamia
