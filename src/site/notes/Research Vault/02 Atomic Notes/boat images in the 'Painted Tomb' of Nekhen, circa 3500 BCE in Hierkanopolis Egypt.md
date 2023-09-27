@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/boat-images-in-the-painted-tomb-of-nekhen-circa-3500-bce-in-hierkanopolis-egypt/"}
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/boat-images-in-the-painted-tomb-of-nekhen-circa-3500-bce-in-hierkanopolis-egypt/","tags":["USE"]}
 ---
-
-#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 005 - Meanwhile, In Egypt...\|(OLD) 005 - Meanwhile, In Egypt...]]
 
 #### Wilkinson 2010
 
