@@ -2,6 +2,4 @@
 {"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/prosperity-in-egypt-s-first-dynasty-led-to-taxes-and-societal-stratification/"}
 ---
 
-#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 002 - Surplus Food, Big Buildings, and Power Hungry Lugals\|(OLD) 002 - Surplus Food, Big Buildings, and Power Hungry Lugals]] OR [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 005 - Meanwhile, In Egypt...\|(OLD) 005 - Meanwhile, In Egypt...]]
-
 The First Dynasty government lost no time in devising and imposing a nationwide system of taxation, to turn the country’s agricultural productivity to its own advantage. Once again, writing played a key role. From the very beginning of recorded history, the Egyptian government used written records to keep accounts of the nation’s wealth and to levy taxes. Some of the very earliest ink inscriptions—on pottery jars from the time of Narmer—refer to revenue received from Upper and Lower Egypt. It seems that, for greatest efficiency, the country was already divided into two halves for the purposes of taxation. ([Location 922](https://readwise.io/to_kindle?action=open&asin=B004FGMZAI&location=922))(Wilkinson 2010, p. 44)
