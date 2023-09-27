@@ -1,7 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-flow-and-wind-patterns-differ-between-the-tigris-and-euphrates-and-the-nile/"}
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-flow-and-wind-patterns-differ-between-the-tigris-and-euphrates-and-the-nile/","tags":["USE"]}
 ---
-
-#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 005 - Meanwhile, In Egypt...\|(OLD) 005 - Meanwhile, In Egypt...]]
 
 “The Tigris and the Euphrates are both navigable for most of their length, though the waters of the Euphrates are gentler and friendlier to boats. The relative shallowness of the rivers, however, and the shifting mud in their beds precluded the use of ships with deep draughts. Both rivers flow from north to south, emptying into the Persian Gulf. Unfortunately, the prevailing winds blow in exactly the same direction. As a consequence, boats in ancient Iraq—except for short trips—could only travel south; journeys to the north, including return trips, had to be made by land. In this instance, ancient Egypt had a natural advantage over her sister civilization: while the Nile flows north into the Mediterranean, the prevailing winds in Egypt blow to the south. Thus, an Egyptian mariner had but to hoist his sails to head back home from the delta.” ([Bertman, 2003, p. 252](zotero://select/library/items/YPMHZBXL)) ([pdf](zotero://open-pdf/library/items/X3CHJ4P3?page=265&annotation=HHPG6Q44))
