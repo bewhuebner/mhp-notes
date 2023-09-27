@@ -2,6 +2,4 @@
 {"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-emergence-of-consumer-societies-in-ancient-egypt-and-mesopotamia/"}
 ---
 
-#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 002 - Surplus Food, Big Buildings, and Power Hungry Lugals\|(OLD) 002 - Surplus Food, Big Buildings, and Power Hungry Lugals]] OR [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 005 - Meanwhile, In Egypt...\|(OLD) 005 - Meanwhile, In Egypt...]]
-
 “Terms such as ‘market’ and ‘capital’ bring us to arguably the most profound development associated with the emergence of the early Egyptian and Mesopotamian states and their urban populations. For within them, the socially instigated desires for lifestyle markers, driven by a conspicuous elite in this respect, led to the birth of the first consumer societies, while a parallel obsession with establishing gradations of quality, plus perhaps the branding of goods with standard packaging containers and seals of authentication, created what were, in effect, commodities.” ([Broodbank, 2013, p. 280](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=257&annotation=ZKUXLCCB))
