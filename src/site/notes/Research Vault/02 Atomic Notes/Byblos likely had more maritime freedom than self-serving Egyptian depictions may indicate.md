@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/byblos-likely-had-more-maritime-freedom-than-self-serving-egyptian-depictions-may-indicate/"}
 ---
 
-#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 007 - Old Kingdom Egypt Expands Its Reach\|(OLD) 007 - Old Kingdom Egypt Expands Its Reach]]
-
 ### relationship between Byblos, Ebla, and Egypt
 
 “The growth of maritime trade along the Levant raises an inevitable question. Egyptian priority in the introduction of sail technology to the Mediterranean is not in doubt, nor is the reality of royal convoys from the Nile during the 3rd millennium BCE. But can we take pharaonic decrees as a complete reflection of who controlled traffic up and down the coast? Were all Levantine people depicted in the Egyptian ships on Old Kingdom monuments in reality captives, and how soon did Levantine maritime communities with easy access to high-quality timber invest in construction of sailing ships themselves, perhaps further customizing them for Mediterranean conditions? In short, when did ‘Byblos ships’ start to have a Byblite or otherwise Levantine element in their ownership as well as design and route? The answer is likely to be increasingly so as the 3rd millennium BCE rolled on, and certainly by the late 3rd-millennium replica stone anchors were being dedicated at a new, thoroughly un-Egyptian tower temple at Byblos.” ([Broodbank, 2013, p. 303](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=280&annotation=NA96RGSS))
