@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/herodotus-describes-a-kelek-boat-which-was-hides-stretched-over-a-framework-and-buoyed-by-inflated-goatskins/"}
 ---
 
-#USE in [[001 - Boating in Ancient Mesopotamia\|001 - Boating in Ancient Mesopotamia]]
-
 “Smaller vessels included the coracle and the kelek. The coracle is still in use in Iraq today where it goes by the Arabic name of [[quffa\|quffa]]. Its shape led the ancients to call it a “turnip.” Resembling a round reed basket, the coracle’s natural buoyancy was enhanced by a watertight coating of bitumen. Both locomotion and direction were achieved with the help of a punting pole or oar, since Mesopotamian boats lacked a rudder.” ([Bertman, 2003, p. 252](zotero://select/library/items/YPMHZBXL)) ([pdf](zotero://open-pdf/library/items/X3CHJ4P3?page=265&annotation=HWFQIFUZ))
 
 
