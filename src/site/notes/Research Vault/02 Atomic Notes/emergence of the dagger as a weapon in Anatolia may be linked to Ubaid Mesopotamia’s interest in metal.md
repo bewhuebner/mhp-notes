@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/emergence-of-the-dagger-as-a-weapon-in-anatolia-may-be-linked-to-ubaid-mesopotamia-s-interest-in-metal/"}
 ---
 
-#USE in [[001 - Boating in Ancient Mesopotamia\|001 - Boating in Ancient Mesopotamia]]
-
 “Somewhere between Anatolia, the Balkans and the remaining circum-Pontic regions, the dagger first appeared as a new special-purpose, two-edged fighting weapon with no stone precedent and a great future ahead of it. The best evidence derives from Arslantepe and Degirmentepe, the latter close to the ores of southeast Anatolia, and both outside the Mediterranean basin, but similar activities took place in Cilicia and the Amuq. It is hard to deny a link between this growth in proficiency and Ubaid Mesopotamia’s interest in acquiring and consuming metals.” ([Broodbank, 2013, p. 246](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=232&annotation=XBRK7ZLA))
 
 “How the northern component of Nahal Mishmar’s metals arrived is unknown. In contrast to the robust maritime networks emerging in other parts of the basin, there is surprisingly little evidence of sea traffic in the easternmost Mediterranean at this juncture, with a gulf between the watchers on Mersin’s battlements and the reticent islanders of Cyprus that is far wider than the sea-gap between them.” ([Broodbank, 2013, p. 248](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=234&annotation=KWQYQ2Q2))
