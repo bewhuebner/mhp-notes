@@ -11,13 +11,6 @@ page range:
 type: #book
 process status: #currentlyreading #inprogress 
 
-# Abulafia - The Great Sea - A Human History
-## Dustjacket Summary
-
-Connecting Europe, Asia, and Africa, the Mediterranean Sea has been for millennia the place where religions, economies, and political systems met, clashed, influenced and absorbed one another. In this brilliant and expansive book, David Abulafia offers a fresh perspective by focusing on the sea itself: its practical importance for transport and sustenance; its dynamic role in the rise and fall of empires; and the remarkable cast of characters-sailors, merchants, migrants, pirates, pilgrims-who have crossed and re-crossed it.  
-  
-Ranging from prehistory to the 21st century, The Great Sea is above all a history of human interaction. Interweaving major political and naval developments with the ebb and flow of trade, Abulafia explores how commercial competition in the Mediterranean created both rivalries and partnerships, with merchants acting as intermediaries between cultures, trading goods that were as exotic on one side of the sea as they were commonplace on the other. He stresses the remarkable ability of Mediterranean cultures to uphold the civilizing ideal of convivencia, "living together."
-
 # Part One: The First Mediterranean: 22,000 BCE – 1,000 BCE
 
 ## 1. Isolation and Insulation: 22,000 BCE – 3,000 BCE
