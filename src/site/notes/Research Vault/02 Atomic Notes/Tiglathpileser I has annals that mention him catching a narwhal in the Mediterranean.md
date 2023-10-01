@@ -4,7 +4,6 @@
 
 “Tiglathpileser I (1115–1077 B.C.E.) Active throughout his almost 40-year reign as Assyria’s king, Tiglathpileser I led expedition after expedition against his nation’s enemies on the north, south, and west. He was the first Assyrian king to record and celebrate his victories in chronological annals, and to ideologically justify his conquests. 
 
-#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 002 - Surplus Food, Big Buildings, and Power Hungry Lugals\|(OLD) 002 - Surplus Food, Big Buildings, and Power Hungry Lugals]]
 His annals are also the first to mention the Aramaeans, a tribe that would remain a thorn in Assyria’s side for centuries to come. In his military campaigns, he defeated King Nebuchadnezzar I of Babylon and marched westward to the Mediterranean, where he went fishing and caught a narwhal, a cross between a dolphin and a swordfish.  
 
 His annals also boasted of his having killed 920 lions, 800 from his chariot and 120 on foot. Back home, he set up a palace library, supervised the codification of Assyrian laws and judicial precedents, and planted foreign and domestic flora in luxurious gardens and parks. The lengthy résumé of this Assyrian Teddy Roosevelt ended when he was murdered and succeeded by a nondescript conspirator.” ([Bertman, 2003, p. 107](zotero://select/library/items/YPMHZBXL)) ([pdf](zotero://open-pdf/library/items/X3CHJ4P3?page=120&annotation=3EVTJDY7))
