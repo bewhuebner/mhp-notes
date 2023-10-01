@@ -13,16 +13,6 @@ page range: 1-672
 type: #book 
 process status: #inprogress
 
-## Dustjacket Summary
-
-The Mediterranean has been for millennia one of the global cockpits of human endeavor. World-class interpretations exist of its Classical and subsequent history, but there has been remarkably little holistic exploration of how its societies, culture and economies first came into being, despite the fact that almost all the fundamental developments originated well before 500 BC. This book is the first full, interpretive synthesis for a generation on the rise of the Mediterranean world from its beginning, before the emergence of our own species, up to the threshold of Classical times, by which time the "Middle Sea" was already in effect made.  
-  
-Thanks to unrivaled depth and breadth of exploration, Mediterranean archaeology is one of the world's richest sources for the reconstruction of ancient societies. This book is the first to draw in equal measure on ideas and information from the European, western Asian and African flanks, as well as the islands at the Mediterranean's heart, to achieve a truly innovative focus on the varied trajectories and interactions that created this maritime world.  
-  
-The Mediterranean combines unusual conditions in a strictly unique fashion that goes a long way towards explaining its precocious development: it is the world's largest inland sea, easily the largest of the five challenging, opportunity-rich "mediterraneoid" environments on the planet, and adjacent to the riverine cores of two of the earliest civilizations, in Mesopotamia and Egypt. No wonder its societies proved exceptional.  
-  
-Extensively illustrated and ranging across disciplines, subject matter and chronology from early humans and the origins of farming and metallurgy to the rise of civilizations--Egyptian, Levantine, Hispanic, Minoan, Mycenaean, Phoenician, Etruscan, early Greek--the book is a masterpiece of archaeological and historical writing.
-
 # Chapter One: A Barbarian History
 
 ## Prelude: a Mediterranean microcosm
