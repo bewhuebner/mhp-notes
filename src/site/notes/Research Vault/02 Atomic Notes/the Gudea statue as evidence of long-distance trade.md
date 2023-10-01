@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-gudea-statue-as-evidence-of-long-distance-trade/"}
 ---
 
-#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 003 - Sargon to Hammurabi - Trade and Turmoil in Ancient Mesopotamia\|(OLD) 003 - Sargon to Hammurabi - Trade and Turmoil in Ancient Mesopotamia]]
-
 ### the Gudea statue as evidence of long-distance trade
 
 “[[Gudea\|Gudea]]'s rather immobile face and expressionless features have become familiar to the modern student from the numerous statues of him that have been recovered. Some of these carry long inscriptions recording his religious activities in connection with the building and rebuilding of Lagash's more important temples. From them we learn that, in spite of Gutian domination, Gudea had trade contacts with practically the entire "civilized" world of those days. He obtained gold from Anatolia and Egypt, silver from the Taurus range, cedars from the Amanus, copper from the Zagros, diorite from Egypt, carnelian from Ethiopia, and timber from [[Encyclopedia/02 Places/Dilmun\|Dilmun]]” ([Kramer, 1963, p. 67](zotero://select/library/items/TI24BNVH)) ([pdf](zotero://open-pdf/library/items/EY8R4485?page=67&annotation=2RA2IHKF)) 
