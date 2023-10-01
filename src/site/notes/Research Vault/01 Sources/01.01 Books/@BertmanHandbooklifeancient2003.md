@@ -12,7 +12,6 @@ page range: 1-396
 type: #book 
 process status: #linked 
 _ _ _
-
 # 1. Geography of Mesopotamia
 ## The Land and Its Rivers
 
@@ -37,7 +36,6 @@ _ _ _
 - [[Research Vault/02 Atomic Notes/Eridu may have been the oldest city in Mesopotamia\|Eridu may have been the oldest city in Mesopotamia]]
 
 - [[Research Vault/02 Atomic Notes/The Ubaid people are the earliest identifiable widespread culture in Mesopotamia\|The Ubaid people are the earliest identifiable widespread culture in Mesopotamia]]
-## Reading
 # 2. Archaeology and History
 ## The Discoverers
 
@@ -53,7 +51,7 @@ _ _ _
 ## Ancient Narratives
 ## Survey of History
 ## Key Rulers of Mesopotamia
-## Reading
+
 # 3. Government and Society
 ## The Structure of Civilization
 ## The Stratification of Society
@@ -80,52 +78,15 @@ _ _ _
 - [[Research Vault/02 Atomic Notes/Summary of Ur-Nanshe’s life\|Summary of Ur-Nanshe’s life]]
 
 - [[Research Vault/02 Atomic Notes/Summary of Xerxes I’s life\|Summary of Xerxes I’s life]]
-## Reading
+
 # 4. Religion and Myth
-## The Multiplicity of the Gods
-## The Governance of the World
-## The Names and Functions of the Gods
-## Myths
-## Places of Public Worship
-## Priests and Priestesses
-## Holy Days and Festivals
-## Divination and Exorcism
-## Personal Piety
-## The Concept of Immortality
-## Reading
+
 # 5. Language, Writing, and Literature
-## Language
-## The Great Decipherments
-## Major Languages
-## Writing
-## Literature
-## Reading
+
 # 6. Architecture and Engineering
-## Building Materials and Houses
-## Domestic Architecture
-## Techniques of Construction
-## From Village to City
-## Temples
-## Ziggurats
-## Palaces
-## City Planning
-## Walls
-## Canals and Aqueducts
-## Bridges
-## Roads
-## Reading
+
 # 7. Sculpture and Other Arts
-## The Role of the Artist
-## Materials
-## Sculpture
-## Pottery
-## Painting
-## Mosiac
-## Glass
-## Cylinder Seals
-## Carved Ivory
-## Jewelry
-## Reading
+
 # 8. Economy
 ## Definition and Structure
 ## Significance
@@ -138,7 +99,7 @@ _ _ _
 ## Crafts
 ## Professions
 ## Wages and Prices
-## Reading
+
 # 9. Transportation and Trade
 ## Transportation by Water
 
@@ -159,7 +120,7 @@ _ _ _
 
 - [[Research Vault/02 Atomic Notes/As states and empires grew, normalization and regulation of trade became necessary, and coinage was a leap forward in making that more practical\|As states and empires grew, normalization and regulation of trade became necessary, and coinage was a leap forward in making that more practical]]
 ## Weights and Measures
-## Reading
+
 # 10. Military Affairs
 ## The Influence of Geography
 
@@ -172,32 +133,9 @@ _ _ _
 ## Psychological Warfare
 ## The Art of War
 ## Ancient Monuments and Modern Warfare
-## Reading
+
 # 11. Everyday Life
-## Work
-## Slavery
-## Marriage and Family
-## Birth, Death, and the Belief in an Afterlife
-## Homes
-## Clothing
-## Cosmetics and Perfume
-## Food and Drink
-## Music
-## Toys and Games
-## Sports
-## Education
-## Health and Medicine
-## Reading
+
 # 12. Mesopotamia and Sacred Scripture
-## The Old Testament
-## Mesopotamia and the Apocrypha
-## Mesopotamia and the New Testament
-## Mesopotamia and the Koran
-## Reading
+
 # 13. The Legacy of Mesopotamia
-## Continuity and Change
-## Inspiration and Imagination
-## An Enduring Legacy
-## Detroit of the Chaldees
-## Twin Legacies
-## Reading
