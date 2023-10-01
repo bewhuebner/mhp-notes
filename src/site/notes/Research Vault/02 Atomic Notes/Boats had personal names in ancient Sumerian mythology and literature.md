@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/boats-had-personal-names-in-ancient-sumerian-mythology-and-literature/"}
 ---
 
-#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 002 - Surplus Food, Big Buildings, and Power Hungry Lugals\|(OLD) 002 - Surplus Food, Big Buildings, and Power Hungry Lugals]] as reference for boat names and poem
+==reference for boat names and poem==
 
 “Enki, for a second time, utters a paean of self-glorification. He begins by exalting the power of his word and command in providing the earth with prosperity and abundance, continues with a description of the splendor of his shrine, the Abzu, and concludes with an account of his joyous journey over the marshland in his magwr-boat, "the ibex of the Abzu," after which the lands of Magan, Dilmun, and Meluhha sent their heavily laden boats to Nippur with rich gifts for Enlil.” ([Kramer, 1963, p. 172](zotero://select/library/items/TI24BNVH)) ([pdf](zotero://open-pdf/library/items/EY8R4485?page=172&annotation=4NAF65NH))
 
