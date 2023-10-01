@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/ugarit-as-a-maritime-trade-center-of-the-late-bronze-age-near-east/"}
 ---
 
-#USE
-
 ==“Ugarit was truly cosmopolitan. In some ways, it was the city that most typified the international spirit of the age.”== ([Podany, 2012, p. 274](zotero://select/library/items/GN73GMNP)) ([pdf](zotero://open-pdf/library/items/LXNK9GFK?page=299&annotation=LKMC9VB4))
 
 “[[Ugarit\|Ugarit]] had been within the Egyptian sphere of influence, though not directly subject to Egypt, since around 1400 BCE. Excavations have taken place there for more than seventy-five years, providing hundreds of cuneiform documents and making it one of the best known of the Levantine cities. It was one of the northernmost cities under Egyptian hegemony, situated in a fertile valley right on the Mediterranean coast. It had a perfect mild Mediterranean climate: lots of warm, sunny days, but enough rainfall to make irrigation unnecessary. The people of Ugarit grew wheat and barley, olives, grapes, pistachios, and almonds, and the nearby hills and mountains provided good stone for construction, along with pine and cedar trees. The craftsmen of this region had also figured out how to make a vivid red-purple dye from the shells of a sea snail called the murex. Not only was the color brighter than most natural dyes, it didn’t require the use of a dye fixative in order to be stable. Murex-dyed fabric kept its startling color even when washed or left in the sun. But it was time-consuming and expensive to produce; thousands of shells produced only a few ounces of dye. Only the wealthy and powerful could afford purple clothing, and it became the color of royalty all around the Mediterranean.
