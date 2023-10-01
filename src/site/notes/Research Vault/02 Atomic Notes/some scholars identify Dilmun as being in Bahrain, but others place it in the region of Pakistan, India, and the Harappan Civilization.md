@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/some-scholars-identify-dilmun-as-being-in-bahrain-but-others-place-it-in-the-region-of-pakistan-india-and-the-harappan-civilization/"}
 ---
 
-#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 002 - Surplus Food, Big Buildings, and Power Hungry Lugals\|(OLD) 002 - Surplus Food, Big Buildings, and Power Hungry Lugals]] and maybe [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 003 - Sargon to Hammurabi - Trade and Turmoil in Ancient Mesopotamia\|(OLD) 003 - Sargon to Hammurabi - Trade and Turmoil in Ancient Mesopotamia]]
-
 ### Dilmun as Bahrain
 
 “In the early second millennium BCE, the Old Babylonian period in Mesopotamia, [[Encyclopedia/02 Places/Dilmun\|Dilmun]] was booming. It seems to have grown in importance almost in proportion to the decline of Meluhha and the loss of direct Mesopotamian trade with Magan.” ([Podany, 2012, p. 98](zotero://select/library/items/GN73GMNP)) ([pdf](zotero://open-pdf/library/items/LXNK9GFK?page=123&annotation=JK949KK8))
