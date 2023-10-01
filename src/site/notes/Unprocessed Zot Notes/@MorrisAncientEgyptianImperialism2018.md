@@ -13,7 +13,7 @@ type: #book
 process status: #currentlyreading #inprogress 
 _ _ _
 
-## 1 Trade Before Empire; Empire Before the State (c. 3500–2686)
+# 1 Trade Before Empire; Empire Before the State (c. 3500–2686)
 
 “As early as the Nagada IIC period, an influx of items, images, and ideas from the greater Mesopotamian world arrived in Egypt. Their effect on the elite of Upper Egypt—a stratum of society eager to adopt new vocabularies of power into its semiotic system—was to inspire immense creativity. Although the duration of this interchange was short, ideas introduced at this time (especially regarding the technology of sealing in order to mark ownership, the utility of writing, the communicative power of heraldic imagery, and the design of niched buildings of monumental proportions) helped forge the visual insignias of high social status in the late Predynastic and Protodynastic period as well as pharaonic iconography throughout the Early Dynastic period and beyond.10” ([Morris, 2018, p. 15](zotero://select/library/items/JDKXRVLF)) ([pdf](zotero://open-pdf/library/items/T6H4DPKC?page=29&annotation=RLIXMPQ2))
 
@@ -40,18 +40,18 @@ Other scholars, proponents of the “commercialization model,” however, envisi
 “Just what the relationship between Buto and the Upper Egyptian powers had been prior to this point would be fascinating to ascertain. Recent excavations have revealed the town’s precocious engagements with Syrian traders, and archaeological evidence suggests that lucrative maritime connections may have prompted southern elites as early as the mid‐Nagada II period to establish a commercial enclave at Buto. Certainly by the time that the ruler of Upper Egypt was laid to rest in tomb U‐j, the southern court and the same heron‐topped shrine of Buto that Narmer would later honor for its collaboration were in close contact. Ivory tags from the tomb imply that the heron‐shrine (or the polity it represented) sent the deceased ruler parting gifts to take into the afterlife—though it is unclear whether these gifts imply a relationship of dominance and submission, of an enclave to its sponsor, or of diplomatic courtesy.” ([Morris, 2018, p. 28](zotero://select/library/items/JDKXRVLF)) ([pdf](zotero://open-pdf/library/items/T6H4DPKC?page=42&annotation=FCUW3MCP))
 
 [[Research Vault/02 Atomic Notes/The Following of Horus\|The Following of Horus]]
-## 2 Settler Colonialism (c. 2400–2181)
+# 2 Settler Colonialism (c. 2400–2181)
 
-## 3 Military Occupation (c. 2055–1773)
+# 3 Military Occupation (c. 2055–1773)
 
-## 4 Transculturation, Collaboration, Colonization (c. 1773–1295)
+# 4 Transculturation, Collaboration, Colonization (c. 1773–1295)
 
-## 5 Motivation, Intimidation, Enticement (c. 1550–1295) 
+# 5 Motivation, Intimidation, Enticement (c. 1550–1295) 
 
-## 6 Organization and Infrastructure (c. 1458–1295)
+# 6 Organization and Infrastructure (c. 1458–1295)
 
-## 7 Outwitting the State (c. 1362–1332) 
+# 7 Outwitting the State (c. 1362–1332) 
 
-## 8 Conversions and Contractions in Egypt’s Northern Empire (c. 1295–1136) 
+# 8 Conversions and Contractions in Egypt’s Northern Empire (c. 1295–1136) 
 
-## 9 Conversions and Contractions in Egypt’s Southern Empire (c. 1550–1069)
+# 9 Conversions and Contractions in Egypt’s Southern Empire (c. 1550–1069)
