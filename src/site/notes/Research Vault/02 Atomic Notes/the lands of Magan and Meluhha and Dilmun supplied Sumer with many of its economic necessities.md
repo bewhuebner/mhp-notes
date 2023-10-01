@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-lands-of-magan-and-meluhha-and-dilmun-supplied-sumer-with-many-of-its-economic-necessities/"}
 ---
 
-#USE in [[Maritime History Podcast/01 Episode Transcripts/Series 1 - The Bronze Age/(OLD) 002 - Surplus Food, Big Buildings, and Power Hungry Lugals\|(OLD) 002 - Surplus Food, Big Buildings, and Power Hungry Lugals]]
-
 “Magan, modern Oman, was less urbanized than Dilmun, but it was home to extensive copper mines—it was apparently one of Mesopotamia’s chief sources for copper in the Early Dynastic period. The people of Magan also quarried a hard black stone called diorite that the Mesopotamian kings valued for statues.” ([Podany, 2012, p. 47](zotero://select/library/items/GN73GMNP)) ([pdf](zotero://open-pdf/library/items/LXNK9GFK?page=72&annotation=B2IC3LC5))
 
 “We do know, though, that they produced long, thin, carnelian beads of astonishing quality. It may be a little hard for us to appreciate these beads. Factories could mass-produce them now, but imagine the skill involved in making a hole several centimeters in length but of minuscule diameter in a hard stone, without a diamond drill bit and with only one’s own muscles to power the drill.” ([Podany, 2012, p. 48](zotero://select/library/items/GN73GMNP)) ([pdf](zotero://open-pdf/library/items/LXNK9GFK?page=73&annotation=CMU5H8WJ))
