@@ -1,6 +1,0 @@
----
-{"dg-publish":true,"permalink":"/sargon-s-children-use-ships-to-make-war-on-the-resource-centers-to-the-east/"}
----
-
-
-“The attraction of these abundant and expensive resources was powerful. After Sargon’s death, his son Manishtusu put an end to the peaceful trading relationship that Sargon had promoted. Instead, he attacked Magan, using warships.43 The Magan cities, thirty-two of them, “assembled for war, and he vanquished (them) and smote their cities. He felled their rulers and captured their fugitives as far as the silver mines.” But Manishtusu doesn’t seem to have been interested in bringing Magan into his empire. He was interested in bringing home riches: “He quarried the black stone of the mountains . . . and loaded (it) into the boats and moored (them) at the wharf of Akkad.” This was not an empty boast; stone objects have been found at Ur and Nippur inscribed with their place of origin—they were booty from Magan. King Naram-Sin also later claimed a victory in Magan. He too had his eye on its diorite. He “captured Manium, the ‘lord’ of Magan; he quar- ried blocks of diorite in their mountains, [and] transported (them) to his city Akkad.”” (Podany, 2012, p. 47)
