@@ -11,10 +11,6 @@ page range:
 type: #book
 process status: #currentlyreading #inprogress 
 
-## Dustjacket Summary
-
-A previously unpublished work by one of the greatest historians of the twentieth century: the story of the Mediterranean in ancient times, from its geological beginnings to the great civilizations that flourished along its shores. Written in the late 1960s—the decade during which Fernand Braudel was also atwork on his monumental Civilization and Capitalism—the manuscript was set aside on the death of the author’s longtime friend and editor, Albert Skira. The magnificent text begins with the history of the Mediterranean seabed itself—the layers of clay, sand, and limestone from which the Egyptians carved their ancient tombs and with which the megalithic temples in Malta were built. What follows is the epic story of how the Phoenicians, the Etruscans, the Greeks and Romans, and the great river civilizations of Mesopotamia and Egypt struggled and thrived in this demanding but gloriously beautiful world bordered and shaped by the Mediterranean. With its extraordinary depth and range of knowledge, Braudel’s superb history—expertly annotated to reflect recent archaeological discoveries—brings to life as never before the beginnings of Western culture.
-
 # Chapter One: Seeing the Sea
 
 - [[Research Vault/02 Atomic Notes/Mediterranean as a region of geologic cataclysm for millions of years\|Mediterranean as a region of geologic cataclysm for millions of years]]
@@ -175,7 +171,7 @@ A previously unpublished work by one of the greatest historians of the twentieth
 
 - [[Research Vault/02 Atomic Notes/the Thera eruption also decimated Crete and the palace centers there\|the Thera eruption also decimated Crete and the palace centers there]]
 
-- [[Research Vault/02 Atomic Notes/early Mycenae was heavily influenced by Crete at its heigh (and Egypt)\|early Mycenae was heavily influenced by Crete at its heigh (and Egypt)]]
+- [[Research Vault/02 Atomic Notes/early Mycenae was heavily influenced by Crete at its height (and Egypt)\|early Mycenae was heavily influenced by Crete at its height (and Egypt)]]
 
 - [[Research Vault/02 Atomic Notes/Crete may have transported Mycenaean soldiers to Egypt to fight for Ahmose I\|Crete may have transported Mycenaean soldiers to Egypt to fight for Ahmose I]]
 
