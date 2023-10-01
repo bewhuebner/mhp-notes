@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/detailed-walkthrough-of-how-the-khufu-ship-was-constructed/"}
 ---
 
-#USE
-
 This general discussion of the oldest excavated and recorded Egyptian ship applies evidence of Egyptian shipbuilding practices used on other extant hulls toward a better understanding of this vessel's construction. Information obtained from vessels, texts, tools, and representations contributes to a reconstruction of standard methods used to build wooden ships and boats in ancient Egypt. 
 
 Some ancient Egyptians boasted of building boats in inscriptions on their tomb walls, almost always including the vessel's type and length as primary descriptive elements. The wood used and the boat's width appear in some, but not all, documents and are of secondary importance. Traditional boatbuilders have used the same criteria throughout the ages," and it is likely that Khufu ordered his shipwrights to build a particular type of hull 80 cubits long. 
