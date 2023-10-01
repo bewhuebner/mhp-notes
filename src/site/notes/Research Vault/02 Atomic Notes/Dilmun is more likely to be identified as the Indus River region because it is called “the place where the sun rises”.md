@@ -3,5 +3,3 @@
 ---
 
 “A fairly obvious clue to the general direction in which [[Encyclopedia/02 Places/Dilmun\|Dilmun]] is to be sought is found in the last extant lines of the Sumerian deluge myth, according to which Ziusudra, the Sumerian Floodhero, is given eternal life and transplanted by the great gods An and Enlil to Dilmun, which is described as "the place where the sun rises." Now the epithet "the place where the sun rises" hardly fits the island of Bahrain, which hugs the Arabian coast and is almost directly south of Sumer; it is much more likely to refer to the region of the Indus River, or perhaps to Baluchistan.” ([Kramer, 1963, p. 281](zotero://select/library/items/TI24BNVH)) ([pdf](zotero://open-pdf/library/items/EY8R4485?page=281&annotation=Q3CP8UYE))
-
-#USE in discussion of Dilmun 
