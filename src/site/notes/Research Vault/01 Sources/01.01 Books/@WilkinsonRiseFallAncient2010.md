@@ -11,12 +11,6 @@ page range:
 type: #book
 process status: #currentlyreading #inprogress 
 
-## Dustjacket Summary
-
-This is a story studded with extraordinary achievements and historic moments, from the building of the pyramids and the conquest of Nubia, through Akhenaten's religious revolution, the power and beauty of Nefertiti, the glory of Tutankhamun's burial chamber, and the ruthlessness of Ramesses, to Alexander the Great's invasion, and Cleopatra's fatal entanglement with Rome.  
-  
-As the world's first nation-state, the history of Ancient Egypt is above all the story of the attempt to unite a disparate realm and defend it against hostile forces from within and without. Combining grand narrative sweep with detailed knowledge of hieroglyphs and the iconography of power, Toby Wilkinson reveals Ancient Egypt in all its complexity.
-
 [[Research Vault/02 Atomic Notes/in Egypt, there are through-lines with the use of writing, royalty, iconography and propaganda and ideology\|in Egypt, there are through-lines with the use of writing, royalty, iconography and propaganda and ideology]]
 
 [[Research Vault/02 Atomic Notes/ancient Egypt is the prime example of a "nation-state" in the ancient world\|ancient Egypt is the prime example of a "nation-state" in the ancient world]]
