@@ -11,27 +11,16 @@ page range:
 type: #book
 process status: #linked
 
-## Dustjacket Summary
-
-A sweeping, revisionist history of the Roman Empire from one of our foremost classicists.
-
-Ancient Rome was an imposing city even by modern standards, a sprawling imperial metropolis of more than a million inhabitants, a "mixture of luxury and filth, liberty and exploitation, civic pride and murderous civil war" that served as the seat of power for an empire that spanned from Spain to Syria. Yet how did all this emerge from what was once an insignificant village in central Italy? In S.P.Q.R., world-renowned classicist Mary Beard narrates the unprecedented rise of a civilization that even two thousand years later still shapes many of our most fundamental assumptions about power, citizenship, responsibility, political violence, empire, luxury, and beauty.
-
-From the foundational myth of Romulus and Remus to 212 ce—nearly a thousand years later—when the emperor Caracalla gave Roman citizenship to every free inhabitant of the empire, S.P.Q.R. (the abbreviation of "The Senate and People of Rome") examines not just how we think of ancient Rome but challenges the comfortable historical perspectives that have existed for centuries by exploring how the Romans thought of themselves: how they challenged the idea of imperial rule, how they responded to terrorism and revolution, and how they invented a new idea of citizenship and nation.
-
-Opening the book in 63 bce with the famous clash between the populist aristocrat Catiline and Cicero, the renowned politician and orator, Beard animates this “terrorist conspiracy,” which was aimed at the very heart of the Republic, demonstrating how this singular event would presage the struggle between democracy and autocracy that would come to define much of Rome’s subsequent history. Illustrating how a classical democracy yielded to a self-confident and self-critical empire, S.P.Q.R. reintroduces us, though in a wholly different way, to famous and familiar characters—Hannibal, Julius Caesar, Cleopatra, Augustus, and Nero, among others—while expanding the historical aperture to include those overlooked in traditional histories: the women, the slaves and ex-slaves, conspirators, and those on the losing side of Rome’s glorious conquests.
-
-Like the best detectives, Beard sifts fact from fiction, myth and propaganda from historical record, refusing either simple admiration or blanket condemnation. Far from being frozen in marble, Roman history, she shows, is constantly being revised and rewritten as our knowledge expands. Indeed, our perceptions of ancient Rome have changed dramatically over the last fifty years, and S.P.Q.R., with its nuanced attention to class inequality, democratic struggles, and the lives of entire groups of people omitted from the historical narrative for centuries, promises to shape our view of Roman history for decades to come.
-
-
-## Prologue: The History of Rome (15)
+# Prologue: The History of Rome (15)
 
 [[Research Vault/02 Atomic Notes/Tacitus’ critique of military conquest and empire\|Tacitus’ critique of military conquest and empire]]
 
-## 1. Cicero’s Finest Hour (21)
+# 1. Cicero’s Finest Hour (21)
+
 [[Research Vault/02 Atomic Notes/Cicero v. Catiline as a template for political conflict\|Cicero v. Catiline as a template for political conflict]]
 
-## 2. In the Beginning (53)
+# 2. In the Beginning (53)
+
 [[Research Vault/02 Atomic Notes/Cicero alludes to Jupiter as the god who “holds firm the city and empire”\|Cicero alludes to Jupiter as the god who “holds firm the city and empire”]]
 
 [[Research Vault/02 Atomic Notes/Cicero remarks on the prime location of Rome - exploiting advantage of the sea while avoiding disadvantage\|Cicero remarks on the prime location of Rome - exploiting advantage of the sea while avoiding disadvantage]]
@@ -52,11 +41,12 @@ Like the best detectives, Beard sifts fact from fiction, myth and propaganda fro
 
 [[Research Vault/02 Atomic Notes/Sicily and southern Italy were just as much Greek as they were ‘Roman’ in the early history of Rome\|Sicily and southern Italy were just as much Greek as they were ‘Roman’ in the early history of Rome]]
 
-## 3. The Kings of Rome (91)
+# 3. The Kings of Rome (91)
 
 [[Research Vault/02 Atomic Notes/Rome was probably a typical archaic town, rather than the complex society that Roman myth depicts\|Rome was probably a typical archaic town, rather than the complex society that Roman myth depicts]]
    
-## 4. Rome’s Great Leap Forward (131)
+# 4. Rome’s Great Leap Forward (131)
+
 [[Research Vault/02 Atomic Notes/Cincinnatus as both the patriot and the opponent of plebeian rights\|Cincinnatus as both the patriot and the opponent of plebeian rights]]
 
 [[Research Vault/02 Atomic Notes/the 5th century BCE Twelve Tables were still viewed as the ‘distinguished root of law’ and reissued even when Roman lawyers didn’t understand the original point\|the 5th century BCE Twelve Tables were still viewed as the ‘distinguished root of law’ and reissued even when Roman lawyers didn’t understand the original point]]
@@ -69,7 +59,8 @@ Like the best detectives, Beard sifts fact from fiction, myth and propaganda fro
 
 [[Research Vault/02 Atomic Notes/Rome’s transformation between the 5th and 3rd centuries BCE can partly be explained by the feedback loop of “organizational demands of fighting on a large scale”\|Rome’s transformation between the 5th and 3rd centuries BCE can partly be explained by the feedback loop of “organizational demands of fighting on a large scale”]]
 
-## 5. A Wider World (169)
+# 5. A Wider World (169)
+
 [[Research Vault/02 Atomic Notes/the ancients dedicated temples and offerings to sea gods if their fleets were spared from a storm\|the ancients dedicated temples and offerings to sea gods if their fleets were spared from a storm]]
 
 [[Research Vault/02 Atomic Notes/war has often been used as a structuring principle of history\|war has often been used as a structuring principle of history]]
@@ -82,7 +73,7 @@ Like the best detectives, Beard sifts fact from fiction, myth and propaganda fro
 
 [[Research Vault/02 Atomic Notes/Romans cast their imperial expansion as ‘just war’ and not aggression (sometimes accurately)\|Romans cast their imperial expansion as ‘just war’ and not aggression (sometimes accurately)]]
 
-## 6. New Politics (209)
+# 6. New Politics (209)
 
 [[Research Vault/02 Atomic Notes/Rome tied its victory over Carthage back to the Trojan War\|Rome tied its victory over Carthage back to the Trojan War]]
 
@@ -94,7 +85,8 @@ Like the best detectives, Beard sifts fact from fiction, myth and propaganda fro
 
 [[Research Vault/02 Atomic Notes/xenophobia has been used by politicians for all of history\|xenophobia has been used by politicians for all of history]]
 
-## 7. From Empire to Emperors (253)
+# 7. From Empire to Emperors (253)
+
 [[Research Vault/02 Atomic Notes/As the Roman Empire grew, so did questions about how they needed to modulate their form of rule over extended territory\|As the Roman Empire grew, so did questions about how they needed to modulate their form of rule over extended territory]]
 
 [[Research Vault/02 Atomic Notes/As empire expands, the necessity for concentration of power also grows\|As empire expands, the necessity for concentration of power also grows]]
@@ -110,25 +102,30 @@ Like the best detectives, Beard sifts fact from fiction, myth and propaganda fro
 
 [[Research Vault/02 Atomic Notes/The ‘victors’ that emerged from the fall of the Republic later recast themselves as freedom fighters\|The ‘victors’ that emerged from the fall of the Republic later recast themselves as freedom fighters]]
 
-## 8. The Home Front (297)
+# 8. The Home Front (297)
+
 [[Research Vault/02 Atomic Notes/portrayals of the past as “tough” are often mere moralizing or exploitation for political credit\|portrayals of the past as “tough” are often mere moralizing or exploitation for political credit]]
 
 [[Research Vault/02 Atomic Notes/Antikythera Mechanism\|Antikythera Mechanism]]
 
-## 9. The Transformations of Augustus (337)
+# 9. The Transformations of Augustus (337)
+
 [[Research Vault/02 Atomic Notes/The Aeneid includes references to the contemporary events in Rome when Virgil wrote it (Cleopatra)\|The Aeneid includes references to the contemporary events in Rome when Virgil wrote it (Cleopatra)]]
 
 [[Research Vault/02 Atomic Notes/Virgil’s Aeneid includes images financed and intended to portray Augustan Rome as divine\|Virgil’s Aeneid includes images financed and intended to portray Augustan Rome as divine]]
 
 [[Research Vault/02 Atomic Notes/Augustus formulated a blueprint for imperial rule\|Augustus formulated a blueprint for imperial rule]]
 
-## 10. Fourteen Emperors (387)
+# 10. Fourteen Emperors (387)
+
 [[Research Vault/02 Atomic Notes/the Palatine Hill as a symbol of change in Rome. Archaeology depicts historical trends\|the Palatine Hill as a symbol of change in Rome. Archaeology depicts historical trends]]
 
-## 11. The Haves and Have-Nots (435)
+# 11. The Haves and Have-Nots (435)
+
 [[Research Vault/02 Atomic Notes/curse tablets in ancient rome\|curse tablets in ancient rome]]
 
-## 12. Rome Outside Rome (475)
+# 12. Rome Outside Rome (475)
+
 [[Research Vault/02 Atomic Notes/letters of Pliny the Younger are good window into issues of Roman imperial rule\|letters of Pliny the Younger are good window into issues of Roman imperial rule]]
 
 [[Research Vault/02 Atomic Notes/Rome’s imperial logic was to assimilate and harness local hierarchies\|Rome’s imperial logic was to assimilate and harness local hierarchies]]
@@ -139,4 +136,4 @@ Like the best detectives, Beard sifts fact from fiction, myth and propaganda fro
 
 [[Research Vault/02 Atomic Notes/the transmission channels of the Roman Empire made possible the spread of Christianity\|the transmission channels of the Roman Empire made possible the spread of Christianity]]
 
-## Epilogue: The First Roman Millennium (527)
+# Epilogue: The First Roman Millennium (527)
