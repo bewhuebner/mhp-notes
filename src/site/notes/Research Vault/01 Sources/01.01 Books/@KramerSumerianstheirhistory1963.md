@@ -10,13 +10,13 @@ Citekey: @KramerSumerianstheirhistory1963
 tags: #book
 process status: #linked 
 _ _ _
-## Chapter One: Archaeology and Decipherment ([Kramer, 1963, p. 3](zotero://select/library/items/TI24BNVH)) ([pdf](zotero://open-pdf/library/items/EY8R4485?page=3&annotation=EV72PH9Y))
+# Chapter One: Archaeology and Decipherment ([Kramer, 1963, p. 3](zotero://select/library/items/TI24BNVH)) ([pdf](zotero://open-pdf/library/items/EY8R4485?page=3&annotation=EV72PH9Y))
 
 [[Research Vault/02 Atomic Notes/Mesopotamia has few trees and many reeds\|Mesopotamia has few trees and many reeds]]
 
 [[Research Vault/02 Atomic Notes/Advent of canal irrigation in Ancient Mesopotamia tied to growth of ruling classes and social structure\|Advent of canal irrigation in Ancient Mesopotamia tied to growth of ruling classes and social structure]]
 
-## Chapter Two: History: Heroes, Kings, and Ensi ([Kramer, 1963, p. 33](zotero://select/library/items/TI24BNVH)) ([pdf](zotero://open-pdf/library/items/EY8R4485?page=33&annotation=2I97YHNV))
+# Chapter Two: History: Heroes, Kings, and Ensi ([Kramer, 1963, p. 33](zotero://select/library/items/TI24BNVH)) ([pdf](zotero://open-pdf/library/items/EY8R4485?page=33&annotation=2I97YHNV))
 
 [[Research Vault/02 Atomic Notes/No written records exist for the first two millenia of Sumerian history\|No written records exist for the first two millenia of Sumerian history]]
 
@@ -36,7 +36,7 @@ _ _ _
 
 [[Research Vault/02 Atomic Notes/Hammurabi becomes the first Babylonian king in 1750 BCE\|Hammurabi becomes the first Babylonian king in 1750 BCE]]
 
-## Chapter Three: Society: The Sumerian City ([Kramer, 1963, p. 73](zotero://select/library/items/TI24BNVH)) ([pdf](zotero://open-pdf/library/items/EY8R4485?page=73&annotation=IHRFMZSV))
+# Chapter Three: Society: The Sumerian City ([Kramer, 1963, p. 73](zotero://select/library/items/TI24BNVH)) ([pdf](zotero://open-pdf/library/items/EY8R4485?page=73&annotation=IHRFMZSV))
 
 [[Research Vault/02 Atomic Notes/monumental architecture and the ziggurat were an outstanding feature of the Sumerian city-state\|monumental architecture and the ziggurat were an outstanding feature of the Sumerian city-state]]
 
@@ -50,7 +50,7 @@ _ _ _
 
 [[Research Vault/02 Atomic Notes/transport by various forms of boat was common in ancient Sumer\|transport by various forms of boat was common in ancient Sumer]]
 
-## Chapter Four: Religion: Theology, Rite, and Myth ([Kramer, 1963, p. 112](zotero://select/library/items/TI24BNVH)) ([pdf](zotero://open-pdf/library/items/EY8R4485?page=112&annotation=Y9L5CKGF))
+# Chapter Four: Religion: Theology, Rite, and Myth ([Kramer, 1963, p. 112](zotero://select/library/items/TI24BNVH)) ([pdf](zotero://open-pdf/library/items/EY8R4485?page=112&annotation=Y9L5CKGF))
 
 [[Research Vault/02 Atomic Notes/a primeval sea was central to Sumerian creation mythology\|a primeval sea was central to Sumerian creation mythology]]
 
@@ -68,19 +68,19 @@ _ _ _
 
 [[Research Vault/02 Atomic Notes/Inanna myth of the boat of heaven and the voyage and sea monsters\|Inanna myth of the boat of heaven and the voyage and sea monsters]]
 
-## Chapter Five: Literature: The Sumerian Belles-Lettre ([Kramer, 1963, p. 165](zotero://select/library/items/TI24BNVH)) ([pdf](zotero://open-pdf/library/items/EY8R4485?page=165&annotation=4X87SBUH))
+# Chapter Five: Literature: The Sumerian Belles-Lettre ([Kramer, 1963, p. 165](zotero://select/library/items/TI24BNVH)) ([pdf](zotero://open-pdf/library/items/EY8R4485?page=165&annotation=4X87SBUH))
 
 [[Research Vault/02 Atomic Notes/90% of inscribed artifacts from ancient Sumer are administrative or economic documents\|90% of inscribed artifacts from ancient Sumer are administrative or economic documents]]
 
 [[Research Vault/02 Atomic Notes/Boats had personal names in ancient Sumerian mythology and literature\|Boats had personal names in ancient Sumerian mythology and literature]]
 
-## Chapter Six: Education: The Sumerian School ([Kramer, 1963, p. 229](zotero://select/library/items/TI24BNVH)) ([pdf](zotero://open-pdf/library/items/EY8R4485?page=229&annotation=NRGLA3JT))
+# Chapter Six: Education: The Sumerian School ([Kramer, 1963, p. 229](zotero://select/library/items/TI24BNVH)) ([pdf](zotero://open-pdf/library/items/EY8R4485?page=229&annotation=NRGLA3JT))
 
 [[Research Vault/02 Atomic Notes/the development of the cuneiform system of writing was a main contribution of Sumer to civilization as a whole\|the development of the cuneiform system of writing was a main contribution of Sumer to civilization as a whole]]
 
-## Chapter Seven: Character: Drives, Motives, and Values ([Kramer, 1963, p. 249](zotero://select/library/items/TI24BNVH)) ([pdf](zotero://open-pdf/library/items/EY8R4485?page=249&annotation=VBJHB8KN))
+# Chapter Seven: Character: Drives, Motives, and Values ([Kramer, 1963, p. 249](zotero://select/library/items/TI24BNVH)) ([pdf](zotero://open-pdf/library/items/EY8R4485?page=249&annotation=VBJHB8KN))
 
-## Chapter Eight: The Legacy of Sumer ([Kramer, 1963, p. 269](zotero://select/library/items/TI24BNVH)) ([pdf](zotero://open-pdf/library/items/EY8R4485?page=269&annotation=DAJZJXA5))
+# Chapter Eight: The Legacy of Sumer ([Kramer, 1963, p. 269](zotero://select/library/items/TI24BNVH)) ([pdf](zotero://open-pdf/library/items/EY8R4485?page=269&annotation=DAJZJXA5))
 
 [[Research Vault/02 Atomic Notes/the identification of Magan and Meluhha (Indus Valley) may have shifted over the course of Sumerian history\|the identification of Magan and Meluhha (Indus Valley) may have shifted over the course of Sumerian history]]
 
