@@ -10,25 +10,41 @@ Citekey: MarkEgyptMesopotamiastud
 type: #book 
 process status: #linked 
 
+# 1. Introduction
+
 [[Research Vault/02 Atomic Notes/there are two possible sea routes from the Levant to Egypt\|there are two possible sea routes from the Levant to Egypt]]
+
+# 2. History and Trade of Early Mesopotamia
+
+# 3. History and Trade of Predynastic Egypt
 
 ### Dynasty 0 evidence connecting Buto and Mesopotamia
 
 “The last period is the Naqada III, or Dynasty O (3200­-3100 B.C.). At the beginning, the new power of regional kings is seen in the appearance of true royal  cemeteries, as at Abydos, and possibly a trend in some areas toward the concentration of the populace around administrative centers, such as Hierakonpolis. The  period is best known for its carved ivory knife handles and large ceremonial slate palettes that bear both scenes of war and Mesopotamian motifs. It is a time of  transition that culminates with the rise of a true Egyptian state. It has been argued that Egypt was unified as early as the Naqada IIIa period under a King Scorpion.  This interpretation is based on a number of artifacts and royal symbols recovered from Tomb U­j at Abydos. These artifacts consist of an ivory scepter in the shape of  a crook, Palestinian pottery, and bone or ivory labels possibly attached to bolts of cloth, of which one was decorated with a palace­ facade motif. The evidence that  this early king ruled over a unified Egypt consists of a few bone labels that may be inscribed with the name of Buto or Bubastis. These labels may be evidence of  raiding or trade, but they hardly constitute evidence of a unified country.” ([Mark, 1998, p. 21](zotero://select/library/items/KAD9XH5N)) ([pdf](zotero://open-pdf/library/items/UV7SU7ME?page=30&annotation=3J44M9G3))
 
+# 4. The Pottery
+
 [[Research Vault/02 Atomic Notes/pottery suggests an early sea route from Northern Syria to Egypt\|pottery suggests an early sea route from Northern Syria to Egypt]]
+
+# 5. Raw Materials
 
 [[Research Vault/02 Atomic Notes/lapis lazuli could only have come to Egypt via Mesopotamia\|lapis lazuli could only have come to Egypt via Mesopotamia]]
 
 [[Research Vault/02 Atomic Notes/durability of lapis lazuli makes it a good indicator of trade activity\|durability of lapis lazuli makes it a good indicator of trade activity]]
 
+# 6. Monkeys and Maceheads
+
 ### depictions on non-indigenous animals reveal foreign contacts of pre-dynastic Egypt
 
-“Chapter 6: Monkeys and Maceheads” ([Mark, 1998, p. 45](zotero://select/library/items/KAD9XH5N)) ([pdf](zotero://open-pdf/library/items/UV7SU7ME?page=54&annotation=SUBMAXMX))
+([Mark, 1998, p. 45](zotero://select/library/items/KAD9XH5N)) ([pdf](zotero://open-pdf/library/items/UV7SU7ME?page=54&annotation=SUBMAXMX))
+
+# 7. Cylinder Seals
 
 ### cylinder seals come to Egypt from Mesopotamia via Syria
 
 “The evidence reviewed here suggests that such seals reached Egypt via northern Syria and the sea. In addition, the distribution of hemispheroid stamp seals found between northern Mesopotamia  and Susa is consistent with earlier evidence of trade between these two areas. The discovery of such a seal in Egypt and the absence of similar seals in Palestine also  suggest seals were transported to Egypt via northern Syria and the sea (fig. 27).” ([Mark, 1998, p. 51](zotero://select/library/items/KAD9XH5N)) ([pdf](zotero://open-pdf/library/items/UV7SU7ME?page=60&annotation=RBSADBXM))
+
+# 8. Architecture
 
 ### boards used in coffins and tombs my be repurposed boat planks
 
@@ -37,6 +53,8 @@ process status: #linked 
 ### a summary of what architecture may signify for Mesopotamia-Egypt connection in prehistory
 
 “Furthermore, lapis lazuli continued to be  imported through the beginning of the First Dynasty, and the appearance of these tombs also seems to coincide roughly with the appearance of monkey figurines in the  Grey Eye Temple at Tell Brak. Thus, crenelated tombs may be a further indication of continued contact between Egypt and Mesopotamia during early dynastic times.” ([Mark, 1998, p. 66](zotero://select/library/items/KAD9XH5N)) ([pdf](zotero://open-pdf/library/items/UV7SU7ME?page=75&annotation=FPTF5BS6))
+
+# 9. Boat Motifs
 
 ### bow v. stern of boats on the Gebel el-Arak knife
 
@@ -58,6 +76,8 @@ process status: #linked 
 
 [[Research Vault/02 Atomic Notes/low likelihood of Red Sea route connecting Levant to Egypt\|low likelihood of Red Sea route connecting Levant to Egypt]]
 
+# 10. The Narmer Palette
+
 ### Buto port and boat depictions on the Narmer Palette
 
 “Above the decapitated bodies is carved a door, a bird, a boat, and a falcon. The "door" sign usually signifies a frontier post or stronghold that controls access into  Egypt. For example, a hieroglyph consisting of a door and a sedge refers to the southern frontier post of Elephantine or the "Door of the South". On the Narmer  palette, the door sign is translated as the ''Great Door" and the falcon is equated with the falcon­god Horus (i.e. Narmer), and the boat signifies the Harpoon nome.  This group of symbols has been interpreted to describe Narmer's taking of the Great Door (or Port?) of Buto because a port at Buto would control access to the sea. The king and his entourage therefore are proceeding through Buto to inspect the decapitated bodies of his enemy (fig. 49).” ([Mark, 1998, p. 97](zotero://select/library/items/KAD9XH5N)) ([pdf](zotero://open-pdf/library/items/UV7SU7ME?page=106&annotation=N87VPHR2))
@@ -69,6 +89,8 @@ process status: #linked 
 > Bleeker p. 72 - "Already in the 3rd milenium BC, Hathor was identified with the local Semitic goddess at Byblos. . . . The Ba'alat Gebal, mistress of Byblos, was identified, was the patroness  of the shipmasters. Hathor likewise protects shipping on the Nile, to foreign parts and in the sky."
 
 “The Mesopotamian signs and motifs on the Narmer palette become much more understandable if we accept the possibility that the Delta was the entrepôt for  Mesopotamian goods during the Naqada II and III periods. If this interpretation of the Mesopotamian elements on the palette is valid, it then follows that northern  Mesopotamia continued to have a strong influence on Lower Egypt at least as late as the unification. The relevance of this sustained influence will be clarified in the next chapter.” ([Mark, 1998, p. 121](zotero://select/library/items/KAD9XH5N)) ([pdf](zotero://open-pdf/library/items/UV7SU7ME?page=130&annotation=ER3N4RZ2))
+
+# 11. Trade Routes
 
 [[Research Vault/02 Atomic Notes/Uluburun wreck highlights the volume of goods that one ship could carry\|Uluburun wreck highlights the volume of goods that one ship could carry]]
   
