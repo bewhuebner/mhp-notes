@@ -39,9 +39,9 @@ _ _ _
 
 [[Research Vault/02 Atomic Notes/the lands of Magan and Meluhha and Dilmun supplied Sumer with many of its economic necessities\|the lands of Magan and Meluhha and Dilmun supplied Sumer with many of its economic necessities]]
 
-[[Sargon’s children use ships to make war on the resource centers to the east\|Sargon’s children use ships to make war on the resource centers to the east]]
+[[Research Vault/02 Atomic Notes/Sargon’s children use ships to make war on the resource centers to the east\|Sargon’s children use ships to make war on the resource centers to the east]]
 
-[[Meluhha (Indus Valley) was on par with Mesopotamia and Egypt around 2600 BCE\|Meluhha (Indus Valley) was on par with Mesopotamia and Egypt around 2600 BCE]]
+[[Research Vault/02 Atomic Notes/Meluhha (Indus Valley) was on par with Mesopotamia and Egypt around 2600 BCE\|Meluhha (Indus Valley) was on par with Mesopotamia and Egypt around 2600 BCE]]
 
 [[Research Vault/02 Atomic Notes/Byblos likely had more maritime freedom than self-serving Egyptian depictions may indicate\|Byblos likely had more maritime freedom than self-serving Egyptian depictions may indicate]]
 
