@@ -9,7 +9,7 @@
 “Currents are only a modest help or hindrance to Mediterranean mariners. Far more relevant are the winds, whose names – *mistral*, *bora*, *tramontana*, *meltemi*, *levanter*, *scirocco*, *khamsin* and many more – conjure up as romantic a response in northern sensibilities as they do a practical respect among Mediterranean navigators. A strong blast can neutralize or reverse the surface current. Moreover, wind direction and intensity fluctuate wildly and unpredictably. True, the prevailing pattern consists of winds from the north, most violent between October and March. But as ever, Mediterranean generalizations are of limited validity.” ([Broodbank, 2013, p. 74](zotero://select/library/items/IR54JIQG)) ([pdf](zotero://open-pdf/library/items/85K7BT2G?page=72&annotation=SBJKCKXK))
 
 #### McGrail
-#USE 
+
 ==“From the seaman's viewpoint the summer, with its long daylight hours, also has welcome characteristics, the main problem being the relatively high number (up to 20 percent) of days with little or no wind. The winter, however, can be a dangerous time for, in addition to offshore local gale-force winds such as the Bora (see below) , there are many occasions when outbreaks of cold air from between north-west and north-east penetrate the region, resulting in very boisterous conditions and considerable seas, with severe squalls and thunderstorms which may develop rapidly with little warning (Mediterranean Pilot, 5, 1988:17).” ([McGrail, 2002, p. 92](zotero://select/library/items/LVPZGRY3)) ([pdf](zotero://open-pdf/library/items/85TAQ5UC?page=92&annotation=PK3JCRCD))==
 
 ### Winter Winds
