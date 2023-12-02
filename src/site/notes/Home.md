@@ -16,9 +16,9 @@ Thanks for your continued support and listenership!
 
 | cover                                                                                         | File                                                                                                                                                                     |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![](\-)                                                                                       | [[Maritime History Podcast/02 Episodes/Series 1 - The Bronze Age/003 - Predynastic Boating in Egypt's Desert\|003 - Predynastic Boating in Egypt's Desert]]           |
 | ![](https://res.cloudinary.com/ducqxvol0/image/upload/v1694658433/001_Final_Cover_yiabon.png) | [[Maritime History Podcast/02 Episodes/Series 1 - The Bronze Age/001 - A Maritime Prehistory of the Mediterranean\|001 - A Maritime Prehistory of the Mediterranean]] |
 | ![](https://res.cloudinary.com/ducqxvol0/image/upload/v1694658376/002_Final_Cover_r10lra.png) | [[Maritime History Podcast/02 Episodes/Series 1 - The Bronze Age/002 - Boating in Ancient Mesopotamia\|002 - Boating in Ancient Mesopotamia]]                         |
-| ![](\-)                                                                                       | [[Maritime History Podcast/02 Episodes/Series 1 - The Bronze Age/003 - Predynastic Boating in Egypt's Desert\|003 - Predynastic Boating in Egypt's Desert]]           |
 
 { .block-language-dataview}
 
@@ -56,6 +56,9 @@ Thanks for your continued support and listenership!
 
 | File                                                                                                                                                                                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Research Vault/02 Atomic Notes/description of Painted Tomb 100\|description of Painted Tomb 100]]                                                                                                                                                                 |
+| [[Research Vault/02 Atomic Notes/Possibility that Tomb 100 “black boat” was originally “normal” and then updated later\|Possibility that Tomb 100 “black boat” was originally “normal” and then updated later]]                                                     |
+| [[Research Vault/02 Atomic Notes/Predynastic Egyptian terms and myths involve reed boats used by the sun-god\|Predynastic Egyptian terms and myths involve reed boats used by the sun-god]]                                                                         |
 | [[Research Vault/02 Atomic Notes/low likelihood of Red Sea route connecting Levant to Egypt\|low likelihood of Red Sea route connecting Levant to Egypt]]                                                                                                           |
 | [[Research Vault/02 Atomic Notes/an argument that Tomb 100 does not have direct ties to Mesopotamia\|an argument that Tomb 100 does not have direct ties to Mesopotamia]]                                                                                           |
 | [[Research Vault/02 Atomic Notes/durability of lapis lazuli makes it a good indicator of trade activity\|durability of lapis lazuli makes it a good indicator of trade activity]]                                                                                   |
@@ -65,8 +68,5 @@ Thanks for your continued support and listenership!
 | [[Research Vault/02 Atomic Notes/a high-level summary of boat-building and the place of watercraft in ancient Egypt's history\|a high-level summary of boat-building and the place of watercraft in ancient Egypt's history]]                                       |
 | [[Research Vault/02 Atomic Notes/the repurposed planks from Lisht give us insight into how freight ships were constructed to carry heavier loads\|the repurposed planks from Lisht give us insight into how freight ships were constructed to carry heavier loads]] |
 | [[Research Vault/02 Atomic Notes/discussion of Egyptian ship-building technique v. Mediterranean technique\|discussion of Egyptian ship-building technique v. Mediterranean technique]]                                                                             |
-| [[Research Vault/02 Atomic Notes/Hatshepsut's temple depicts transport ships in Egypt, proving that they could have carried heavy loads\|Hatshepsut's temple depicts transport ships in Egypt, proving that they could have carried heavy loads]]                   |
-| [[Research Vault/02 Atomic Notes/the thicker boat planks were used on freight boats\|the thicker boat planks were used on freight boats]]                                                                                                                           |
-| [[Research Vault/02 Atomic Notes/many timbers found in road and ramp foundations in Egypt were repurposed boat planks\|many timbers found in road and ramp foundations in Egypt were repurposed boat planks]]                                                       |
 
 { .block-language-dataview}
