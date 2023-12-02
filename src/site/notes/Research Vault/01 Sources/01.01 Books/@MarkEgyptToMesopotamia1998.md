@@ -68,7 +68,7 @@ process status: #linked 
 
 ### Nile Delta city of Buto as the entrepot for shipbuilding to come from Mesopotamia to Egypt
 
-“f we add to this the possibility that Buto in the Nile Delta served as an important Egyptian importer of Mesopotamian goods, and  at the same time adopted various Mesopotamian architectural features, it would be understandable that its people would also have learned some Mesopotamian ship  construction techniques and copied the motifs used to decorate watercraft. In fact, the vague similarities between the knife handle and the Hierakonpolis painting is the  only apparent connection between the Gebel el Arak knife and southern Egypt.” ([Mark, 1998, p. 77](zotero://select/library/items/KAD9XH5N)) ([pdf](zotero://open-pdf/library/items/UV7SU7ME?page=86&annotation=B3EYYZVZ))
+“If we add to this the possibility that Buto in the Nile Delta served as an important Egyptian importer of Mesopotamian goods, and  at the same time adopted various Mesopotamian architectural features, it would be understandable that its people would also have learned some Mesopotamian ship  construction techniques and copied the motifs used to decorate watercraft. In fact, the vague similarities between the knife handle and the Hierakonpolis painting is the only apparent connection between the Gebel el Arak knife and southern Egypt.” ([Mark, 1998, p. 77](zotero://select/library/items/KAD9XH5N)) ([pdf](zotero://open-pdf/library/items/UV7SU7ME?page=86&annotation=B3EYYZVZ))
 
 [[Research Vault/02 Atomic Notes/an argument that Tomb 100 does not have direct ties to Mesopotamia\|an argument that Tomb 100 does not have direct ties to Mesopotamia]]
 
