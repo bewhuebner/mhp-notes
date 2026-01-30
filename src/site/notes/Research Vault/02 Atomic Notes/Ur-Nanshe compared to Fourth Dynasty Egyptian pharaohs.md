@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/ur-nanshe-compared-to-fourth-dynasty-egyptian-pharaohs/"}
+---
+
+
+[Go to annotation](zotero://open-pdf/library/items/HJ534D2J?page=74&annotation=B6C6VMQN) “Although divinely ordained, the Sumerian idea of monarchy was not absolute. [[Encyclopedia/01 People/Ur-Nanshe\|Ur-Nanshe]] was a contemporary of the kings of the Fourth Dynasty in Egypt, but his power over his subjects was much less sweeping than theirs, and his little kingdom was a fraction of the size of Egypt.The Fourth Dynasty Egyptian kings in Ur-Nanshe’s era could (and did) command the construction of what are still among the biggest and heaviest monuments ever constructed on Earth: the Great Pyramids. Nothing in Mesopotamia at this time was remotely comparable. By Ur-Nanshe’s time, though, the two civilizations seem to have fallen out of regular contact with one another, and it is entirely possible that the king of Lagash knew nothing of his contemporaries along the Nile. Egypt is never mentioned in texts from Early Dynastic Sumer—at least not those that have been found.” ([Podany, 2022, p. 74](zotero://select/library/items/AL4GHXLW))

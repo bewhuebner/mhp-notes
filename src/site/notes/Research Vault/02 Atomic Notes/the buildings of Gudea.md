@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-buildings-of-gudea/"}
+---
+
+
+“Gudea mainly pursued building and administrative activities, such as the construction of the E-ninnu, the temple of Lagash’s city-god Ningirsu. The king described this achievement as a global endeavour. Every land contributed to the temple’s construction, and each provided its local materials, from timber to bitumen, metals and semiprecious stones (Text 9.1). Thanks to the prestige of Ningirsu and the ability of Gudea, all these materials managed to travel from the edge of the land to the centre of the world, where the temple was constructed. Naturally, this is a ‘world’ imagined precisely for the temple’s construction, with rivers flowing from north to south to facilitate the arrival of materials at Lagash. This was the point of view of an ensi who was neither the most powerful, nor entirely independent in the political situation of the time.” ([Liverani, 2014, p. 155](zotero://select/library/items/LX5B2JDD)) ([pdf](zotero://open-pdf/library/items/B4QW3W57?page=180&annotation=YT3YSYPN))

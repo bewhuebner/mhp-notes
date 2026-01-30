@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/impact-of-food-production-on-neolithic-mesopotamia/"}
+---
+
+
+“The main characteristic of the Neolithic Revolution was the progressive development of food production techniques (agriculture and farming), gradually overtaking foraging activities, such as hunting and gathering.” ([Liverani, 2014, p. 34](zotero://select/library/items/LX5B2JDD)) ([pdf](zotero://open-pdf/library/items/B4QW3W57?page=59&annotation=KLXEEH5L))
+
+“The earliest communities developing food production techniques were located right outside the border of the Fertile Crescent, along an arch stretching from Palestine to the foothills of the Taurus and Zagros Mountains, and reaching Khuzistan. Successively, in the seventh millennium bc, the great ceramic cultures of the Neolithic period either spread to the Lower Mesopotamian plain, or established their presence in the Anatolian and Iranian plateaus. Mesopotamia (as well as Egypt) only gained a central role in the process around the fourth millennium bc. This centrality would characterise Mesopotamia throughout the later stages of its history, especially in relation to its own ‘periphery’.” ([Liverani, 2014, p. 35](zotero://select/library/items/LX5B2JDD)) ([pdf](zotero://open-pdf/library/items/B4QW3W57?page=60&annotation=Y76QNK7T))
+
+“Therefore, this type of early agriculture was a sort of ‘cultivation of wild plants’. Already in its incipient phases (10,000–7500 bc), this new mode of production had a visible impact on the social structure of human groups and the organisation of resources. Communities began to build roundhouses, partly set in the ground and with a tent-shaped roof. Therefore, the earliest permanent base-camps appeared (particularly where the first attempts at cultivation also took place), alongside seasonal camps for hunting purposes (which remained a fundamental activity) and other seasonal activities. The appearance of the first silos for the conservation of food and seeds from one year to the next indicates how these communities had by now overcome the daily dimension of nutrition. Moreover, herds and camps also raised the issue of property and inheritances. This led to the development of tombs, either for individuals or family groups.” ([Liverani, 2014, p. 36](zotero://select/library/items/LX5B2JDD)) ([pdf](zotero://open-pdf/library/items/B4QW3W57?page=61&annotation=4N5LPPNR))
+
+![Pasted image 20260127194049.png](/img/user/zz%20Images%20Dump/Pasted%20image%2020260127194049.png)

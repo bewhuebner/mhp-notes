@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/canal-and-land-ownership-as-central-to-both-urban-and-economic-growth-in-early-dynastic-mesopotamia/"}
+---
+
+
+“The temple or palace administrations had a significant impact not only on the development of cities, but also on village communities. The latter had to contribute to the accumulation of surplus for the centre, either giving up a share of their produce through taxation, or providing additional labour (corvée). The central administration had physically changed its countryside through the construction of canals and the creation of new arable land, destined for the temple and its staff. Consequently, this body owned the majority of the land in the surrounding areas. Although the spatial distribution of temple lands compared to village lands is still unknown, it is probable that the temple managed to control new lands located along newly constructed canals, relegating the villages to a more marginal role and lower yields.” ([Liverani, 2014, p. 101](zotero://select/library/items/LX5B2JDD)) ([pdf](zotero://open-pdf/library/items/B4QW3W57?page=126&annotation=WCXCKZ8V))
+
+“The main economic resources of the Early Dynastic period continued to be the cultivation of the alluvial plain and the farming of animals, since both craftsmanship and trade depended on the first two. On their part, the great organisations had a significant impact on both agriculture and farming.” ([Liverani, 2014, p. 102](zotero://select/library/items/LX5B2JDD)) ([pdf](zotero://open-pdf/library/items/B4QW3W57?page=127&annotation=ZZA3EP4W))

@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/akkadian-seizure-of-commercial-networks-likely-caused-their-weakening/"}
+---
+
+
+“Manishtusu and Naram-Sin effectively changed this strategy. They managed to take over the commercial networks of Ebla, Elam and, in a less definite way, also Magan (which provided a considerable booty, but the region was left unconquered). To a certain extent, however, the Akkadian takeover of these commercial networks caused their decline. The direct access to resources through plunder and conquest could have drastically damaged commercial networks. The Mesopotamian ideal considered everything outside of it as an uncivilised and deserted source of raw materials at its disposal. This ideal, however, did not take into account the fact that these areas had their own systems to extract materials, process them and exchange them, as well as their own commercial strategies and income.” ([Liverani, 2014, p. 142](zotero://select/library/items/LX5B2JDD)) ([pdf](zotero://open-pdf/library/items/B4QW3W57?page=167&annotation=8BHF5Z2P))

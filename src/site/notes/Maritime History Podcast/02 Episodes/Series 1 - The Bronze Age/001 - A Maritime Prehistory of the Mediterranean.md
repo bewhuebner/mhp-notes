@@ -6,22 +6,15 @@ tags: #podcastepisode
 
 # Introduction
 
-The Ancient Greek philosopher Plato famously compared the ancient Mediterranean people to [[Research Vault/02 Atomic Notes/Plato’s metaphor of “frogs round a pond”\|“ants or frogs around a pond.”]][^1]
+The ancient Greek philosopher Plato wrote about an island called Atlantis, a name you've perhaps heard. Although his tale of Atlantis was an allegory to illustrate a point about political philosophy, and maybe also make a point about naval power as the basis of a society, we're not here to talk about Atlantis today. We'll get there in due time, I promise.
 
-Although he was writing about the world of 2,500 years ago, Plato recognized the almost instinctive human attraction toward the sea. Plato of course qualifies as “ancient” when we look back on history from our perspective today, but Plato himself looked back on the ancients of his day, too. It’s a little hard to fathom the scales of time, but many early empires and civilizations were about the same amount of time removed from Plato’s life as he is from ours today.
+I mention Atlantis because its fate of sinking into the ocean reminds me of the numerous sites from our ancient past that are now submerged by the seas and oceans of the world. Climate change and sea-level rise have been a constant factor in our globe’s history, but modern nautical archaeology is revealing new perspectives on our ancient past.
 
-Plato also wrote about a place called Atlantis, a place you might have heard of before. While that was no doubt an allegory, and while Atlantis supposedly sank into the sea, it still prompts me to think about the numerous sites from our ancient past that are now submerged by the seas and oceans of the world. Climate change and sea-level rise have been a constant factor in our globe’s history, so to that end, today I want to consider the Mediterranean Sea and how a whole new understanding of ancient humans and their relationship with the sea is being revealed by modern nautical archaeology. 
-
-If Plato’s early humans were the “frogs around a pond,” and that pond was the Mediterranean, then nautical archaeology can tell us a lot about what was lost when the pond got bigger, and what it might indicate.
-
----
-# A Brief Hello
+Plato also famously compared the ancient Mediterranean people to [[Research Vault/02 Atomic Notes/Plato’s metaphor of “frogs round a pond”\|“ants or frogs around a pond.”]][^1] so even 2,500 years ago, he recognized an almost instinctive human attraction to the sea.
 
 Welcome to the Maritime History Podcast. I’m Brandon Huebner, and today we begin with Episode 001: A Maritime Prehistory of the Mediterranean. 
 
-This podcast is an episodic look at maritime history as a whole. Such a project obviously gives us many miles to cover and many ports to visit. The most logical place to begin, though, is the Mediterranean Sea. It’s drawn scholarly focus for millennia, and because of the climates, ecologies, and geography in that region, the Mediterranean presents an almost laboratory setting that helps us consider fundamental questions and ideas that we will see in many future discussions about maritime history.
-
-As you’ve likely already gathered, we aren’t going to begin with talk of the Age of Sail or buccaneers or naval battles. Not yet. We will certainly get to those, but we need to lay some groundwork first. I think that maritime prehistory and ancient mariners will prove more interesting than you might imagine, so let’s dive in.
+This podcast is an episodic look at maritime history as a whole. Such a project obviously gives us many miles to cover and many ports to visit. The most logical place to begin, though, is the Mediterranean Sea, the same pond that Plato was referencing in his quote a moment ago. 
 
 ---
 # Sea-level Rise and Coastal Sites

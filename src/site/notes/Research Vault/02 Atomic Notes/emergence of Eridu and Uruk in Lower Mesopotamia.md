@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/emergence-of-eridu-and-uruk-in-lower-mesopotamia/"}
+---
+
+
+“This area of cultural unity (an area which would later on comprise Sumer, Akkad and Elam) was thriving. It was different from contemporary Halaf culture, mainly because it had to adapt to a different ecosystem. The latter facilitated the irrigated cultivation of grains and cattle farming (which at Ras el-‘Amiya constituted 45% of bone remains). This was the initial phase of Ubaid culture, through which Lower Mesopotamia would eventually take the lead in terms of technological and organisational development in the Near East. On the contrary, Halaf culture would experience a progressive crisis. In terms of periodisation, the rise of Ubaid culture marks the end of the Neolithic and the beginning of the Chalcolithic period (Table 3.3).” ([Liverani, 2014, p. 50](zotero://select/library/items/LX5B2JDD)) ([pdf](zotero://open-pdf/library/items/B4QW3W57?page=75&annotation=3SDW9QE8))

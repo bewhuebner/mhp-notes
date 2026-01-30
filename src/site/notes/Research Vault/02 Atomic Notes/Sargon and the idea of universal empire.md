@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/sargon-and-the-idea-of-universal-empire/"}
+---
+
+
+“The rise of a newcomer from the north facilitated the emergence of a new ideology of kingship, changing the image of the king from that of a cultic and administrative official to that of a war hero. Considerable changes also appeared in the realm of political and military interventions (with an empire that actually managed to reach the Lower and the Upper Sea), and in the rise of Semitic elements alongside Sumerian ones. However, these innovations did not appear all of a sudden. The Akkadian idea of a ‘universal empire’ included elements that had already appeared in the Proto-Imperial period. Even the commercial networks of the period followed the routes established during the proto-urban and Early Dynastic phases.” ([Liverani, 2014, p. 133](zotero://select/library/items/LX5B2JDD)) ([pdf](zotero://open-pdf/library/items/B4QW3W57?page=158&annotation=3957VS5N))
+
+“The empire’s acquisition of new territories and its control of fertile fields in the south, taking these lands away from the temples, initiated a unifying process under the king’s authority. This process of unification was further supported by the use of the large number of war prisoners in activities under direct imperial control.” ([Liverani, 2014, p. 138](zotero://select/library/items/LX5B2JDD)) ([pdf](zotero://open-pdf/library/items/B4QW3W57?page=163&annotation=EGDH79CF))

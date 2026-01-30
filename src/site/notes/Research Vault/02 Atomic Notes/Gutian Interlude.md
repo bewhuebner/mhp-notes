@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/gutian-interlude/"}
+---
+
+
+“Having kept Mesopotamia united for almost two centuries, the Akkadian dynasty collapsed at the hands of the Gutians, who came from the Zagros Mountains. The Mesopotamian texts describe them as stereotypically barbarian: ‘dragons of the mountains’, ‘enemies of the gods’, ‘the uncontrolled people’, who ‘damage land like locusts’, ‘have no fear of the gods and do not know how to correctly follow the cultic protocol’. The kings of Akkad, from Naram-Sin to Shar-kali-sharri, had conducted various expeditions against Simurrum and Arame (in the Zagros foothills), reaching the land of the Gutians. However, the empire’s interest was more focused on the large and wealthy centres in the east (Elam) and west (Mari and Ebla). Taking advantage of the crisis due to the depletion of resources and the disorganisation of the last Akkadian kings, the Gutians descended the Zagros and ultimately managed to take control over Mesopotamia.” ([Liverani, 2014, p. 153](zotero://select/library/items/LX5B2JDD)) ([pdf](zotero://open-pdf/library/items/B4QW3W57?page=178&annotation=NNKJQ7RJ))

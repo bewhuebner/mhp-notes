@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/connection-between-magan-mesopotamia-and-harappa/"}
+---
+
+
+“It has to be borne in mind that the innovative use of oases (for the cultivation of date palms) and dromedaries would eventually spread across the Arabian Peninsula and in the Sahara. Among the arid lands extending from Oman to the western coast of northern Africa, Oman rose to prominence for its technological innovations precisely because of its contacts with different and more advanced cultures. Finally, it is important to note how the cultures developing along the Gulf and in Oman, apart from trading maritime materials (mother-of-pearl, shells and turtle shell), enabled an increased interaction between the Sumerian and Elamite coast in the Gulf and the more eastern region of the Indus Valley. In the latter area, the protoIndian culture of Harappa and Mohenjo Daro (the Meluhha of the Sumerian texts of the third millennium bc) was taking shape.” ([Liverani, 2014, p. 92](zotero://select/library/items/LX5B2JDD)) ([pdf](zotero://open-pdf/library/items/B4QW3W57?page=117&annotation=SFXDFB65))

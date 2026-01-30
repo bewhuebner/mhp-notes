@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/administrative-evolution-from-uruk-to-early-dynastic-periods/"}
+---
+
+
+“The Uruk III- Jemdet Nasr phase was still a phase of demographic and economic growth, primarily concentrated in the main centre of Uruk. Moreover, this was a phase of expansion, even in areas that had been previously excluded (the Diyala Valley and the area of Kish). On the contrary, the Early Dynastic I was a period of crisis and regression. This was a delayed consequence of the crisis of the first urbanisation in the Mesopotamian periphery. ” ([Liverani, 2014, p. 89](zotero://select/library/items/LX5B2JDD)) ([pdf](zotero://open-pdf/library/items/B4QW3W57?page=114&annotation=8F28F5H2))
+
+“Therefore, early state organisation continued to operate, with several adjustments and developments, both from the rising palaces and the still prominent temple institutions. Writing remained at the heart of administrative activities, moving on from the pictographic stage of the Uruk IV phase to the logographic and then logo-syllabic ones found on the tablets of the Uruk III and Jemdet Nasr phases. The iconography of seals moved away from working scenes and symbols of power (typical of Uruk IV–III), in favour of geometric depictions in the Jemdet Nasr period (Figure 5.3). TThese geometric depictions would eventually become more complex in the following period (Early Dynastic I). The information previously provided by depictions on seals, was now delivered entirely in writing. ” ([Liverani, 2014, p. 89](zotero://select/library/items/LX5B2JDD)) ([pdf](zotero://open-pdf/library/items/B4QW3W57?page=114&annotation=28GEHRAS))

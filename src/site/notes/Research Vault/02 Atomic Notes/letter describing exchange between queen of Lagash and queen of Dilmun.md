@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/letter-describing-exchange-between-queen-of-lagash-and-queen-of-dilmun/"}
+---
+
+
+[Go to annotation](zotero://open-pdf/library/items/HJ534D2J?page=95&annotation=HVALM38E) “Baranamtara’s diplomatic ties extended farther afield as well, and this helps to explain how she had access to copper to give to her ally, Queen Nin-gishkimti. The land of Dilmun, located on what is now the island of Bahrain in the Persian Gulf, was an important trading partner for Lagash. This had probably already been true all the way back in the reign of Ur-Nanshe, but for this era more evidence survives. This includes a letter between two officials, pertaining to a gift from the queen of Dilmun to the queen of Lagash.20 The latter might have been Baranamtara.The queen of Dilmun sent 120 minas (pounds) of copper—just the same amount sent by Baranamtara to the queen of Adab, in fact—along with some more personal gifts, namely fifteen baskets of dates and three linen garments.21 Dilmun was famous for its delicious dates, and no doubt linen garments would have been a delightful change from the hotter woolen clothes that were the norm in Mesopotamia.” ([Podany, 2022, p. 96](zotero://select/library/items/AL4GHXLW))

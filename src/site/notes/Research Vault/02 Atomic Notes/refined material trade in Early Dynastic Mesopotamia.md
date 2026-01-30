@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/refined-material-trade-in-early-dynastic-mesopotamia/"}
+---
+
+
+“Archaeological evidence shows that cities in this period produced artefacts of a very high quality, undoubtedly due to the increased availability of materials through long distance trade. Jewellery, weaponry, refined artefacts to be dedicated as offerings in temples, and musical instruments indicate the increased availability of precious materials and a high level of technical expertise. This expertise clearly reached its peak in Lower Mesopotamia by the Early Dynastic III period. The furniture found in the Royal Cemetery at Ur is the highest example of this development. On the contrary, lower classes produced a much more modest and widespread type of material culture. Administrative texts also provide information on the crafts, their techniques, the terminology of the materials, objects and metal alloys, confirming the supremacy of the palace and the temple in the supervision of these specialised sectors.” ([Liverani, 2014, p. 105](zotero://select/library/items/LX5B2JDD)) ([pdf](zotero://open-pdf/library/items/B4QW3W57?page=130&annotation=A8G8ER8V))

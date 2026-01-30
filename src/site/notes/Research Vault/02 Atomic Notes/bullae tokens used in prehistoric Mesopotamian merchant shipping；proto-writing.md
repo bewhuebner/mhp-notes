@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/bullae-tokens-used-in-prehistoric-mesopotamian-merchant-shipping-proto-writing/"}
+---
+
+
+[Go to annotation](zotero://open-pdf/library/items/HJ534D2J?page=27&annotation=CKMDVG4Z) “In the ruins of the Stone Cone Temple, archaeologists found some rather prosaic objects that helped provide answers: clay balls, clay tokens, and broken pottery.45 The clay balls, often called bullae, might be unimpressive to look at, but they represented an ingenious way of keeping track of commodities and perhaps people (Fig. 1.3). Suppose someone wanted to record a quantity of bitumen that was being sent to Uruk, and to make sure that all the bitumen arrived, with no theft along the way. The shipper made small clay tokens in a shape that was agreed upon to represent jars of bitumen (the tokens look a little like game and then placed them inside a ball made of clay that had not set hard. He sealed the ball, baked it in the sun, and sent it along with the shipment. When everything arrived, the official in Uruk could count the number of jars in the shipment and check it against the number of tokens. If they matched up, all was well.” (Podany, 2022, p. 28)

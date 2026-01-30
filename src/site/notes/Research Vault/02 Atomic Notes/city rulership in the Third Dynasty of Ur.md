@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/city-rulership-in-the-third-dynasty-of-ur/"}
+---
+
+
+“With the rise of Ur, cities lost their traditional autonomy (which is an entirely different concept from their fluctuating state of independence). They were still ruled by an ensi. Now, however, the title did not designate a local ruler governing on behalf of the local city-god. The ensi became a governor, appointed by Ur and acting on behalf of the king of Ur (Figure 9.1). In this regard, it is rather unsurprising that, among the many Akkadian innovations in kingship ideology, Ur-Nammu and his successors continued the tradition of deifying the ruling king. However, the king was not seen as a hero, like in the Akkadian period, but as a central cultic and administrative figure. The deified kings of Ur consequently replaced the city-gods as ultimate heads of the land. They therefore controlled the entire production and redistributive system, whose management was inevitably delegated to the local ensi.” ([Liverani, 2014, p. 157](zotero://select/library/items/LX5B2JDD)) ([pdf](zotero://open-pdf/library/items/B4QW3W57?page=182&annotation=JL855NJB))

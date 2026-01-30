@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/standard-measurement-systems-increased-the-need-for-record-keeping/"}
+---
+
+
+“The development of systems of numeration and measurement brought about a concrete need to guarantee and record transactions correctly. The great organisations of the first phase of urbanisation rose to prominence without writing. The latter was developed relatively quickly as a response to these institutions’ needs. The creation of a writing system therefore constituted the peak of a long process of labour specialisation and the depersonalisation of work relations and remuneration. Moreover, writing allowed a further move towards new forms of political and economic organisation. These were inaccessible to communities that, despite having experienced processes of labour specialisation, urbanisation and early state-formation, had not yet developed this fundamental instrument.” ([Liverani, 2014, p. 73](zotero://select/library/items/LX5B2JDD)) ([pdf](zotero://open-pdf/library/items/B4QW3W57?page=98&annotation=N948BNA8))

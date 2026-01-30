@@ -58,7 +58,7 @@ process status: #linked 
 
 ### bow v. stern of boats on the Gebel el-Arak knife
 
-“In regard to vessels, Bruce Williams and Thomas Logan contend that Bénédite reversed the bow and stern of the two vessels in the third register, and cite as a parallel  a              boat relief on the handle of a knife in the Metropolitan Museum of Art that displays the same arrangement of a pole attached by three ties to one extremity of a vessel  (fig. 37). On this relief we see a man sitting with his back to this pole—and he is grasping a steering oar. As the steering oar is always located in the stern of a boat, the end of the boat on the Gebel el Arak knife at which Bénédite locates the "mast" should therefore be the stern.” ([Mark, 1998, p. 73](zotero://select/library/items/KAD9XH5N)) ([pdf](zotero://open-pdf/library/items/UV7SU7ME?page=82&annotation=MZLX4KD6))
+“In regard to vessels, Bruce Williams and Thomas Logan contend that Bénédite reversed the bow and stern of the two vessels in the third register, and cite as a parallel a boat relief on the handle of a knife in the Metropolitan Museum of Art that displays the same arrangement of a pole attached by three ties to one extremity of a vessel  (fig. 37). On this relief we see a man sitting with his back to this pole—and he is grasping a steering oar. As the steering oar is always located in the stern of a boat, the end of the boat on the Gebel el Arak knife at which Bénédite locates the "mast" should therefore be the stern.” ([Mark, 1998, p. 73](zotero://select/library/items/KAD9XH5N)) ([pdf](zotero://open-pdf/library/items/UV7SU7ME?page=82&annotation=MZLX4KD6))
 
 ### stabilizing poles on reed boats in Egypt
 

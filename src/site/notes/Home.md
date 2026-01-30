@@ -14,26 +14,27 @@ Thanks for your continued support and listenership!
 
 # Episodes Transcripts
 
-| cover                                                                                         | File                                                                                                                                                                     |
-| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![](\-)                                                                                       | [[Maritime History Podcast/02 Episodes/Series 1 - The Bronze Age/003 - Predynastic Boating in Egypt's Desert\|003 - Predynastic Boating in Egypt's Desert]]           |
-| ![](https://res.cloudinary.com/ducqxvol0/image/upload/v1694658433/001_Final_Cover_yiabon.png) | [[Maritime History Podcast/02 Episodes/Series 1 - The Bronze Age/001 - A Maritime Prehistory of the Mediterranean\|001 - A Maritime Prehistory of the Mediterranean]] |
-| ![](https://res.cloudinary.com/ducqxvol0/image/upload/v1694658376/002_Final_Cover_r10lra.png) | [[Maritime History Podcast/02 Episodes/Series 1 - The Bronze Age/002 - Boating in Ancient Mesopotamia\|002 - Boating in Ancient Mesopotamia]]                         |
+| cover                                                                                                     | File                                                                                                                                                                     |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![](\-)                                                                                                   | [[Maritime History Podcast/02 Episodes/Series 1 - The Bronze Age/004 - Old Kingdom Egypt Sails the Nile\|004 - Old Kingdom Egypt Sails the Nile]]                     |
+| ![](https://res.cloudinary.com/ducqxvol0/image/upload/v1707088695/Covers/003_Final_Cover_nid1on.png)      | [[Maritime History Podcast/02 Episodes/Series 1 - The Bronze Age/003 - Predynastic Boating in Egypt's Desert\|003 - Predynastic Boating in Egypt's Desert]]           |
+| ![](https://res.cloudinary.com/ducqxvol0/image/upload/v1706660910/002_bp1n1j.png)                         | [[Maritime History Podcast/02 Episodes/Series 1 - The Bronze Age/002 - Boating in Ancient Mesopotamia\|002 - Boating in Ancient Mesopotamia]]                         |
+| ![](https://res.cloudinary.com/ducqxvol0/image/upload/v1707015054/Covers/001_Final_Cover_site_ukkfix.png) | [[Maritime History Podcast/02 Episodes/Series 1 - The Bronze Age/001 - A Maritime Prehistory of the Mediterranean\|001 - A Maritime Prehistory of the Mediterranean]] |
 
 { .block-language-dataview}
 
 # Recently Updated Books
 
-| cover                                                             | author              | link(file.link, aliases)                                                                                                                                                                            |
-| ----------------------------------------------------------------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://m.media-amazon.com/images/I/51KxuKtrkGL.jpg)          | Mark, Samuel        | <ul><li>[[Research Vault/01 Sources/01.01 Books/@MarkEgyptToMesopotamia1998.md\\|From Egypt to Mesopotamia: A Study of Predynastic Trade Routes]]</li></ul>                                         |
-| ![](https://m.media-amazon.com/images/I/61g9Jws4k9L._SL1500_.jpg) | Wilkinson, Toby     | [[Research Vault/01 Sources/01.01 Books/@WilkinsonRiseFallAncient2010\|The Rise and Fall of Ancient Egypt]]                                                                                      |
-| ![](https://m.media-amazon.com/images/I/91Id2S35ZwL._SL1500_.jpg) | Paine, Lincoln      | <ul><li>[[Research Vault/01 Sources/01.01 Books/@PaineSeaCivilizationMaritime2013.md\\|The Sea and Civilization: A Maritime History of the World]]</li></ul>                                        |
-| ![](https://m.media-amazon.com/images/I/51pCfd9PwxL.jpg)          | Morris, Ellen       | [[Unprocessed Zot Notes/@MorrisAncientEgyptianImperialism2018\|Ancient Egyptian Imperialism]]                                                                                                    |
-| ![](https://m.media-amazon.com/images/I/81ZQWb8CFnL._SL1360_.jpg) | Kramer, Samuel Noah | <ul><li>[[Research Vault/01 Sources/01.01 Books/@KramerSumerianstheirhistory1963.md\\|The Sumerians: Their History, Culture, and Character]]</li></ul>                                              |
-| ![](https://m.media-amazon.com/images/I/71VcN6Vsl-L._SL1500_.jpg) | Broodbank, Cyprian  | [[Research Vault/01 Sources/01.01 Books/@BroodbankMakingMiddleSea2013\|The Making of the Middle Sea: A History of the Mediterranean from the Beginning to the Emergence of the Classical World]] |
-| ![](https://m.media-amazon.com/images/I/41PeNSKkrVL.jpg)          | Braudel, Fernand    | [[Research Vault/01 Sources/01.01 Books/@BraudelMemoryMediterranean2001\|Memory and the Mediterranean]]                                                                                          |
-| ![](https://m.media-amazon.com/images/I/71S5BYlijQL._SL1360_.jpg) | Bertman, Stephen    | [[Research Vault/01 Sources/01.01 Books/@BertmanHandbooklifeancient2003\|Handbook to Life in Ancient Mesopotamia]]                                                                               |
+| cover                                                             | author                            | link(file.link, aliases)                                                                                                                                                    |
+| ----------------------------------------------------------------- | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://m.media-amazon.com/images/I/61VekmQ9qlL._SL1500_.jpg) | Podany, Amanda                    | <ul><li>[[Research Vault/01 Sources/01.01 Books/@PodanyWeaversScribesKings2022.md\\|Weavers, Scribes, and Kings: A New History of the Ancient Near East]]</li></ul>         |
+| ![](https://m.media-amazon.com/images/I/71bTsnnCCuL._SL1162_.jpg) | <ul><li>Liverani, Mario</li></ul> | <ul><li>[[Research Vault/01 Sources/01.01 Books/@liveraniAncientEastHistory2014.md\\|The Ancient Near East: History, Society, and Economy]]</li></ul>                       |
+| ![](https://m.media-amazon.com/images/I/81xuXCB85LS._SL1453_.jpg) | Tallet, Pierre                    | <ul><li>[[Research Vault/01 Sources/01.01 Books/@Lehner&TalletRedSeaScrolls2022.md\\|The Red Sea Scrolls: How Ancient Papyri Reveal the Secrets of the Pyramids]]</li></ul> |
+| ![](https://m.media-amazon.com/images/I/61D+7nFkRZL._SL1500_.jpg) | Abulafia, David                   | [[Research Vault/01 Sources/01.01 Books/@AbulafiaGreatSeaHuman2013\|The Great Sea: A Human History of the Mediterranean]]                                                |
+| ![](https://m.media-amazon.com/images/I/51KxuKtrkGL.jpg)          | Mark, Samuel                      | <ul><li>[[Research Vault/01 Sources/01.01 Books/@MarkEgyptToMesopotamia1998.md\\|From Egypt to Mesopotamia: A Study of Predynastic Trade Routes]]</li></ul>                 |
+| ![](https://m.media-amazon.com/images/I/61g9Jws4k9L._SL1500_.jpg) | Wilkinson, Toby                   | [[Research Vault/01 Sources/01.01 Books/@WilkinsonRiseFallAncient2010\|The Rise and Fall of Ancient Egypt]]                                                              |
+| ![](https://m.media-amazon.com/images/I/91Id2S35ZwL._SL1500_.jpg) | Paine, Lincoln                    | <ul><li>[[Research Vault/01 Sources/01.01 Books/@PaineSeaCivilizationMaritime2013.md\\|The Sea and Civilization: A Maritime History of the World]]</li></ul>                |
+| ![](https://m.media-amazon.com/images/I/51pCfd9PwxL.jpg)          | Morris, Ellen                     | [[Unprocessed Zot Notes/@MorrisAncientEgyptianImperialism2018\|Ancient Egyptian Imperialism]]                                                                            |
 
 { .block-language-dataview}
 
@@ -54,19 +55,19 @@ Thanks for your continued support and listenership!
 
 # Recently Added Notes
 
-| File                                                                                                                                                                                                                                                                   |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Research Vault/02 Atomic Notes/description of Painted Tomb 100\|description of Painted Tomb 100]]                                                                                                                                                                 |
-| [[Research Vault/02 Atomic Notes/Possibility that Tomb 100 “black boat” was originally “normal” and then updated later\|Possibility that Tomb 100 “black boat” was originally “normal” and then updated later]]                                                     |
-| [[Research Vault/02 Atomic Notes/Predynastic Egyptian terms and myths involve reed boats used by the sun-god\|Predynastic Egyptian terms and myths involve reed boats used by the sun-god]]                                                                         |
-| [[Research Vault/02 Atomic Notes/low likelihood of Red Sea route connecting Levant to Egypt\|low likelihood of Red Sea route connecting Levant to Egypt]]                                                                                                           |
-| [[Research Vault/02 Atomic Notes/an argument that Tomb 100 does not have direct ties to Mesopotamia\|an argument that Tomb 100 does not have direct ties to Mesopotamia]]                                                                                           |
-| [[Research Vault/02 Atomic Notes/durability of lapis lazuli makes it a good indicator of trade activity\|durability of lapis lazuli makes it a good indicator of trade activity]]                                                                                   |
-| [[Research Vault/02 Atomic Notes/lapis lazuli could only have come to Egypt via Mesopotamia\|lapis lazuli could only have come to Egypt via Mesopotamia]]                                                                                                           |
-| [[Research Vault/02 Atomic Notes/there are two possible sea routes from the Levant to Egypt\|there are two possible sea routes from the Levant to Egypt]]                                                                                                           |
-| [[Research Vault/02 Atomic Notes/Uluburun wreck highlights the volume of goods that one ship could carry\|Uluburun wreck highlights the volume of goods that one ship could carry]]                                                                                 |
-| [[Research Vault/02 Atomic Notes/a high-level summary of boat-building and the place of watercraft in ancient Egypt's history\|a high-level summary of boat-building and the place of watercraft in ancient Egypt's history]]                                       |
-| [[Research Vault/02 Atomic Notes/the repurposed planks from Lisht give us insight into how freight ships were constructed to carry heavier loads\|the repurposed planks from Lisht give us insight into how freight ships were constructed to carry heavier loads]] |
-| [[Research Vault/02 Atomic Notes/discussion of Egyptian ship-building technique v. Mediterranean technique\|discussion of Egyptian ship-building technique v. Mediterranean technique]]                                                                             |
+| File                                                                                                                                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Research Vault/02 Atomic Notes/trade via entrepots with Magan, Meluhha, and Dilmun in Ur III\|trade via entrepots with Magan, Meluhha, and Dilmun in Ur III]]                 |
+| [[Research Vault/02 Atomic Notes/royal hymns and propaganda in Ur III\|royal hymns and propaganda in Ur III]]                                                                   |
+| [[Research Vault/02 Atomic Notes/Mesopotamian merchats in Ur III\|Mesopotamian merchats in Ur III]]                                                                             |
+| [[Research Vault/02 Atomic Notes/city rulership in the Third Dynasty of Ur\|city rulership in the Third Dynasty of Ur]]                                                         |
+| [[Research Vault/02 Atomic Notes/Gudea inscription\|Gudea inscription]]                                                                                                         |
+| [[Research Vault/02 Atomic Notes/the buildings of Gudea\|the buildings of Gudea]]                                                                                               |
+| [[Research Vault/02 Atomic Notes/Transition to the Third Dynasty of Ur\|Transition to the Third Dynasty of Ur]]                                                                 |
+| [[Research Vault/02 Atomic Notes/Gutian Interlude\|Gutian Interlude]]                                                                                                           |
+| [[Research Vault/02 Atomic Notes/Inscriptions of Sargon of Akkad\|Inscriptions of Sargon of Akkad]]                                                                             |
+| [[Research Vault/02 Atomic Notes/Dilmun, Magan, and Meluhha during Akkadian rule\|Dilmun, Magan, and Meluhha during Akkadian rule]]                                             |
+| [[Research Vault/02 Atomic Notes/Akkadian seizure of commercial networks likely caused their weakening\|Akkadian seizure of commercial networks likely caused their weakening]] |
+| [[Research Vault/02 Atomic Notes/Akkadian Empire v. contemporary Egypt\|Akkadian Empire v. contemporary Egypt]]                                                                 |
 
 { .block-language-dataview}

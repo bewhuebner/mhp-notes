@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/agricultural-productivity-undergirding-urban-revolution/"}
+---
+
+
+"It is clear that the increase in agricultural productivity was the most influential prerequisite guaranteeing food surplus. Only the latter allowed the establishment of redistributive centres and the maintenance of full-time specialised workers. The most noticeable change was undoubtedly the demographic and urban one. However, the organisational change remains the most substantial one. The origin of the city marked the origin of the State and of socio-economic stratification.It therefore marks the beginning of history. This is not just because the development of writing provides us with clearer and more detailed sources of information. For the first time, more complex types of human interaction began to develop within the community (such as social stratification, the development of political leadership and the socio-political role of ideologies) and between communities. The latter were now structured on a larger scale (city-states and regional States) and equipped with specific strategies and rivalries to access resources and secure territorial control." ([Liverani, 2014, p. 61](zotero://select/library/items/LX5B2JDD)) 
+
+“Therefore, the complex constituted by the palace or temple and the presence of specialised buildings and residences for the personnel (such as religious officials, merchants, craftsmen, guards) represent that ‘public’ sector that prevailed in urban societies. However, this sector was entirely absent on a village a village level. ” ([Liverani, 2014, p. 63](zotero://select/library/items/LX5B2JDD)) ([pdf](zotero://open-pdf/library/items/B4QW3W57?page=88&annotation=3NT4L3FC))

@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/invention-and-use-of-cylinder-seals/"}
+---
+
+
+[Go to annotation](zotero://open-pdf/library/items/HJ534D2J?page=28&annotation=5WM33YF3) “The shipping agent could ensure against such tampering by rolling his cylinder seal across the surface of the original bulla. As long as the receiving agent in Uruk recognized the seal impression, he could be sure that the shipment had arrived intact.”
+
+[Go to annotation](zotero://open-pdf/library/items/HJ534D2J?page=31&annotation=EFH5LLRN) “With surprising naturalism (especially given the tiny scale of the seals), the artisans who made them revealed quotidian details, such as scenes of animals grazing in pastures, and people farming, irrigating their fields, fishing, and weaving.60 The choice of design may not have been arbitrary; it may have reflected the office or person for whom the seal was made.61 So, for example, a number of seals show women lined up together, weaving on looms, apparently working in some kind of a textile workshop.62 The owner of this seal might have been the supervisor of such a workshop. In later eras, inscriptions on the seals identified the owners, but in this era, before writing, it makes sense that the figures and activities depicted were expected to do the same thing. If so, the seals could represent a form of recorded communication.” ([Podany, 2022, p. 31](zotero://select/library/items/AL4GHXLW))

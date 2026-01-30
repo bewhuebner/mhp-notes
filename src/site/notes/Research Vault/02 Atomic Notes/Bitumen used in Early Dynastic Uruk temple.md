@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/bitumen-used-in-early-dynastic-uruk-temple/"}
+---
+
+
+[Go to annotation](zotero://open-pdf/library/items/HJ534D2J?page=23&annotation=4RMHVC5H) “The floors of the whole temple were waterproofed with imported bitumen. In the long central room, the bitumen was, in turn, coated with a waterproof lime plaster, and a channel crossed its floor diagonally to allow water to flow.27 In fact, everything about the Stone Cone Temple was designed to be waterproof—even the stone cones themselves would not have been affected by long exposure to water.28 So perhaps water was not confined to the pool; it could have covered the floor and flowed from the doors into the courtyard during some rites or festivals.29 Unlike clay cones, stone ones would not have eroded in water, and the concrete walls would have fared much better than mudbrick.” ([Podany, 2022, p. 23](zotero://select/library/items/AL4GHXLW))
+
+[Go to annotation](zotero://open-pdf/library/items/HJ534D2J?page=25&annotation=B9F6F4CI) “The source for the bitumen was about 400 kilometers (250 miles) north of Uruk on the Euphrates,41 and the colored stones for the decorative cones and the long timbers necessary for roofing the interior spaces had to travel much farther, all the way from the mountains far to the north.42 The bitumen and stone would have been transported on boats, and the” ([Podany, 2022, p. 25](zotero://select/library/items/AL4GHXLW))

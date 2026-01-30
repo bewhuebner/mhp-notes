@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/growth-of-settlements-in-neolithic-mesopotamia/"}
+---
+
+
+“Nonetheless, the phase between 8000 and 7000 bc can be considered fully Neolithic. Sedentary village communities began to have between 250 and 500 inhabitants, rectangular mud-brick houses, and an economy based on agriculture and the farming of sheep, goats and pigs (and cattle by the end of the period). These kinds of groups are mostly found in the Pre-Pottery Neolithic B in Syria (Mureibet, Buqras), Palestine (Jericho, ‘Ain Ghazal), the Taurus foothills (Çayönü, Cafer Hüyük, Nevali Çori), Kurdistan (Jarmo), Luristan (Tepe Guran) and Khuzistan (Ali Kosh).” ([Liverani, 2014, p. 38](zotero://select/library/items/LX5B2JDD)) ([pdf](zotero://open-pdf/library/items/B4QW3W57?page=63&annotation=KDA8RG9Z))
+
+“From a social point of view, the introduction of a rectangular plan for households is an important change. While the circular plan, which could not be easily enlarged, indicated a family structure that could not be expanded, the rectangular plan allowed the construction of extensions to the main plan. This allowed the development of a series of interlinked buildings surrounding a courtyard, or of more complex plans (see Can Hasan III in Anatolia and Buqras in the Middle Euphrates), or even larger buildings with stone foundations (see Çayönü).” ([Liverani, 2014, p. 38](zotero://select/library/items/LX5B2JDD)) ([pdf](zotero://open-pdf/library/items/B4QW3W57?page=63&annotation=KHBC29Q5))

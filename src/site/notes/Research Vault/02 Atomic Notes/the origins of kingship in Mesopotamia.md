@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/research-vault/02-atomic-notes/the-origins-of-kingship-in-mesopotamia/"}
+---
+
+
+[Go to annotation](zotero://open-pdf/library/items/HJ534D2J?page=74&annotation=24R9CEZP) “The origins of kingship are unclear but, once invented, monarchy clung on tenaciously. Perhaps it seemed natural in Mesopotamia because the population had become accustomed to priest-kings running things during the earlier Uruk period. Having a powerful man in charge was not new. Perhaps kings were accepted by their subjects because they gradually began to claim that the gods had chosen them for their role (though Ur-Nanshe did not mention this; it seems to have been a concept that developed after his reign). Perhaps it was because kings got their start as military leaders and presumably had the loyalty of their troops.And perhaps it was because the role of king became hereditary, like just about every other job in Sumer.The chosen crown prince got plenty of training so that he could take over his father’s position smoothly.Whatever the reason or reasons, the Mesopotamians embraced monarchy and came to believe that the gods had given it to them as the ideal form of government. Who were they to question the gods?” ([Podany, 2022, p. 74](zotero://select/library/items/AL4GHXLW))
